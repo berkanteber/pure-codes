@@ -15,10 +15,10 @@ wpref(b, b, 1; b, a, 2).
 
 % DEFINE
 
-% M1 prefers F2 to F1.
+% M prefers DF to CF.
 mprefer(M, DF, CF) :- mpref(M, CF, CUR), mpref(M, DF, DEV), DEV < CUR.
 
-% F2 prefers M2 to M1.
+% F prefers DM to CM.
 wprefer(F, DM, CM) :- wpref(F, CM, CUR), wpref(F, DM, DEV),  DEV < CUR.
 
 % TEST
