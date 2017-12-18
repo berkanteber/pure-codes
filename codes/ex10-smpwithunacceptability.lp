@@ -12,15 +12,15 @@ wpref(c, a, 1; c, b, 2).
 
 % GENERATE
 
-{msingle(M) : man(M)} < 3.
-:- man(M), woman(F), msingle(M), pair(M, F).
-
-{wsingle(F) : woman(F)} < 3.
-:- man(M), woman(F), wsingle(F), pair(M, F).
+{msingle(M)} :- man(M).
+{wsingle(F)} :- woman(F).
 
 {pair(M, F) : woman(F)} = 1 :- man(M), not msingle(M).
-:- {pair(M, F) : man(M)} != 1, woman(F), not wsingle(F).
-:- {pair(M, F) : man(M)} != 0, woman(F), wsingle(F).
+:- {pair(M, F) : man(M)} > 1, woman(F).
+
+marriedwoman(F) :- man(M), woman(F), pair(M, F).
+:- marriedwoman(F), wsingle(F), woman(F).
+:- not wsingle(F), not marriedwoman(F), woman(F).
 
 % DEFINE
 
