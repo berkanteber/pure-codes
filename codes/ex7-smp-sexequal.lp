@@ -30,11 +30,13 @@ wprefer(F, DM, CM) :- wpref(F, CM, CUR), wpref(F, DM, DEV),  DEV < CUR.
 mrank(M, R) :- pair(M, F), mpref(M, F, R).
 wrank(F, R) :- pair(M, F), wpref(F, M, R).
 
+mtot(T) :- T = #sum{R, M: mrank(M, R)}.
+wtot(T) :- T = #sum{R, F: wrank(F, R)}.
+
 :~ mtot(M), wtot(F). [|M-F|]
 
 % SHOW
 
 #show pair/2.
-
 #show mtot/1.
 #show wtot/1.

@@ -1,14 +1,24 @@
 % INPUT
-man(a; b; c).
-woman(a; b; c).
+man(a; b; c; d; e; f; g; h).
+woman(a; b; c; d; e).
 
-mpref(a, a, 1; a, b, 2; a, c, 3).
-mpref(b, a, 1; b, b, 2; b, c, 3).
-mpref(c, a, 1; c, b, 2; c, c, 3).
+mpref(a, a, 1; a, b, 2; a, c, 2; a, d, 4; a, e, 4).
+mpref(b, a, 1; b, b, 2; b, c, 2; b, d, 4; b, e, 4).
+mpref(c, a, 1; c, b, 2; c, c, 2; c, d, 4; c, e, 4).
+mpref(d, a, 1; d, b, 2; d, c, 3; d, d, 3; d, e, 3).
+mpref(e, a, 1; e, b, 2; e, c, 3; e, d, 3; e, e, 3).
+mpref(f, a, 1; f, b, 2; f, c, 3; f, d, 3; f, e, 3).
+mpref(g, a, 1; g, b, 2; g, c, 3; g, d, 3; g, e, 3).
+mpref(h, a, 1; h, b, 2; h, c, 3; h, d, 3; h, e, 3).
 
-wpref(a, a, 1; a, b, 2).
-wpref(b, a, 1).
-wpref(c, a, 1; c, b, 2).
+wpref(a, a, 1; a, b, 2; a, c, 3; a, d, 3; a, e, 5; a, f, 5; a, g, 7; a, h, 8).
+wpref(b, a, 1; b, b, 2).
+wpref(c, b, 1; c, a, 2).
+wpref(d, a, 1; d, b, 2; d, c, 3; d, d, 4).
+wpref(e, a, 4; e, b, 3; e, c, 2, d, d, 1).
+
+mpunishment(-1).
+wpunishment(-1).
 
 % GENERATE
 
@@ -60,8 +70,34 @@ wprefer(F, DM, CM) :- wpref(F, CM, CUR), wpref(F, DM, DEV),  DEV < CUR.
 % m-f -- f deviates to single
 :- man(M), woman(F), pair(M, F), not w2single(F, M).
 
+% OPTIMIZATION
+
+% single rank, given punishment
+
+mrank(M, P) :- mpunishment(P), P != -1, man(M), msingle(M).
+wrank(F, P) :- wpunishment(P), P != -1, woman(F), wsingle(F).
+
+% single rank, not given punishment
+
+mrank(M, C+1) :- C = #count{F : mpref(M, F, R)}, man(M), msingle(M), mpunishment(P), P = -1.
+wrank(F, C+1) :- C = #count{M : wpref(F, M, R)}, woman(F), wsingle(F), wpunishment(P), P = -1.
+
+% pair rank
+
+mrank(M, R) :- pair(M, F), mpref(M, F, R).
+wrank(F, R) :- pair(M, F), wpref(F, M, R).
+
+% total rank
+
+mtot(T) :- T = #sum{R, M: mrank(M, R)}.
+wtot(T) :- T = #sum{R, F: wrank(F, R)}.
+
+% weak constraint
+
+:~ mtot(M), wtot(F). [|M-F|]
+
 % SHOW
 
 #show pair/2.
-#show msingle/1.
-#show wsingle/1.
+#show mtot/1.
+#show wtot/1.
