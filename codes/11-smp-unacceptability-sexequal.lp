@@ -17,9 +17,6 @@ wpref(c, b, 1; c, a, 2).
 wpref(d, a, 1; d, b, 2; d, c, 3; d, d, 4).
 wpref(e, a, 4; e, b, 3; e, c, 2, d, d, 1).
 
-mpunishment(-1).
-wpunishment(-1).
-
 % GENERATE
 
 {msingle(M)} :- man(M).
@@ -71,16 +68,6 @@ wprefer(F, DM, CM) :- wpref(F, CM, CUR), wpref(F, DM, DEV),  DEV < CUR.
 :- man(M), woman(F), pair(M, F), not w2single(F, M).
 
 % OPTIMIZATION
-
-% single rank, given punishment
-
-mrank(M, P) :- mpunishment(P), P != -1, man(M), msingle(M).
-wrank(F, P) :- wpunishment(P), P != -1, woman(F), wsingle(F).
-
-% single rank, not given punishment
-
-mrank(M, C+1) :- C = #count{F : mpref(M, F, R)}, man(M), msingle(M), mpunishment(P), P = -1.
-wrank(F, C+1) :- C = #count{M : wpref(F, M, R)}, woman(F), wsingle(F), wpunishment(P), P = -1.
 
 % pair rank
 
