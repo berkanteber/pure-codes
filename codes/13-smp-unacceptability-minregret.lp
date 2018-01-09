@@ -76,6 +76,11 @@ wrank(F, R) :- pair(M, F), wpref(F, M, R).
 
 % total rank
 
+% ranked(R) :- man(M), mrank(M, R).
+% ranked(R) :- woman(F), wrank(F, R).
+
+% maxregret(T) :- ranked(T), not ranked(S), S > T.
+
 regret(man, T) :- T = #max{R, M: mrank(M, R)}.
 regret(woman, T) :- T = #max{R, F: wrank(F, R)}.
 
