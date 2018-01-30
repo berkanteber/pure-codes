@@ -69,8 +69,6 @@ wprefer(F, DM, CM) :- wpref(F, CM, CUR), wpref(F, DM, DEV),  DEV < CUR.
 
 % OPTIMIZATION
 
-% maxregret(T) :- ranked(T), not ranked(S), S > T.
-
 singlecount(man, T) :- T = #count{M: msingle(M)}.
 singlecount(woman, T) :- T = #count{F: wsingle(F)}.
 
@@ -83,5 +81,4 @@ singlecount(total, M+F) :- singlecount(man, M), singlecount(woman, F).
 % SHOW
 
 #show pair/2.
-#show regret/2.
-#show maxregret/1.
+#show singlecount/2.
