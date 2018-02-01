@@ -82,3 +82,25 @@ singlecount(total, M+F) :- singlecount(man, M), singlecount(woman, F).
 
 #show pair/2.
 #show singlecount/2.
+
+%***************************************************************
+
+% ANOTHER METHOD FOR COUNTING
+
+% let numbers be from 1 to 20
+number(1..20).
+% select a number
+{select(X) : number(X)} = 1.
+
+% take all the numbers from 1 to selected number
+selected(X) :- number(X), select(Y), X <= Y.
+% assign a unique number to each single man
+{mcount(M, X): selected(X)} = 1 :- msingle(M).
+:- {mcount(M, X) : msingle(M)} > 1, selected(X).
+
+% then the count of all single men will be the selected number
+mcountfinal(X) :- select(X).
+
+#show mcountfinal/1.
+
+***************************************************************%
