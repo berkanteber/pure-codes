@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...iles/m-20-w-20--m-0.5-w-0.75--input.lp ...
+Solving...
+Answer: 1
+pair(1,5) pair(2,14) pair(3,7) pair(4,20) pair(5,9) pair(6,12) pair(7,15) pair(8,13) pair(9,1) pair(10,6) pair(11,18) pair(12,17) pair(13,11) pair(14,10) pair(15,19) pair(16,4) pair(17,16) pair(18,2) pair(19,3) pair(20,8) mtot(64) wtot(126) ttot(62)
+Optimization: 62
+Answer: 2
+pair(1,5) pair(2,14) pair(3,7) pair(4,20) pair(5,9) pair(6,12) pair(7,15) pair(8,13) pair(9,1) pair(10,6) pair(11,8) pair(12,17) pair(13,11) pair(14,19) pair(15,18) pair(16,4) pair(17,16) pair(18,2) pair(19,3) pair(20,10) mtot(74) wtot(107) ttot(33)
+Optimization: 33
+Answer: 3
+pair(1,5) pair(2,14) pair(3,13) pair(4,20) pair(5,9) pair(6,12) pair(7,15) pair(8,1) pair(9,7) pair(10,6) pair(11,8) pair(12,17) pair(13,11) pair(14,19) pair(15,18) pair(16,4) pair(17,16) pair(18,2) pair(19,3) pair(20,10) mtot(89) wtot(98) ttot(9)
+Optimization: 9
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 9
+Calls        : 1
+Time         : 25.140s (Solving: 4.25s 1st Model: 3.56s Unsat: 0.12s)
+CPU Time     : 25.130s
+
+Choices      : 620     
+Conflicts    : 241      (Analyzed: 240)
+Restarts     : 1        (Average: 240.00 Last: 133)
+Model-Level  : 5.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 240      (Deleted: 0)
+  Binary     : 24       (Ratio:  10.00%)
+  Ternary    : 17       (Ratio:   7.08%)
+  Conflict   : 240      (Average Length:    7.5 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 24499   
+Rules        : 3771266  (1: 3761609/3763091 2: 64/40 3: 60/60 5: 8074/8074 6: 1/1)
+Bodies       : 3737478 
+Equivalences : 36574    (Atom=Atom: 10134 Body=Body: 2938 Other: 23502)
+Tight        : Yes
+Variables    : 1644586  (Eliminated:    0 Frozen: 4219)
+Constraints  : 6568634  (Binary: 75.0% Ternary: 25.0% Other:  0.1%)
+

@@ -1,0 +1,16 @@
+file:  m-20-w-20--m-0.25-w-0.25--input.lp       man:  0.29750  woman:  0.26250
+file:  m-20-w-20--m-0.25-w-0.5--input.lp        man:  0.32000  woman:  0.56250
+file:  m-20-w-20--m-0.25-w-0.75--input.lp       man:  0.30500  woman:  0.80250
+file:  m-20-w-20--m-0.25-w-1--input.lp          man:  0.31500  woman:  1.00000
+file:  m-20-w-20--m-0.5-w-0.25--input.lp        man:  0.56000  woman:  0.32000
+file:  m-20-w-20--m-0.5-w-0.5--input.lp         man:  0.55500  woman:  0.53000
+file:  m-20-w-20--m-0.5-w-0.75--input.lp        man:  0.56750  woman:  0.78500
+file:  m-20-w-20--m-0.5-w-1--input.lp           man:  0.55000  woman:  1.00000
+file:  m-20-w-20--m-0.75-w-0.25--input.lp       man:  0.79250  woman:  0.29750
+file:  m-20-w-20--m-0.75-w-0.5--input.lp        man:  0.80750  woman:  0.56250
+file:  m-20-w-20--m-0.75-w-0.75--input.lp       man:  0.81500  woman:  0.81000
+file:  m-20-w-20--m-0.75-w-1--input.lp          man:  0.82000  woman:  1.00000
+file:  m-20-w-20--m-1-w-0.25--input.lp          man:  1.00000  woman:  0.30250
+file:  m-20-w-20--m-1-w-0.5--input.lp           man:  1.00000  woman:  0.53750
+file:  m-20-w-20--m-1-w-0.75--input.lp          man:  1.00000  woman:  0.78250
+file:  m-20-w-20--m-1-w-1--input.lp             man:  1.00000  woman:  1.00000

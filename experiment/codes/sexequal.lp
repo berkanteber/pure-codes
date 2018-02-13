@@ -13,7 +13,7 @@ ttot(|M-F|) :- mtot(M), wtot(F).
 
 % weak constraint
 
-:~ ttot. [T]
+:~ ttot(T). [T]
 
 % SHOW
 

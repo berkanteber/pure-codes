@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...les/m-20-w-20--m-0.75-w-0.25--input.lp ...
+Solving...
+Answer: 1
+pair(1,20) pair(2,6) pair(3,18) pair(4,12) pair(5,13) pair(6,1) pair(7,8) pair(8,5) pair(9,14) pair(11,17) pair(12,11) pair(13,15) pair(14,2) pair(15,4) pair(16,9) pair(17,16) pair(18,10) pair(19,3) pair(20,19) mtot(106) wtot(41) ttot(65)
+Optimization: 65
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 65
+Calls        : 1
+Time         : 6.137s (Solving: 0.29s 1st Model: 0.19s Unsat: 0.10s)
+CPU Time     : 6.130s
+
+Choices      : 263     
+Conflicts    : 87       (Analyzed: 86)
+Restarts     : 0       
+Model-Level  : 14.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 86       (Deleted: 0)
+  Binary     : 15       (Ratio:  17.44%)
+  Ternary    : 9        (Ratio:  10.47%)
+  Conflict   : 86       (Average Length:    3.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 19670   
+Rules        : 1174122  (1: 1166543/1167815 2: 64/40 3: 60/60 5: 6206/6206 6: 1/1)
+Bodies       : 1158631 
+Equivalences : 18828    (Atom=Atom: 5929 Body=Body: 1270 Other: 11629)
+Tight        : Yes
+Variables    : 250614   (Eliminated:    0 Frozen: 1935)
+Constraints  : 996944   (Binary: 74.9% Ternary: 24.9% Other:  0.2%)
+

@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...s/files/m-20-w-20--m-0.5-w-1--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,0) singlecount(woman,0) singlecount(total,0) pair(8,1) pair(3,2) pair(12,3) pair(9,4) pair(20,5) pair(17,6) pair(11,7) pair(16,8) pair(4,9) pair(6,10) pair(10,11) pair(5,12) pair(1,13) pair(19,14) pair(13,15) pair(14,16) pair(7,17) pair(2,18) pair(15,19) pair(18,20)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 0.105s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.100s
+
+Choices      : 543     
+Conflicts    : 220      (Analyzed: 220)
+Restarts     : 2        (Average: 110.00 Last: 69)
+Model-Level  : 11.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 220      (Deleted: 0)
+  Binary     : 15       (Ratio:   6.82%)
+  Ternary    : 18       (Ratio:   8.18%)
+  Conflict   : 220      (Average Length:    8.2 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 6933    
+Rules        : 58473    (1: 57820/58300 2: 136/112 3: 60/60 6: 1/1)
+Bodies       : 15181   
+Equivalences : 13017    (Atom=Atom: 6268 Body=Body: 38 Other: 6711)
+Tight        : Yes
+Variables    : 900      (Eliminated:    0 Frozen:  356)
+Constraints  : 10797    (Binary: 93.9% Ternary:  4.6% Other:  1.5%)
+
