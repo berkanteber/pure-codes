@@ -1,0 +1,32 @@
+clingo version 4.5.4
+Reading from ...les/m-10-w-10--m-60pc-w-60pc--input.lp ...
+Solving...
+Answer: 1
+pair(2,1) pair(5,2) pair(9,3) pair(8,4) pair(10,5) pair(6,7) pair(1,8) pair(4,9) pair(3,10)
+SATISFIABLE
+
+Models       : 1+    
+Calls        : 1
+Time         : 0.012s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.010s
+
+Choices      : 55      
+Conflicts    : 8        (Analyzed: 8)
+Restarts     : 0       
+Model-Level  : 15.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 8        (Deleted: 0)
+  Binary     : 3        (Ratio:  37.50%)
+  Ternary    : 0        (Ratio:   0.00%)
+  Conflict   : 8        (Average Length:    4.0 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 992      (Original: 942 Auxiliary: 50)
+Rules        : 4046     (1: 3786/4006 2: 30/10 3: 30/30)
+Bodies       : 1061    
+Equivalences : 1621     (Atom=Atom: 770 Body=Body: 0 Other: 851)
+Tight        : Yes
+Variables    : 160      (Eliminated:    0 Frozen:   57)
+Constraints  : 949      (Binary: 92.6% Ternary:  4.4% Other:  3.0%)
+

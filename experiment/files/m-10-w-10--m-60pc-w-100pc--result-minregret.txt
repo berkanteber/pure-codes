@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...es/m-10-w-10--m-60pc-w-100pc--input.lp ...
+Solving...
+Answer: 1
+pair(1,7) pair(2,10) pair(3,8) pair(4,5) pair(5,2) pair(6,3) pair(7,6) pair(8,1) pair(9,9) pair(10,4) regret(man,5) regret(woman,10) maxregret(10)
+Optimization: 10
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 10
+Calls        : 1
+Time         : 0.021s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.020s
+
+Choices      : 136     
+Conflicts    : 82       (Analyzed: 81)
+Restarts     : 0       
+Model-Level  : 15.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 81       (Deleted: 0)
+  Binary     : 7        (Ratio:   8.64%)
+  Ternary    : 6        (Ratio:   7.41%)
+  Conflict   : 81       (Average Length:    6.8 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 1511     (Original: 1425 Auxiliary: 86)
+Rules        : 6960     (1: 6627/6919 2: 30/10 3: 30/30 6: 1/1)
+Bodies       : 1837    
+Equivalences : 2767     (Atom=Atom: 1168 Body=Body: 175 Other: 1424)
+Tight        : Yes
+Variables    : 321      (Eliminated:    0 Frozen:   88)
+Constraints  : 3085     (Binary: 93.7% Ternary:  4.0% Other:  2.4%)
+

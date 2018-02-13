@@ -1,0 +1,63 @@
+file:  files/m-10-w-10--m-20pc-w-20pc--input.lp                      man: 0.37   woman: 0.32
+file:  files/m-10-w-10--m-20pc-w-20pc--result.txt                    time: 000000.02 seconds
+file:  files/m-10-w-10--m-20pc-w-20pc--result-sexequal.txt           time: 000000.05 seconds
+file:  files/m-10-w-10--m-20pc-w-20pc--result-egalitarian.txt        time: 000000.04 seconds
+file:  files/m-10-w-10--m-20pc-w-20pc--result-minregret.txt          time: 000000.02 seconds
+file:  files/m-10-w-10--m-20pc-w-20pc--result-maxcardinality.txt     time: 000000.02 seconds
+
+file:  files/m-10-w-10--m-20pc-w-60pc--input.lp                      man: 0.28   woman: 0.71
+file:  files/m-10-w-10--m-20pc-w-60pc--result.txt                    time: 000000.02 seconds
+file:  files/m-10-w-10--m-20pc-w-60pc--result-sexequal.txt           time: 000000.09 seconds
+file:  files/m-10-w-10--m-20pc-w-60pc--result-egalitarian.txt        time: 000000.10 seconds
+file:  files/m-10-w-10--m-20pc-w-60pc--result-minregret.txt          time: 000000.02 seconds
+file:  files/m-10-w-10--m-20pc-w-60pc--result-maxcardinality.txt     time: 000000.02 seconds
+
+file:  files/m-10-w-10--m-20pc-w-100pc--input.lp                     man: 0.35   woman: 1.00
+file:  files/m-10-w-10--m-20pc-w-100pc--result.txt                   time: 000000.02 seconds
+file:  files/m-10-w-10--m-20pc-w-100pc--result-sexequal.txt          time: 000000.29 seconds
+file:  files/m-10-w-10--m-20pc-w-100pc--result-egalitarian.txt       time: 000000.29 seconds
+file:  files/m-10-w-10--m-20pc-w-100pc--result-minregret.txt         time: 000000.02 seconds
+file:  files/m-10-w-10--m-20pc-w-100pc--result-maxcardinality.txt    time: 000000.02 seconds
+
+file:  files/m-10-w-10--m-60pc-w-20pc--input.lp                      man: 0.66   woman: 0.30
+file:  files/m-10-w-10--m-60pc-w-20pc--result.txt                    time: 000000.02 seconds
+file:  files/m-10-w-10--m-60pc-w-20pc--result-sexequal.txt           time: 000000.10 seconds
+file:  files/m-10-w-10--m-60pc-w-20pc--result-egalitarian.txt        time: 000000.09 seconds
+file:  files/m-10-w-10--m-60pc-w-20pc--result-minregret.txt          time: 000000.02 seconds
+file:  files/m-10-w-10--m-60pc-w-20pc--result-maxcardinality.txt     time: 000000.02 seconds
+
+file:  files/m-10-w-10--m-60pc-w-60pc--input.lp                      man: 0.72   woman: 0.73
+file:  files/m-10-w-10--m-60pc-w-60pc--result.txt                    time: 000000.02 seconds
+file:  files/m-10-w-10--m-60pc-w-60pc--result-sexequal.txt           time: 000000.43 seconds
+file:  files/m-10-w-10--m-60pc-w-60pc--result-egalitarian.txt        time: 000000.42 seconds
+file:  files/m-10-w-10--m-60pc-w-60pc--result-minregret.txt          time: 000000.03 seconds
+file:  files/m-10-w-10--m-60pc-w-60pc--result-maxcardinality.txt     time: 000000.02 seconds
+
+file:  files/m-10-w-10--m-60pc-w-100pc--input.lp                     man: 0.68   woman: 1.00
+file:  files/m-10-w-10--m-60pc-w-100pc--result.txt                   time: 000000.02 seconds
+file:  files/m-10-w-10--m-60pc-w-100pc--result-sexequal.txt          time: 000000.85 seconds
+file:  files/m-10-w-10--m-60pc-w-100pc--result-egalitarian.txt       time: 000000.88 seconds
+file:  files/m-10-w-10--m-60pc-w-100pc--result-minregret.txt         time: 000000.03 seconds
+file:  files/m-10-w-10--m-60pc-w-100pc--result-maxcardinality.txt    time: 000000.03 seconds
+
+file:  files/m-10-w-10--m-100pc-w-20pc--input.lp                     man: 1.00   woman: 0.29
+file:  files/m-10-w-10--m-100pc-w-20pc--result.txt                   time: 000000.02 seconds
+file:  files/m-10-w-10--m-100pc-w-20pc--result-sexequal.txt          time: 000000.22 seconds
+file:  files/m-10-w-10--m-100pc-w-20pc--result-egalitarian.txt       time: 000000.22 seconds
+file:  files/m-10-w-10--m-100pc-w-20pc--result-minregret.txt         time: 000000.02 seconds
+file:  files/m-10-w-10--m-100pc-w-20pc--result-maxcardinality.txt    time: 000000.02 seconds
+
+file:  files/m-10-w-10--m-100pc-w-60pc--input.lp                     man: 1.00   woman: 0.69
+file:  files/m-10-w-10--m-100pc-w-60pc--result.txt                   time: 000000.02 seconds
+file:  files/m-10-w-10--m-100pc-w-60pc--result-sexequal.txt          time: 000000.88 seconds
+file:  files/m-10-w-10--m-100pc-w-60pc--result-egalitarian.txt       time: 000000.86 seconds
+file:  files/m-10-w-10--m-100pc-w-60pc--result-minregret.txt         time: 000000.03 seconds
+file:  files/m-10-w-10--m-100pc-w-60pc--result-maxcardinality.txt    time: 000000.03 seconds
+
+file:  files/m-10-w-10--m-100pc-w-100pc--input.lp                    man: 1.00   woman: 1.00
+file:  files/m-10-w-10--m-100pc-w-100pc--result.txt                  time: 000000.03 seconds
+file:  files/m-10-w-10--m-100pc-w-100pc--result-sexequal.txt         time: 000002.36 seconds
+file:  files/m-10-w-10--m-100pc-w-100pc--result-egalitarian.txt      time: 000002.42 seconds
+file:  files/m-10-w-10--m-100pc-w-100pc--result-minregret.txt        time: 000000.04 seconds
+file:  files/m-10-w-10--m-100pc-w-100pc--result-maxcardinality.txt   time: 000000.04 seconds
+
