@@ -2,19 +2,19 @@
 
 % pair rank
 
-mrank(M, R) :- pair(M, F), mpref(M, F, R).
-wrank(F, R) :- pair(M, F), wpref(F, M, R).
+m2rank(M, R) :- marry(M, F), mrank(M, F, R).
+w2rank(F, R) :- marry(M, F), wrank(F, M, R).
 
 % total rank
 
-regret(man, T) :- T = #max{R, M: mrank(M, R)}.
-regret(woman, T) :- T = #max{R, F: wrank(F, R)}.
+regret(man, T) :- T = #max{R, M: m2rank(M, R)}.
+regret(woman, T) :- T = #max{R, F: w2rank(F, R)}.
 
-maxregret(H) :- regret(_, H), regret(_, L), H > L.
+maxregret(T) :- T = #max{R: regret(_, R)}.
 
 % weak constraint
 
-:~ maxregret(R). [R]
+:~ maxregret(R), R > #inf. [R]
 
 % SHOW
 
