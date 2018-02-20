@@ -1,0 +1,29 @@
+clingo version 4.5.4
+Reading from ...-60pc-w-100pc--m-10pc-w-10pc--input.lp ...
+Solving...
+UNSATISFIABLE
+
+Models       : 0     
+Calls        : 1
+Time         : 7.370s (Solving: 0.22s 1st Model: 0.00s Unsat: 0.22s)
+CPU Time     : 7.360s
+
+Choices      : 64      
+Conflicts    : 36       (Analyzed: 35)
+Restarts     : 0       
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 35       (Deleted: 0)
+  Binary     : 6        (Ratio:  17.14%)
+  Ternary    : 3        (Ratio:   8.57%)
+  Conflict   : 35       (Average Length:    4.4 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 16635   
+Rules        : 1196994  (1: 1190737/1191613 2: 54/30 3: 50/50 5: 5300/5300 6: 1/1)
+Bodies       : 1179229 
+Equivalences : 25007    (Atom=Atom: 6660 Body=Body: 2102 Other: 16245)
+Tight        : Yes
+Variables    : 688445   (Eliminated:    0 Frozen: 3823)
+Constraints  : 2744040  (Binary: 74.9% Ternary: 24.9% Other:  0.1%)
+

@@ -1,29 +1,35 @@
 clingo version 4.5.4
 Reading from ...m-60pc-w-100pc--m-10pc-w-0pc--input.lp ...
 Solving...
-UNSATISFIABLE
+Answer: 1
+marry(1,8) marry(2,10) marry(3,6) marry(4,3) marry(5,4) marry(6,1) marry(7,9) marry(8,7) marry(9,5) marry(10,2) mtot(44) wtot(26) ttot(70)
+Optimization: 70
+OPTIMUM FOUND
 
-Models       : 0     
+Models       : 1     
+  Optimum    : yes
+Optimization : 70
 Calls        : 1
-Time         : 2.825s (Solving: 0.12s 1st Model: 0.00s Unsat: 0.12s)
-CPU Time     : 2.800s
+Time         : 0.968s (Solving: 0.15s 1st Model: 0.06s Unsat: 0.10s)
+CPU Time     : 0.960s
 
-Choices      : 52      
-Conflicts    : 24       (Analyzed: 23)
+Choices      : 140     
+Conflicts    : 91       (Analyzed: 90)
 Restarts     : 0       
+Model-Level  : 3.0     
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 23       (Deleted: 0)
-  Binary     : 4        (Ratio:  17.39%)
-  Ternary    : 4        (Ratio:  17.39%)
-  Conflict   : 23       (Average Length:    3.3 Ratio: 100.00%) 
+Lemmas       : 90       (Deleted: 0)
+  Binary     : 11       (Ratio:  12.22%)
+  Ternary    : 14       (Ratio:  15.56%)
+  Conflict   : 90       (Average Length:    5.7 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 5357    
-Rules        : 152542   (1: 150445/150879 2: 34/20 3: 30/30 5: 1612/1612 6: 1/1)
-Bodies       : 147715  
-Equivalences : 8653     (Atom=Atom: 2325 Body=Body: 743 Other: 5585)
+Atoms        : 5510    
+Rules        : 165325   (1: 163178/163618 2: 34/20 3: 30/30 5: 1656/1656 6: 1/1)
+Bodies       : 160081  
+Equivalences : 9347     (Atom=Atom: 2489 Body=Body: 810 Other: 6048)
 Tight        : Yes
-Variables    : 94878    (Eliminated:    0 Frozen: 1296)
-Constraints  : 376125   (Binary: 74.8% Ternary: 24.9% Other:  0.3%)
+Variables    : 112793   (Eliminated:    0 Frozen: 1417)
+Constraints  : 447596   (Binary: 74.8% Ternary: 24.9% Other:  0.3%)
 

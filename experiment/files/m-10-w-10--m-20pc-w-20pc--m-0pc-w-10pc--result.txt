@@ -2,31 +2,31 @@ clingo version 4.5.4
 Reading from ...-m-20pc-w-20pc--m-0pc-w-10pc--input.lp ...
 Solving...
 Answer: 1
-marry(4,1) marry(2,2) marry(7,6) marry(3,9)
+marry(7,4) marry(1,5) marry(6,6) marry(4,7) marry(5,8)
 SATISFIABLE
 
 Models       : 1+    
 Calls        : 1
-Time         : 0.026s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
-CPU Time     : 0.030s
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
 
-Choices      : 4       
-Conflicts    : 1        (Analyzed: 1)
+Choices      : 8       
+Conflicts    : 4        (Analyzed: 4)
 Restarts     : 0       
-Model-Level  : 3.0     
+Model-Level  : 1.0     
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 1        (Deleted: 0)
-  Binary     : 1        (Ratio: 100.00%)
+Lemmas       : 4        (Deleted: 0)
+  Binary     : 0        (Ratio:   0.00%)
   Ternary    : 0        (Ratio:   0.00%)
-  Conflict   : 1        (Average Length:    2.0 Ratio: 100.00%) 
+  Conflict   : 4        (Average Length:    1.0 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 384     
-Rules        : 743      (1: 593/693 2: 30/20 3: 30/30)
-Bodies       : 218     
-Equivalences : 483      (Atom=Atom: 217 Body=Body: 1 Other: 265)
+Atoms        : 360     
+Rules        : 707      (1: 557/657 2: 30/20 3: 30/30)
+Bodies       : 215     
+Equivalences : 450      (Atom=Atom: 198 Body=Body: 3 Other: 249)
 Tight        : Yes
-Variables    : 38       (Eliminated:    0 Frozen:    0)
-Constraints  : 69       (Binary: 84.1% Ternary: 15.9% Other:  0.0%)
+Variables    : 37       (Eliminated:    0 Frozen:    0)
+Constraints  : 67       (Binary: 86.6% Ternary: 13.4% Other:  0.0%)
 

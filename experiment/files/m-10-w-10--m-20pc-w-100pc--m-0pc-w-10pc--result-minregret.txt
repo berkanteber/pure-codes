@@ -1,35 +1,29 @@
 clingo version 4.5.4
 Reading from ...m-20pc-w-100pc--m-0pc-w-10pc--input.lp ...
 Solving...
-Answer: 1
-marry(1,10) marry(3,2) marry(5,4) marry(6,5) marry(7,6) marry(8,9) marry(9,8) marry(10,3) regret(man,2) regret(woman,10) maxregret(10)
-Optimization: 10
-OPTIMUM FOUND
+UNSATISFIABLE
 
-Models       : 1     
-  Optimum    : yes
-Optimization : 10
+Models       : 0     
 Calls        : 1
-Time         : 0.080s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
-CPU Time     : 0.070s
+Time         : 0.013s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.010s
 
-Choices      : 26      
-Conflicts    : 8        (Analyzed: 8)
+Choices      : 11      
+Conflicts    : 7        (Analyzed: 6)
 Restarts     : 0       
-Model-Level  : 7.0     
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 8        (Deleted: 0)
-  Binary     : 2        (Ratio:  25.00%)
-  Ternary    : 3        (Ratio:  37.50%)
-  Conflict   : 8        (Average Length:    2.0 Ratio: 100.00%) 
+Lemmas       : 6        (Deleted: 0)
+  Binary     : 2        (Ratio:  33.33%)
+  Ternary    : 0        (Ratio:   0.00%)
+  Conflict   : 6        (Average Length:    1.8 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 1162     (Original: 1149 Auxiliary: 13)
-Rules        : 3164     (1: 2982/3118 2: 30/15 3: 30/30 6: 1/1)
-Bodies       : 772     
-Equivalences : 1937     (Atom=Atom: 800 Body=Body: 106 Other: 1031)
+Atoms        : 1157     (Original: 1140 Auxiliary: 17)
+Rules        : 2945     (1: 2755/2899 2: 30/15 3: 30/30 6: 1/1)
+Bodies       : 695     
+Equivalences : 1938     (Atom=Atom: 810 Body=Body: 101 Other: 1027)
 Tight        : Yes
-Variables    : 207      (Eliminated:    0 Frozen:   38)
-Constraints  : 1123     (Binary: 86.2% Ternary:  8.3% Other:  5.5%)
+Variables    : 196      (Eliminated:    0 Frozen:   44)
+Constraints  : 1177     (Binary: 88.1% Ternary:  6.5% Other:  5.4%)
 

@@ -2,34 +2,34 @@ clingo version 4.5.4
 Reading from ...-m-60pc-w-20pc--m-0pc-w-10pc--input.lp ...
 Solving...
 Answer: 1
-marry(2,8) marry(3,1) marry(4,5) marry(5,7) marry(7,2) marry(8,9) marry(10,3) mtot(27) wtot(8) ttot(19)
-Optimization: 19
+marry(1,7) marry(2,2) marry(3,5) marry(4,1) marry(6,9) marry(9,10) marry(10,8) mtot(16) wtot(12) ttot(4)
+Optimization: 4
 OPTIMUM FOUND
 
 Models       : 1     
   Optimum    : yes
-Optimization : 19
+Optimization : 4
 Calls        : 1
-Time         : 0.443s (Solving: 0.01s 1st Model: 0.01s Unsat: 0.00s)
-CPU Time     : 0.440s
+Time         : 0.080s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.080s
 
-Choices      : 64      
-Conflicts    : 22       (Analyzed: 21)
+Choices      : 27      
+Conflicts    : 16       (Analyzed: 15)
 Restarts     : 0       
-Model-Level  : 8.0     
+Model-Level  : 2.0     
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 21       (Deleted: 0)
-  Binary     : 4        (Ratio:  19.05%)
-  Ternary    : 2        (Ratio:   9.52%)
-  Conflict   : 21       (Average Length:    2.2 Ratio: 100.00%) 
+Lemmas       : 15       (Deleted: 0)
+  Binary     : 4        (Ratio:  26.67%)
+  Ternary    : 3        (Ratio:  20.00%)
+  Conflict   : 15       (Average Length:    1.7 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 2584    
-Rules        : 21937    (1: 20840/21146 2: 34/20 3: 30/30 5: 740/740 6: 1/1)
-Bodies       : 20301   
-Equivalences : 2663     (Atom=Atom: 829 Body=Body: 191 Other: 1643)
+Atoms        : 2253    
+Rules        : 17975    (1: 17000/17288 2: 34/20 3: 30/30 5: 636/636 6: 1/1)
+Bodies       : 16594   
+Equivalences : 2247     (Atom=Atom: 710 Body=Body: 158 Other: 1379)
 Tight        : Yes
-Variables    : 4742     (Eliminated:    0 Frozen:  264)
-Constraints  : 18137    (Binary: 74.1% Ternary: 24.5% Other:  1.4%)
+Variables    : 3524     (Eliminated:    0 Frozen:  209)
+Constraints  : 13425    (Binary: 74.0% Ternary: 24.5% Other:  1.5%)
 

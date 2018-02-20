@@ -2,31 +2,31 @@ clingo version 4.5.4
 Reading from ...-100pc-w-20pc--m-10pc-w-10pc--input.lp ...
 Solving...
 Answer: 1
-marry(4,1) marry(2,3) marry(8,4) marry(9,5) marry(1,6) marry(5,7) marry(6,8) marry(10,9)
+marry(7,1) marry(6,2) marry(9,5) marry(3,6) marry(8,7) marry(4,8) marry(2,9) marry(1,10)
 SATISFIABLE
 
 Models       : 1+    
 Calls        : 1
-Time         : 0.042s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
-CPU Time     : 0.040s
+Time         : 0.010s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.010s
 
-Choices      : 41      
-Conflicts    : 8        (Analyzed: 8)
+Choices      : 44      
+Conflicts    : 11       (Analyzed: 11)
 Restarts     : 0       
-Model-Level  : 7.0     
+Model-Level  : 8.0     
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 8        (Deleted: 0)
-  Binary     : 3        (Ratio:  37.50%)
-  Ternary    : 3        (Ratio:  37.50%)
-  Conflict   : 8        (Average Length:    2.1 Ratio: 100.00%) 
+Lemmas       : 11       (Deleted: 0)
+  Binary     : 0        (Ratio:   0.00%)
+  Ternary    : 2        (Ratio:  18.18%)
+  Conflict   : 11       (Average Length:    3.3 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 860      (Original: 848 Auxiliary: 12)
-Rules        : 2073     (1: 1895/2027 2: 30/16 3: 30/30)
-Bodies       : 525     
-Equivalences : 1475     (Atom=Atom: 681 Body=Body: 3 Other: 791)
+Atoms        : 936     
+Rules        : 2183     (1: 2033/2133 2: 30/20 3: 30/30)
+Bodies       : 549     
+Equivalences : 1658     (Atom=Atom: 767 Body=Body: 1 Other: 890)
 Tight        : Yes
-Variables    : 92       (Eliminated:    0 Frozen:   24)
-Constraints  : 355      (Binary: 88.5% Ternary:  7.6% Other:  3.9%)
+Variables    : 88       (Eliminated:    0 Frozen:   38)
+Constraints  : 365      (Binary: 88.2% Ternary:  4.1% Other:  7.7%)
 

@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...-m-60pc-w-100pc--m-0pc-w-0pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,12) marry(2,2) marry(3,3) marry(4,18) marry(5,13) marry(6,4) marry(7,6) marry(8,17) marry(9,16) marry(10,5) marry(11,20) marry(12,15) marry(13,10) marry(14,1) marry(15,14) marry(16,9) marry(17,19) marry(18,8) marry(19,7) marry(20,11) mtot(68) wtot(126) ttot(58)
+Optimization: 58
+Answer: 2
+marry(1,12) marry(2,2) marry(3,3) marry(4,18) marry(5,13) marry(6,4) marry(7,6) marry(8,17) marry(9,16) marry(10,5) marry(11,20) marry(12,15) marry(13,19) marry(14,1) marry(15,14) marry(16,9) marry(17,10) marry(18,8) marry(19,7) marry(20,11) mtot(70) wtot(111) ttot(41)
+Optimization: 41
+Answer: 3
+marry(1,12) marry(2,2) marry(3,3) marry(4,18) marry(5,13) marry(6,4) marry(7,6) marry(8,17) marry(9,16) marry(10,5) marry(11,8) marry(12,15) marry(13,19) marry(14,1) marry(15,14) marry(16,9) marry(17,10) marry(18,20) marry(19,7) marry(20,11) mtot(81) wtot(104) ttot(23)
+Optimization: 23
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 23
+Calls        : 1
+Time         : 103.837s (Solving: 31.37s 1st Model: 1.46s Unsat: 0.02s)
+CPU Time     : 103.540s
+
+Choices      : 856     
+Conflicts    : 556      (Analyzed: 555)
+Restarts     : 4        (Average: 138.75 Last: 529)
+Model-Level  : 15.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 555      (Deleted: 0)
+  Binary     : 40       (Ratio:   7.21%)
+  Ternary    : 23       (Ratio:   4.14%)
+  Conflict   : 555      (Average Length:   10.8 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 36928   
+Rules        : 8351720  (1: 8337567/8339303 2: 64/40 3: 60/60 5: 12316/12316 6: 1/1)
+Bodies       : 8285417 
+Equivalences : 64037    (Atom=Atom: 17011 Body=Body: 5340 Other: 41686)
+Tight        : Yes
+Variables    : 5591679  (Eliminated:    0 Frozen: 7928)
+Constraints  : 22353042 (Binary: 75.0% Ternary: 25.0% Other:  0.0%)
+

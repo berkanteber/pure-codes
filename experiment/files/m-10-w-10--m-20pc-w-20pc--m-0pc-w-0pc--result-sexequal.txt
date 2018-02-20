@@ -2,7 +2,7 @@ clingo version 4.5.4
 Reading from ...--m-20pc-w-20pc--m-0pc-w-0pc--input.lp ...
 Solving...
 Answer: 1
-marry(1,1) marry(2,2) marry(3,7) marry(4,6) marry(5,5) marry(6,3) marry(7,10) mtot(11) wtot(13) ttot(2)
+marry(2,1) marry(3,10) marry(4,8) marry(7,2) marry(10,5) mtot(12) wtot(10) ttot(2)
 Optimization: 2
 OPTIMUM FOUND
 
@@ -10,26 +10,26 @@ Models       : 1
   Optimum    : yes
 Optimization : 2
 Calls        : 1
-Time         : 0.154s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
-CPU Time     : 0.150s
+Time         : 0.026s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.020s
 
-Choices      : 20      
-Conflicts    : 13       (Analyzed: 12)
+Choices      : 11      
+Conflicts    : 9        (Analyzed: 8)
 Restarts     : 0       
-Model-Level  : 2.0     
+Model-Level  : 1.0     
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 12       (Deleted: 0)
-  Binary     : 1        (Ratio:   8.33%)
-  Ternary    : 1        (Ratio:   8.33%)
-  Conflict   : 12       (Average Length:    1.2 Ratio: 100.00%) 
+Lemmas       : 8        (Deleted: 0)
+  Binary     : 1        (Ratio:  12.50%)
+  Ternary    : 0        (Ratio:   0.00%)
+  Conflict   : 8        (Average Length:    1.1 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 1228     (Original: 1227 Auxiliary: 1)
-Rules        : 8235     (1: 7629/7871 2: 34/19 3: 30/30 5: 314/314 6: 1/1)
-Bodies       : 7319    
-Equivalences : 1281     (Atom=Atom: 412 Body=Body: 95 Other: 774)
+Atoms        : 1026    
+Rules        : 5696     (1: 5177/5395 2: 34/20 3: 30/30 5: 250/250 6: 1/1)
+Bodies       : 4915    
+Equivalences : 851      (Atom=Atom: 297 Body=Body: 53 Other: 501)
 Tight        : Yes
-Variables    : 1120     (Eliminated:    0 Frozen:  100)
-Constraints  : 4142     (Binary: 73.8% Ternary: 23.9% Other:  2.3%)
+Variables    : 380      (Eliminated:    0 Frozen:   50)
+Constraints  : 1304     (Binary: 72.9% Ternary: 23.4% Other:  3.7%)
 

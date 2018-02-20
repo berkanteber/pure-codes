@@ -2,34 +2,34 @@ clingo version 4.5.4
 Reading from ...-m-100pc-w-60pc--m-0pc-w-0pc--input.lp ...
 Solving...
 Answer: 1
-marry(1,6) marry(2,4) marry(3,10) marry(4,7) marry(5,3) marry(6,2) marry(7,9) marry(8,8) marry(9,5) marry(10,1) mtot(29) wtot(24) ttot(5)
-Optimization: 5
+marry(1,8) marry(2,10) marry(3,1) marry(4,2) marry(5,6) marry(6,7) marry(8,4) marry(9,5) marry(10,9) mtot(29) wtot(17) ttot(12)
+Optimization: 12
 OPTIMUM FOUND
 
 Models       : 1     
   Optimum    : yes
-Optimization : 5
+Optimization : 12
 Calls        : 1
-Time         : 3.261s (Solving: 0.44s 1st Model: 0.14s Unsat: 0.30s)
-CPU Time     : 3.230s
+Time         : 1.031s (Solving: 0.13s 1st Model: 0.01s Unsat: 0.11s)
+CPU Time     : 1.020s
 
-Choices      : 105     
-Conflicts    : 73       (Analyzed: 72)
-Restarts     : 0       
-Model-Level  : 4.0     
+Choices      : 153     
+Conflicts    : 77       (Analyzed: 76)
+Restarts     : 1        (Average: 76.00 Last: 7)
+Model-Level  : 24.0    
 Problems     : 1        (Average Length: 0.00 Splits: 0)
-Lemmas       : 72       (Deleted: 0)
-  Binary     : 6        (Ratio:   8.33%)
-  Ternary    : 8        (Ratio:  11.11%)
-  Conflict   : 72       (Average Length:    5.7 Ratio: 100.00%) 
+Lemmas       : 76       (Deleted: 0)
+  Binary     : 17       (Ratio:  22.37%)
+  Ternary    : 7        (Ratio:   9.21%)
+  Conflict   : 76       (Average Length:    4.9 Ratio: 100.00%) 
   Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
 
-Atoms        : 5146    
-Rules        : 155942   (1: 153837/154271 2: 34/20 3: 30/30 5: 1620/1620 6: 1/1)
-Bodies       : 150266  
-Equivalences : 8831     (Atom=Atom: 2380 Body=Body: 758 Other: 5693)
+Atoms        : 5373    
+Rules        : 180152   (1: 177949/178395 2: 34/20 3: 30/30 5: 1706/1706 6: 1/1)
+Bodies       : 174179  
+Equivalences : 9927     (Atom=Atom: 2631 Body=Body: 865 Other: 6431)
 Tight        : Yes
-Variables    : 97130    (Eliminated:    0 Frozen: 1055)
-Constraints  : 386080   (Binary: 74.9% Ternary: 24.9% Other:  0.3%)
+Variables    : 128874   (Eliminated:    0 Frozen: 1208)
+Constraints  : 512778   (Binary: 74.9% Ternary: 24.9% Other:  0.2%)
 
