@@ -1,0 +1,936 @@
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                           time: 000000.86 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                  time: 000256.93 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt               time: 000038.12 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.09 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.20 seconds
+
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                          time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt                 time: 000032.44 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt              time: 000032.07 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.05 seconds
+
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                          time: 000000.04 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt                 time: 000032.66 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt              time: 000031.80 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.06 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.04 seconds
+
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                         time: 000000.06 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt                time: 000033.49 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt             time: 000032.60 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.04 seconds
+
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                         time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt                time: 000039.92 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt             time: 000038.97 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.04 seconds
+
+file:  files/m-30-w-30--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                         time: 000000.04 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt                time: 000035.54 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt             time: 000034.77 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.04 seconds
+
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.07 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                  time: 000091.06 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt               time: 000090.17 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.08 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.06 seconds
+
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.15 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt                 time: 000081.64 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt              time: 000079.42 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.08 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.05 seconds
+
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.06 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt                 time: 000093.80 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt              time: 000092.64 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.08 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.06 seconds
+
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.05 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt                time: 000077.41 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt             time: 000076.24 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.07 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.05 seconds
+
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.06 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt                time: 000093.59 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt             time: 000091.58 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.08 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.06 seconds
+
+file:  files/m-30-w-30--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.07 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt                time: 000096.70 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt             time: 000094.24 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.08 seconds
+file:  files/m-30-w-30--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.06 seconds
+
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000000.12 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt                 time: 000325.81 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt              time: 000354.66 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000000.18 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000000.12 seconds
+
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000000.11 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt                time: 000363.36 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt             time: 005699.50 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000000.23 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000000.16 seconds
+
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000000.13 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt                time: 000307.81 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt             time: 000342.94 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000000.20 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000000.13 seconds
+
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000000.12 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt               time: 000252.87 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt            time: 000242.98 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000000.14 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000000.11 seconds
+
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000000.14 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt               time: 000278.25 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt            time: 000324.62 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000000.16 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000000.13 seconds
+
+file:  files/m-30-w-30--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000000.14 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt               time: 000357.78 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt            time: 000364.83 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000000.17 seconds
+file:  files/m-30-w-30--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000000.15 seconds
+
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.12 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                  time: 000407.71 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt               time: 000367.37 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.15 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.13 seconds
+
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.12 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt                 time: 000306.10 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt              time: 000328.06 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.14 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.11 seconds
+
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.12 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt                 time: 000385.89 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt              time: 000315.43 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.15 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.12 seconds
+
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.10 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt                time: 000309.45 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt             time: 000317.22 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.12 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.10 seconds
+
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.12 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt                time: 000381.73 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt             time: 000342.20 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.15 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.11 seconds
+
+file:  files/m-30-w-30--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.13 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt                time: 000316.63 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt             time: 000313.40 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.15 seconds
+file:  files/m-30-w-30--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.12 seconds
+
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000000.34 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt                 time: 001915.59 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt              time: 001669.31 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000000.40 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000000.33 seconds
+
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000000.32 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt                time: 001739.79 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt             time: 001644.11 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000000.38 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000000.33 seconds
+
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000000.35 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt                time: 001461.36 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt             time: 001396.12 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000000.44 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000000.35 seconds
+
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000000.28 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt               time: 001301.30 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt            time: 001503.52 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000000.34 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000000.29 seconds
+
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000000.32 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt               time: 001088.64 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt            time: 001419.66 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000000.38 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000000.31 seconds
+
+file:  files/m-30-w-30--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000000.34 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt               time: 001216.00 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt            time: 001399.62 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000000.40 seconds
+file:  files/m-30-w-30--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000000.34 seconds
+
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                         time: 000001.31 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt                time: 019471.27 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt             time: 019872.84 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt               time: 000002.30 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt          time: 000001.41 seconds
+
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                        time: 000001.41 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt               time: 011136.58 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt            time: 019356.45 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt              time: 000001.92 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt         time: 000001.43 seconds
+
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                        time: 000001.32 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt               time: 005145.42 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt            time: 007048.80 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt              time: 000001.42 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt         time: 000001.46 seconds
+
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                       time: 000001.31 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt              time: 008006.85 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt           time: 007548.77 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt             time: 000001.60 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt        time: 000001.31 seconds
+
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                       time: 000001.38 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt              time: 004924.06 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt           time: 005882.41 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt             time: 000001.43 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt        time: 000001.26 seconds
+
+file:  files/m-30-w-30--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                       time: 000001.26 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt              time: 004332.69 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt           time: 004582.61 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt             time: 000001.43 seconds
+file:  files/m-30-w-30--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt        time: 000001.26 seconds
+
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                           time: 000000.09 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.12 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.07 seconds
+
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                          time: 000000.08 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.13 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.08 seconds
+
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                          time: 000000.08 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.12 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.08 seconds
+
+file:  files/m-30-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                         time: 000000.06 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.12 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.07 seconds
+
+file:  files/m-30-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                         time: 000000.08 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.13 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.09 seconds
+
+file:  files/m-30-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                         time: 000000.07 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.12 seconds
+file:  files/m-30-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.08 seconds
+
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.12 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.21 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.15 seconds
+
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.16 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.22 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.15 seconds
+
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.13 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.20 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.14 seconds
+
+file:  files/m-30-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.12 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.19 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.13 seconds
+
+file:  files/m-30-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.13 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.21 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.14 seconds
+
+file:  files/m-30-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.13 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.21 seconds
+file:  files/m-30-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.15 seconds
+
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000000.37 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000000.48 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000000.38 seconds
+
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000000.41 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000000.51 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000000.41 seconds
+
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000000.38 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000000.48 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000000.38 seconds
+
+file:  files/m-30-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000000.34 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000000.44 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000000.35 seconds
+
+file:  files/m-30-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000000.42 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000000.52 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000000.45 seconds
+
+file:  files/m-30-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000000.36 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000000.47 seconds
+file:  files/m-30-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000000.40 seconds
+
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.35 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.45 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.37 seconds
+
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.40 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.50 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.41 seconds
+
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.35 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.48 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.37 seconds
+
+file:  files/m-30-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.34 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.46 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.36 seconds
+
+file:  files/m-30-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.32 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.44 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.33 seconds
+
+file:  files/m-30-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.36 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.47 seconds
+file:  files/m-30-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.39 seconds
+
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000001.36 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000001.58 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000001.38 seconds
+
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000001.55 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000001.70 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000001.60 seconds
+
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000001.35 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000001.61 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000001.41 seconds
+
+file:  files/m-30-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000001.36 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000001.59 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000001.39 seconds
+
+file:  files/m-30-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000001.36 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000001.66 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000001.49 seconds
+
+file:  files/m-30-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000001.47 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000001.68 seconds
+file:  files/m-30-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000001.59 seconds
+
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                         time: 000006.61 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt               time: 000007.26 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt          time: 000007.02 seconds
+
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                        time: 000007.04 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt              time: 000007.08 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt         time: 000006.73 seconds
+
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                        time: 000006.96 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt              time: 000007.04 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt         time: 000006.78 seconds
+
+file:  files/m-30-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                       time: 000006.89 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt             time: 000007.12 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt        time: 000006.71 seconds
+
+file:  files/m-30-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                       time: 000006.64 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt             time: 000007.12 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt        time: 000006.71 seconds
+
+file:  files/m-30-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                       time: 000006.42 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt             time: 000006.92 seconds
+file:  files/m-30-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt        time: 000006.65 seconds
+
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                           time: 000000.12 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.22 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.13 seconds
+
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                          time: 000000.11 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.21 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.12 seconds
+
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                          time: 000000.13 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.21 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.12 seconds
+
+file:  files/m-30-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                         time: 000000.11 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.22 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.13 seconds
+
+file:  files/m-30-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                         time: 000000.11 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.21 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.12 seconds
+
+file:  files/m-30-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                         time: 000000.12 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.21 seconds
+file:  files/m-30-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.11 seconds
+
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.24 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.39 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.27 seconds
+
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.22 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.38 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.25 seconds
+
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.23 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.36 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.26 seconds
+
+file:  files/m-30-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.27 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.39 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.29 seconds
+
+file:  files/m-30-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.23 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.35 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.25 seconds
+
+file:  files/m-30-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.24 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.37 seconds
+file:  files/m-30-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.26 seconds
+
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000000.86 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000001.08 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000000.89 seconds
+
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000000.90 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000001.09 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000000.91 seconds
+
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000000.88 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000001.00 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000000.85 seconds
+
+file:  files/m-30-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000000.81 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000001.02 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000000.88 seconds
+
+file:  files/m-30-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000000.82 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000000.93 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000000.78 seconds
+
+file:  files/m-30-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000000.78 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000000.96 seconds
+file:  files/m-30-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000000.79 seconds
+
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.75 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.96 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.78 seconds
+
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.73 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.94 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.75 seconds
+
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.77 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000001.01 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.84 seconds
+
+file:  files/m-30-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.82 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.99 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.82 seconds
+
+file:  files/m-30-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.76 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000001.00 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.77 seconds
+
+file:  files/m-30-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.82 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000001.06 seconds
+file:  files/m-30-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.85 seconds
+
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000003.63 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000003.90 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000003.45 seconds
+
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000003.29 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000003.60 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000003.52 seconds
+
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000003.51 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000003.94 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000003.74 seconds
+
+file:  files/m-30-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000003.47 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000003.77 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000003.55 seconds
+
+file:  files/m-30-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000003.95 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000003.65 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000003.44 seconds
+
+file:  files/m-30-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000003.32 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000004.20 seconds
+file:  files/m-30-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000003.40 seconds
+
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                         time: 000015.74 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt               time: 000019.56 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt          time: 000015.36 seconds
+
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                        time: 000018.33 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt              time: 000016.25 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt         time: 000015.20 seconds
+
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                        time: 000015.48 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt              time: 000016.38 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt         time: 000015.10 seconds
+
+file:  files/m-30-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                       time: 000016.09 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt             time: 000015.95 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt        time: 000015.30 seconds
+
+file:  files/m-30-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                       time: 000014.93 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt             time: 000015.78 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt        time: 000015.22 seconds
+
+file:  files/m-30-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                       time: 000015.38 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt             time: 000015.62 seconds
+file:  files/m-30-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt        time: 000014.97 seconds
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                           time: 000000.17 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.29 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.18 seconds
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                          time: 000000.17 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.28 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.17 seconds
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                          time: 000000.15 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.29 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.17 seconds
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                         time: 000000.14 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.27 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.16 seconds
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                         time: 000000.15 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.28 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.17 seconds
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                         time: 000000.17 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.28 seconds
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.18 seconds
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.43 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.63 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.45 seconds
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.38 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.59 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.42 seconds
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.38 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.59 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.42 seconds
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.37 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.58 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.40 seconds
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.37 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.57 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.40 seconds
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.35 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.56 seconds
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.40 seconds
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000001.70 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000002.11 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000001.77 seconds
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000001.53 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000001.92 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000001.54 seconds
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000001.52 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000001.90 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000001.62 seconds
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000001.53 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000001.92 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000001.63 seconds
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000001.60 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000002.08 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000001.63 seconds
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000001.42 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000001.80 seconds
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000001.45 seconds
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000001.43 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000001.79 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000001.48 seconds
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000001.51 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000001.77 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000001.49 seconds
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000001.36 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000001.70 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000001.42 seconds
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000001.35 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000001.70 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000001.48 seconds
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000001.40 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000001.78 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000001.46 seconds
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000001.44 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000001.73 seconds
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000001.45 seconds
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000006.77 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000007.81 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000006.80 seconds
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000006.96 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000007.27 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000006.36 seconds
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000006.03 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000007.18 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000006.05 seconds
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000006.00 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000007.09 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000006.11 seconds
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000007.28 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000006.96 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000006.21 seconds
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000006.20 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000007.00 seconds
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000006.76 seconds
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                         time: 000032.32 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt               time: 000034.82 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt          time: 000031.82 seconds
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                        time: 000032.48 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt              time: 000035.08 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt         time: 000033.23 seconds
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                        time: 000031.48 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt              time: 000034.09 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt         time: 000032.17 seconds
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                       time: 000031.79 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt             time: 000035.53 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt        time: 000033.40 seconds
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                       time: 000031.26 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt             time: 000043.04 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt        time: 000031.83 seconds
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                       time: 000031.13 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt             time: 000034.03 seconds
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt        time: 000035.66 seconds
+
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                           time: 000000.30 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt                 time: 000000.54 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.35 seconds
+
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                          time: 000000.28 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt                time: 000000.55 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.32 seconds
+
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                          time: 000000.29 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt                time: 000000.54 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.33 seconds
+
+file:  files/m-60-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                         time: 000000.31 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.56 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.37 seconds
+
+file:  files/m-60-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                         time: 000000.27 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt               time: 000000.50 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.31 seconds
+
+file:  files/m-60-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                         time: 000000.32 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt               time: 000000.56 seconds
+file:  files/m-60-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.36 seconds
+
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000000.89 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000001.39 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.95 seconds
+
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000000.93 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000001.38 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000001.05 seconds
+
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000000.81 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000001.22 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.88 seconds
+
+file:  files/m-60-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000000.93 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000001.32 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.96 seconds
+
+file:  files/m-60-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000000.85 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000001.22 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.93 seconds
+
+file:  files/m-60-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000000.92 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000001.39 seconds
+file:  files/m-60-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000001.03 seconds
+
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000003.62 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000004.70 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000003.75 seconds
+
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000003.77 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000004.59 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000003.94 seconds
+
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000003.63 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000004.39 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000003.75 seconds
+
+file:  files/m-60-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000003.76 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000004.53 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000004.00 seconds
+
+file:  files/m-60-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000003.22 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000003.91 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000003.34 seconds
+
+file:  files/m-60-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000003.76 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000004.54 seconds
+file:  files/m-60-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000003.88 seconds
+
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000003.58 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000004.59 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000003.76 seconds
+
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000003.90 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000004.60 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000003.95 seconds
+
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000003.31 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000004.17 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000003.38 seconds
+
+file:  files/m-60-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000003.65 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000004.41 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000003.74 seconds
+
+file:  files/m-60-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000003.51 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000004.12 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000003.59 seconds
+
+file:  files/m-60-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000003.53 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000004.17 seconds
+file:  files/m-60-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000003.83 seconds
+
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000016.87 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000017.63 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000020.87 seconds
+
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000021.39 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000019.89 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000018.26 seconds
+
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000017.17 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000018.11 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000016.79 seconds
+
+file:  files/m-60-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000017.23 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000018.66 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000017.40 seconds
+
+file:  files/m-60-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000016.71 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000017.41 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000016.77 seconds
+
+file:  files/m-60-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000016.78 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000019.72 seconds
+file:  files/m-60-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000017.31 seconds
+
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                         time: 000079.01 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt               time: 000082.44 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt          time: 000094.78 seconds
+
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                        time: 000079.08 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt              time: 000085.27 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt         time: 000094.57 seconds
+
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                        time: 000079.54 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt              time: 000085.69 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt         time: 000080.28 seconds
+
+file:  files/m-60-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                       time: 000084.01 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt             time: 000083.70 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt        time: 000088.68 seconds
+
+file:  files/m-60-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                       time: 000078.12 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt             time: 000089.22 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt        time: 000081.64 seconds
+
+file:  files/m-60-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                       time: 000078.47 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt             time: 000082.90 seconds
+file:  files/m-60-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt        time: 000095.23 seconds
+
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                           time: 000000.56 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt                 time: 000001.02 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000000.62 seconds
+
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                          time: 000000.54 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt                time: 000001.00 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000000.62 seconds
+
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                          time: 000000.59 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt                time: 000001.07 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000000.67 seconds
+
+file:  files/m-90-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                         time: 000000.56 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt               time: 000000.99 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000000.64 seconds
+
+file:  files/m-90-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                         time: 000000.58 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt               time: 000001.05 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000000.69 seconds
+
+file:  files/m-90-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                         time: 000000.61 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt               time: 000001.05 seconds
+file:  files/m-90-w-90--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000000.66 seconds
+
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000001.82 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000002.65 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000002.06 seconds
+
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000001.89 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000002.73 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000002.02 seconds
+
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000001.96 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000002.88 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000002.15 seconds
+
+file:  files/m-90-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000001.87 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000002.67 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000002.05 seconds
+
+file:  files/m-90-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000002.03 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000002.86 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000002.19 seconds
+
+file:  files/m-90-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000002.04 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000002.88 seconds
+file:  files/m-90-w-90--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000002.19 seconds
+
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000008.29 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000010.14 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000009.70 seconds
+
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000008.10 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000009.86 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000008.41 seconds
+
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000008.69 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000010.28 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000009.17 seconds
+
+file:  files/m-90-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000008.07 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000009.79 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000008.55 seconds
+
+file:  files/m-90-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000008.40 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000010.07 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000008.91 seconds
+
+file:  files/m-90-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000009.28 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000011.28 seconds
+file:  files/m-90-w-90--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000009.67 seconds
+
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                           time: 000007.97 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt                 time: 000009.48 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt            time: 000008.39 seconds
+
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                          time: 000008.18 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt                time: 000009.90 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt           time: 000008.62 seconds
+
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                          time: 000008.30 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt                time: 000010.15 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt           time: 000008.91 seconds
+
+file:  files/m-90-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                         time: 000008.27 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt               time: 000011.28 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt          time: 000008.53 seconds
+
+file:  files/m-90-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                         time: 000008.67 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt               time: 000010.11 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt          time: 000009.00 seconds
+
+file:  files/m-90-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                         time: 000008.29 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt               time: 000010.23 seconds
+file:  files/m-90-w-90--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt          time: 000008.64 seconds
+
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                          time: 000045.15 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt                time: 000040.95 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt           time: 000037.26 seconds
+
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                         time: 000037.06 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt               time: 000040.57 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt          time: 000037.26 seconds
+
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                         time: 000036.38 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt               time: 000047.87 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt          time: 000037.17 seconds
+
+file:  files/m-90-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                        time: 000036.71 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt              time: 000041.53 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt         time: 000037.89 seconds
+
+file:  files/m-90-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                        time: 000037.76 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt              time: 000043.14 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt         time: 000044.62 seconds
+
+file:  files/m-90-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                        time: 000042.65 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt              time: 000042.35 seconds
+file:  files/m-90-w-90--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt         time: 000040.59 seconds
+
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                         time: 000283.24 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt               time: 000262.97 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt          time: 000206.55 seconds
+
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                        time: 000205.73 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt              time: 000238.18 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt         time: 000203.93 seconds
+
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                        time: 000235.55 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt              time: 000225.66 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt         time: 000213.22 seconds
+
+file:  files/m-90-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                       time: 000278.73 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt             time: 000224.64 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt        time: 000266.33 seconds
+
+file:  files/m-90-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                       time: 000238.90 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt             time: 000230.91 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt        time: 000230.39 seconds
+
+file:  files/m-90-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                       time: 000202.12 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt             time: 000221.22 seconds
+file:  files/m-90-w-90--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt        time: 000242.55 seconds
+
