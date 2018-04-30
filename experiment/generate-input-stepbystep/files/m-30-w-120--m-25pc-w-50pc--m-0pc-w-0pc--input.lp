@@ -1,0 +1,2733 @@
+man(1..30).
+woman(1..120).
+
+mrank(  1,  55,   4).
+mrank(  1,  91,  11).
+mrank(  1,  51,  16).
+mrank(  1,   2,  17).
+mrank(  1,  99,  20).
+mrank(  1,  73,  22).
+mrank(  1,  15,  33).
+mrank(  1,  93,  40).
+mrank(  1,  68,  41).
+mrank(  1,   3,  49).
+mrank(  1,  80,  58).
+mrank(  1,  70,  60).
+mrank(  1,  31,  62).
+mrank(  1,  36,  64).
+mrank(  1,  28,  67).
+mrank(  1,  62,  74).
+mrank(  1,  26,  75).
+mrank(  1,  90,  78).
+mrank(  1,  41,  84).
+mrank(  1,  82,  86).
+mrank(  1, 120, 103).
+mrank(  1,  22, 104).
+mrank(  1,  20, 106).
+mrank(  1,  47, 109).
+mrank(  1,  97, 111).
+mrank(  1,   1, 115).
+mrank(  1, 108, 118).
+mrank(  1,  58, 120).
+mrank(  2,  79,   2).
+mrank(  2, 105,   7).
+mrank(  2,  73,   9).
+mrank(  2, 102,  10).
+mrank(  2,  67,  11).
+mrank(  2, 107,  13).
+mrank(  2, 120,  15).
+mrank(  2,  53,  22).
+mrank(  2,  80,  27).
+mrank(  2,  49,  30).
+mrank(  2,  23,  33).
+mrank(  2,  47,  38).
+mrank(  2,  97,  40).
+mrank(  2,  99,  41).
+mrank(  2,  30,  42).
+mrank(  2,  37,  45).
+mrank(  2,  28,  52).
+mrank(  2, 108,  55).
+mrank(  2,  12,  57).
+mrank(  2,  16,  66).
+mrank(  2,  96,  69).
+mrank(  2,   2,  71).
+mrank(  2,  93,  72).
+mrank(  2, 112,  73).
+mrank(  2,  48,  75).
+mrank(  2,  14,  82).
+mrank(  2,  86,  83).
+mrank(  2,  11,  90).
+mrank(  2,  26,  91).
+mrank(  2,  45,  93).
+mrank(  2, 113, 100).
+mrank(  2, 101, 106).
+mrank(  2,  58, 115).
+mrank(  2,  29, 116).
+mrank(  2,  65, 117).
+mrank(  2, 119, 119).
+mrank(  3,  70,   3).
+mrank(  3,  32,   7).
+mrank(  3,  27,   8).
+mrank(  3,  97,   9).
+mrank(  3,  18,  17).
+mrank(  3,   6,  19).
+mrank(  3,  92,  21).
+mrank(  3,  46,  26).
+mrank(  3,  53,  33).
+mrank(  3,  60,  34).
+mrank(  3,  65,  38).
+mrank(  3,  42,  40).
+mrank(  3,  35,  42).
+mrank(  3,   9,  45).
+mrank(  3,  56,  47).
+mrank(  3,  44,  52).
+mrank(  3,  20,  55).
+mrank(  3, 114,  60).
+mrank(  3,  24,  62).
+mrank(  3,  14,  64).
+mrank(  3,  51,  67).
+mrank(  3,  99,  69).
+mrank(  3,  73,  71).
+mrank(  3,  57,  76).
+mrank(  3, 105,  84).
+mrank(  3,  71,  94).
+mrank(  3,  11,  97).
+mrank(  3,  19,  99).
+mrank(  3,  33, 102).
+mrank(  3, 113, 104).
+mrank(  3,  63, 108).
+mrank(  3,  29, 113).
+mrank(  3,   7, 115).
+mrank(  3, 116, 117).
+mrank(  3, 112, 118).
+mrank(  4,  42,   4).
+mrank(  4,  37,   7).
+mrank(  4,  85,  21).
+mrank(  4,  79,  26).
+mrank(  4,  71,  27).
+mrank(  4,  98,  31).
+mrank(  4,  36,  32).
+mrank(  4,  27,  42).
+mrank(  4, 119,  43).
+mrank(  4,  52,  46).
+mrank(  4,  93,  48).
+mrank(  4,  99,  54).
+mrank(  4, 101,  55).
+mrank(  4,  58,  56).
+mrank(  4,  47,  57).
+mrank(  4,  34,  59).
+mrank(  4,  88,  72).
+mrank(  4,  54,  73).
+mrank(  4,  45,  74).
+mrank(  4,  56,  78).
+mrank(  4,   3,  83).
+mrank(  4, 103,  94).
+mrank(  4,  15,  97).
+mrank(  4,  20,  99).
+mrank(  4,  81, 106).
+mrank(  4,   2, 112).
+mrank(  4,  43, 116).
+mrank(  4,  49, 118).
+mrank(  4,  48, 119).
+mrank(  5,  30,   1).
+mrank(  5, 105,   2).
+mrank(  5,   3,   4).
+mrank(  5,  77,   7).
+mrank(  5,  24,  14).
+mrank(  5,  97,  15).
+mrank(  5, 118,  18).
+mrank(  5, 107,  19).
+mrank(  5,  31,  21).
+mrank(  5,  60,  22).
+mrank(  5,  25,  24).
+mrank(  5,  46,  27).
+mrank(  5, 102,  28).
+mrank(  5,  35,  31).
+mrank(  5,  70,  39).
+mrank(  5,  16,  40).
+mrank(  5,  13,  44).
+mrank(  5,  53,  48).
+mrank(  5,  65,  50).
+mrank(  5,  82,  53).
+mrank(  5,  84,  60).
+mrank(  5,  87,  61).
+mrank(  5,  74,  62).
+mrank(  5,   5,  67).
+mrank(  5, 119,  68).
+mrank(  5,  14,  86).
+mrank(  5,  19,  89).
+mrank(  5,  28,  91).
+mrank(  5,  18, 109).
+mrank(  5,  75, 113).
+mrank(  6,  13,   1).
+mrank(  6, 113,   3).
+mrank(  6, 118,  10).
+mrank(  6,  83,  11).
+mrank(  6,  37,  12).
+mrank(  6,  77,  14).
+mrank(  6,  79,  16).
+mrank(  6,  58,  20).
+mrank(  6,  89,  22).
+mrank(  6, 102,  30).
+mrank(  6,  75,  38).
+mrank(  6,  74,  42).
+mrank(  6,  42,  43).
+mrank(  6, 107,  44).
+mrank(  6,  99,  50).
+mrank(  6,  35,  51).
+mrank(  6,  12,  52).
+mrank(  6,  49,  54).
+mrank(  6,  23,  56).
+mrank(  6, 112,  59).
+mrank(  6,  64,  61).
+mrank(  6,  76,  65).
+mrank(  6,  59,  69).
+mrank(  6, 114,  71).
+mrank(  6,  36,  73).
+mrank(  6,  24,  86).
+mrank(  6,  21,  92).
+mrank(  6,  60,  94).
+mrank(  6,  70,  98).
+mrank(  6,  71, 102).
+mrank(  6, 115, 106).
+mrank(  6,  90, 110).
+mrank(  6,  11, 120).
+mrank(  7,  62,   5).
+mrank(  7,  67,  11).
+mrank(  7,  91,  12).
+mrank(  7,  16,  24).
+mrank(  7,   3,  26).
+mrank(  7,  21,  29).
+mrank(  7,  92,  30).
+mrank(  7,  81,  34).
+mrank(  7,  63,  37).
+mrank(  7,  29,  40).
+mrank(  7,  55,  43).
+mrank(  7, 116,  45).
+mrank(  7,  95,  50).
+mrank(  7,  48,  53).
+mrank(  7,  86,  56).
+mrank(  7,  75,  63).
+mrank(  7,  79,  64).
+mrank(  7,  31,  67).
+mrank(  7,  70,  69).
+mrank(  7,  38,  72).
+mrank(  7,   5,  74).
+mrank(  7,  42,  80).
+mrank(  7,  72,  82).
+mrank(  7, 101,  90).
+mrank(  7,  98,  95).
+mrank(  7,  82, 100).
+mrank(  7, 111, 103).
+mrank(  7,  56, 104).
+mrank(  7,  12, 105).
+mrank(  7,  25, 110).
+mrank(  7,  93, 114).
+mrank(  7,  41, 118).
+mrank(  7, 115, 119).
+mrank(  8,  95,   1).
+mrank(  8,  20,   5).
+mrank(  8, 111,   6).
+mrank(  8,  61,  15).
+mrank(  8,  33,  20).
+mrank(  8,  73,  23).
+mrank(  8,  71,  26).
+mrank(  8,  99,  27).
+mrank(  8,  17,  28).
+mrank(  8, 110,  33).
+mrank(  8,  91,  41).
+mrank(  8,  46,  42).
+mrank(  8, 116,  48).
+mrank(  8, 118,  50).
+mrank(  8,  62,  52).
+mrank(  8,  43,  56).
+mrank(  8,  30,  64).
+mrank(  8,   9,  67).
+mrank(  8,  26,  71).
+mrank(  8,  92,  74).
+mrank(  8, 102,  75).
+mrank(  8,  80,  84).
+mrank(  8,  37,  87).
+mrank(  8,  39,  90).
+mrank(  8,  69,  91).
+mrank(  8,  14,  93).
+mrank(  8, 120,  97).
+mrank(  8,   3, 103).
+mrank(  8,  24, 104).
+mrank(  8,  48, 108).
+mrank(  8,  28, 110).
+mrank(  8,  34, 111).
+mrank(  8,   1, 115).
+mrank(  8,  35, 118).
+mrank(  9,  82,   1).
+mrank(  9,  52,   5).
+mrank(  9,  32,   6).
+mrank(  9,   2,  17).
+mrank(  9, 103,  20).
+mrank(  9, 109,  22).
+mrank(  9,  60,  31).
+mrank(  9,  48,  32).
+mrank(  9,  71,  44).
+mrank(  9,  92,  53).
+mrank(  9,  18,  54).
+mrank(  9,  11,  56).
+mrank(  9,  90,  58).
+mrank(  9,  55,  61).
+mrank(  9,   1,  82).
+mrank(  9,  68,  83).
+mrank(  9,  61,  87).
+mrank(  9,  23,  90).
+mrank(  9,  91,  91).
+mrank(  9,  62,  99).
+mrank(  9, 102, 100).
+mrank(  9,  72, 101).
+mrank(  9,  28, 103).
+mrank(  9,  26, 109).
+mrank(  9,  15, 110).
+mrank(  9,  45, 111).
+mrank(  9, 117, 116).
+mrank( 10,  29,   2).
+mrank( 10,  15,   5).
+mrank( 10, 101,  15).
+mrank( 10,  57,  24).
+mrank( 10,  38,  25).
+mrank( 10, 120,  27).
+mrank( 10,   7,  39).
+mrank( 10,  40,  44).
+mrank( 10, 117,  48).
+mrank( 10,  91,  60).
+mrank( 10,   9,  62).
+mrank( 10,  87,  67).
+mrank( 10,  56,  68).
+mrank( 10,  72,  69).
+mrank( 10,   2,  70).
+mrank( 10, 118,  71).
+mrank( 10,  33,  77).
+mrank( 10, 110,  79).
+mrank( 10,  12,  80).
+mrank( 10,  41,  85).
+mrank( 10, 116,  90).
+mrank( 10,  46, 105).
+mrank( 10,  24, 106).
+mrank( 10,  62, 107).
+mrank( 10,  31, 108).
+mrank( 10,  19, 111).
+mrank( 10,  89, 112).
+mrank( 10,  39, 115).
+mrank( 10, 113, 117).
+mrank( 10,  67, 119).
+mrank( 10,  68, 120).
+mrank( 11,  51,   4).
+mrank( 11,  27,   5).
+mrank( 11, 119,   7).
+mrank( 11,  34,  10).
+mrank( 11,  26,  13).
+mrank( 11,  49,  16).
+mrank( 11, 109,  22).
+mrank( 11,  16,  26).
+mrank( 11,  99,  30).
+mrank( 11,  66,  31).
+mrank( 11,  68,  37).
+mrank( 11,  14,  39).
+mrank( 11,  78,  41).
+mrank( 11,  25,  46).
+mrank( 11,  64,  50).
+mrank( 11,  91,  58).
+mrank( 11,  59,  64).
+mrank( 11,  90,  67).
+mrank( 11,  82,  69).
+mrank( 11,  84,  71).
+mrank( 11,  87,  85).
+mrank( 11,   1,  87).
+mrank( 11,  19, 101).
+mrank( 11,  60, 105).
+mrank( 11,   4, 106).
+mrank( 11,  72, 107).
+mrank( 11,  81, 110).
+mrank( 11,  31, 113).
+mrank( 11,  83, 115).
+mrank( 12,  95,   6).
+mrank( 12, 119,  12).
+mrank( 12,  81,  13).
+mrank( 12,  10,  15).
+mrank( 12,  75,  16).
+mrank( 12,  12,  19).
+mrank( 12,  56,  26).
+mrank( 12,  54,  27).
+mrank( 12,  45,  37).
+mrank( 12,  79,  43).
+mrank( 12,  58,  47).
+mrank( 12, 107,  49).
+mrank( 12,  42,  56).
+mrank( 12,  41,  68).
+mrank( 12,   9,  70).
+mrank( 12, 120,  71).
+mrank( 12,  84,  72).
+mrank( 12,  44,  73).
+mrank( 12,  62,  92).
+mrank( 12,  11, 102).
+mrank( 12,  23, 103).
+mrank( 12,  28, 105).
+mrank( 12,  90, 113).
+mrank( 12,  24, 114).
+mrank( 12,  30, 116).
+mrank( 12,   3, 120).
+mrank( 13,  34,   3).
+mrank( 13,  17,  14).
+mrank( 13,  55,  16).
+mrank( 13,   8,  19).
+mrank( 13, 115,  23).
+mrank( 13, 109,  44).
+mrank( 13,   9,  50).
+mrank( 13,  60,  69).
+mrank( 13,  96,  71).
+mrank( 13, 105,  73).
+mrank( 13,  48,  83).
+mrank( 13,  81,  84).
+mrank( 13,  67,  85).
+mrank( 13, 120,  92).
+mrank( 13,  63,  93).
+mrank( 13,  30,  94).
+mrank( 13,  37,  96).
+mrank( 13, 118,  98).
+mrank( 13, 108, 100).
+mrank( 13, 119, 105).
+mrank( 13,  43, 108).
+mrank( 13, 101, 110).
+mrank( 13,  75, 115).
+mrank( 13, 116, 117).
+mrank( 13,  50, 120).
+mrank( 14,  96,   6).
+mrank( 14,  50,  10).
+mrank( 14,  73,  11).
+mrank( 14,  11,  13).
+mrank( 14,  53,  14).
+mrank( 14,  70,  16).
+mrank( 14,  51,  17).
+mrank( 14, 119,  20).
+mrank( 14,   6,  26).
+mrank( 14,  15,  34).
+mrank( 14,  43,  40).
+mrank( 14,  81,  48).
+mrank( 14, 106,  53).
+mrank( 14,  35,  60).
+mrank( 14,  40,  68).
+mrank( 14,  25,  72).
+mrank( 14,  37,  74).
+mrank( 14,  74,  82).
+mrank( 14,   7,  87).
+mrank( 14,  63, 100).
+mrank( 14,  21, 102).
+mrank( 14,  27, 103).
+mrank( 14,  84, 104).
+mrank( 14,  68, 105).
+mrank( 14,  94, 117).
+mrank( 15, 118,   1).
+mrank( 15, 104,   2).
+mrank( 15,  23,   5).
+mrank( 15,  33,   6).
+mrank( 15,  18,  12).
+mrank( 15,  97,  15).
+mrank( 15,  51,  16).
+mrank( 15, 111,  24).
+mrank( 15, 110,  25).
+mrank( 15,  96,  26).
+mrank( 15,  68,  27).
+mrank( 15,  17,  28).
+mrank( 15,  52,  31).
+mrank( 15, 113,  36).
+mrank( 15, 120,  37).
+mrank( 15, 102,  44).
+mrank( 15,  12,  45).
+mrank( 15,  69,  47).
+mrank( 15,  36,  48).
+mrank( 15,   5,  50).
+mrank( 15, 107,  54).
+mrank( 15, 114,  59).
+mrank( 15,  89,  60).
+mrank( 15,  82,  64).
+mrank( 15,  45,  65).
+mrank( 15,  60,  67).
+mrank( 15,  34,  77).
+mrank( 15, 108,  82).
+mrank( 15,   1,  86).
+mrank( 15,  64,  94).
+mrank( 15,  29,  98).
+mrank( 15,  72, 105).
+mrank( 15,  53, 111).
+mrank( 15,   9, 116).
+mrank( 15,  63, 117).
+mrank( 15,  86, 120).
+mrank( 16,  11,   3).
+mrank( 16, 105,   7).
+mrank( 16,  16,   9).
+mrank( 16,  32,  12).
+mrank( 16, 112,  14).
+mrank( 16,  39,  16).
+mrank( 16,  42,  18).
+mrank( 16,  70,  19).
+mrank( 16,  73,  23).
+mrank( 16, 110,  28).
+mrank( 16,  43,  30).
+mrank( 16, 107,  31).
+mrank( 16,   2,  36).
+mrank( 16,  34,  37).
+mrank( 16,  25,  42).
+mrank( 16, 114,  45).
+mrank( 16,   7,  57).
+mrank( 16,  10,  60).
+mrank( 16,  33,  61).
+mrank( 16, 106,  63).
+mrank( 16,  72,  69).
+mrank( 16,  51,  73).
+mrank( 16,  19,  74).
+mrank( 16,  21,  78).
+mrank( 16,  86,  81).
+mrank( 16,  24,  87).
+mrank( 16,  26,  90).
+mrank( 16,  71,  91).
+mrank( 16,  57,  93).
+mrank( 16,  68,  96).
+mrank( 16,  83, 101).
+mrank( 16,  89, 108).
+mrank( 16,  55, 115).
+mrank( 16,  15, 119).
+mrank( 17,  89,   9).
+mrank( 17,  54,  17).
+mrank( 17, 120,  22).
+mrank( 17, 118,  26).
+mrank( 17,  48,  28).
+mrank( 17,  72,  36).
+mrank( 17,  36,  39).
+mrank( 17,  77,  40).
+mrank( 17,  43,  41).
+mrank( 17,  94,  57).
+mrank( 17,  30,  58).
+mrank( 17,  24,  60).
+mrank( 17,  20,  63).
+mrank( 17,  28,  64).
+mrank( 17,  56,  68).
+mrank( 17, 113,  83).
+mrank( 17,  64,  84).
+mrank( 17,  26,  85).
+mrank( 17,  96,  86).
+mrank( 17,   7,  90).
+mrank( 17,   3,  91).
+mrank( 17,  75,  94).
+mrank( 17, 114,  95).
+mrank( 17,  29,  99).
+mrank( 17,  65, 100).
+mrank( 17,  33, 102).
+mrank( 17,  34, 105).
+mrank( 17,  73, 109).
+mrank( 17,  58, 117).
+mrank( 17,  42, 120).
+mrank( 18,  26,   5).
+mrank( 18,  65,   8).
+mrank( 18,  89,  11).
+mrank( 18,  75,  14).
+mrank( 18, 117,  15).
+mrank( 18, 109,  16).
+mrank( 18, 119,  20).
+mrank( 18, 103,  31).
+mrank( 18,  49,  33).
+mrank( 18,  36,  35).
+mrank( 18,  34,  37).
+mrank( 18,  50,  40).
+mrank( 18,  68,  43).
+mrank( 18,   6,  44).
+mrank( 18,  56,  46).
+mrank( 18,  97,  47).
+mrank( 18,  95,  49).
+mrank( 18, 102,  51).
+mrank( 18,  42,  55).
+mrank( 18,  64,  65).
+mrank( 18,  67,  70).
+mrank( 18, 107,  81).
+mrank( 18, 110,  83).
+mrank( 18,  37,  89).
+mrank( 18, 101,  91).
+mrank( 18,  46,  95).
+mrank( 18,   8,  96).
+mrank( 18,   5,  98).
+mrank( 18,  84, 100).
+mrank( 18,  85, 104).
+mrank( 18, 113, 108).
+mrank( 18,   9, 114).
+mrank( 18, 115, 119).
+mrank( 18,  99, 120).
+mrank( 19, 111,   7).
+mrank( 19,  52,  14).
+mrank( 19,  11,  16).
+mrank( 19,  15,  17).
+mrank( 19,  87,  18).
+mrank( 19,  38,  24).
+mrank( 19,  40,  30).
+mrank( 19, 112,  40).
+mrank( 19,  63,  42).
+mrank( 19, 106,  43).
+mrank( 19,  69,  44).
+mrank( 19,  30,  45).
+mrank( 19,  98,  56).
+mrank( 19,   5,  57).
+mrank( 19,  88,  65).
+mrank( 19, 103,  67).
+mrank( 19, 105,  69).
+mrank( 19,  41,  73).
+mrank( 19,   6,  78).
+mrank( 19,  17,  85).
+mrank( 19, 100,  87).
+mrank( 19,  90,  92).
+mrank( 19,  73,  93).
+mrank( 19,  36,  96).
+mrank( 19,  79,  97).
+mrank( 19,  14,  98).
+mrank( 19,  71,  99).
+mrank( 19,  26, 104).
+mrank( 19,  83, 105).
+mrank( 19,  46, 114).
+mrank( 19,  54, 115).
+mrank( 19, 119, 119).
+mrank( 20,  46,   2).
+mrank( 20,  23,  10).
+mrank( 20,  58,  11).
+mrank( 20,  66,  12).
+mrank( 20,   8,  15).
+mrank( 20, 100,  24).
+mrank( 20,  45,  32).
+mrank( 20,  76,  36).
+mrank( 20, 108,  38).
+mrank( 20,  74,  40).
+mrank( 20,   5,  46).
+mrank( 20,  98,  50).
+mrank( 20,  99,  62).
+mrank( 20,  87,  64).
+mrank( 20,  65,  66).
+mrank( 20, 107,  67).
+mrank( 20,   9,  69).
+mrank( 20, 115,  70).
+mrank( 20,  12,  71).
+mrank( 20,  36,  72).
+mrank( 20,  32,  79).
+mrank( 20, 114,  85).
+mrank( 20,  42,  89).
+mrank( 20,  67,  90).
+mrank( 20, 120,  94).
+mrank( 20,  69, 102).
+mrank( 20,   3, 113).
+mrank( 20,  88, 114).
+mrank( 20,  50, 116).
+mrank( 21,  61,  11).
+mrank( 21,  26,  13).
+mrank( 21,  69,  20).
+mrank( 21,  94,  22).
+mrank( 21,   5,  25).
+mrank( 21,  73,  26).
+mrank( 21,  43,  38).
+mrank( 21,  29,  39).
+mrank( 21,  86,  43).
+mrank( 21,  76,  50).
+mrank( 21, 116,  51).
+mrank( 21, 106,  53).
+mrank( 21,  32,  54).
+mrank( 21,  21,  57).
+mrank( 21,  84,  59).
+mrank( 21,  47,  60).
+mrank( 21,  39,  70).
+mrank( 21,  53,  71).
+mrank( 21, 107,  72).
+mrank( 21, 103,  74).
+mrank( 21,  93,  76).
+mrank( 21,  65,  77).
+mrank( 21,  20,  81).
+mrank( 21,  64,  82).
+mrank( 21,  28,  84).
+mrank( 21, 101,  89).
+mrank( 21,  82,  91).
+mrank( 21,  37,  92).
+mrank( 21,  42,  95).
+mrank( 21, 113,  98).
+mrank( 21,   7, 100).
+mrank( 21, 114, 105).
+mrank( 21,  24, 111).
+mrank( 21,  18, 117).
+mrank( 22,  54,   2).
+mrank( 22,  59,   4).
+mrank( 22,  20,   7).
+mrank( 22,  17,   8).
+mrank( 22, 104,  13).
+mrank( 22,  74,  22).
+mrank( 22,  60,  26).
+mrank( 22,  37,  31).
+mrank( 22,  43,  40).
+mrank( 22,  15,  46).
+mrank( 22,  58,  50).
+mrank( 22,  27,  55).
+mrank( 22, 109,  56).
+mrank( 22,   6,  58).
+mrank( 22,  61,  65).
+mrank( 22,  53,  75).
+mrank( 22,  19,  76).
+mrank( 22,  88,  77).
+mrank( 22,  25,  86).
+mrank( 22,  24,  91).
+mrank( 22, 113,  95).
+mrank( 22,  23, 103).
+mrank( 22,  13, 104).
+mrank( 22,  64, 116).
+mrank( 22,  35, 117).
+mrank( 22,   5, 119).
+mrank( 23, 112,   3).
+mrank( 23, 118,   5).
+mrank( 23,  62,   7).
+mrank( 23, 107,   9).
+mrank( 23,  13,  10).
+mrank( 23,  52,  13).
+mrank( 23,  64,  22).
+mrank( 23,  42,  26).
+mrank( 23, 120,  29).
+mrank( 23,  79,  31).
+mrank( 23,   4,  40).
+mrank( 23,  28,  45).
+mrank( 23,  56,  56).
+mrank( 23,  18,  57).
+mrank( 23,  48,  61).
+mrank( 23, 108,  62).
+mrank( 23,  12,  65).
+mrank( 23,  31,  66).
+mrank( 23,  86,  67).
+mrank( 23,   6,  68).
+mrank( 23,  81,  72).
+mrank( 23,  49,  73).
+mrank( 23, 109,  75).
+mrank( 23, 111,  88).
+mrank( 23,  59,  97).
+mrank( 23,  43, 103).
+mrank( 23,  25, 105).
+mrank( 23,  87, 107).
+mrank( 23,   1, 113).
+mrank( 23, 104, 116).
+mrank( 23,  11, 117).
+mrank( 23,   2, 119).
+mrank( 24, 107,   1).
+mrank( 24,  86,   2).
+mrank( 24,  45,   4).
+mrank( 24,  89,  13).
+mrank( 24,  96,  17).
+mrank( 24,  85,  26).
+mrank( 24,  30,  28).
+mrank( 24,  19,  34).
+mrank( 24,  59,  35).
+mrank( 24, 109,  37).
+mrank( 24, 108,  38).
+mrank( 24, 102,  39).
+mrank( 24,  87,  46).
+mrank( 24,  75,  48).
+mrank( 24,  17,  49).
+mrank( 24,  72,  55).
+mrank( 24,  83,  56).
+mrank( 24, 100,  61).
+mrank( 24, 118,  64).
+mrank( 24,   2,  71).
+mrank( 24,  40,  75).
+mrank( 24, 120,  83).
+mrank( 24,  66,  85).
+mrank( 24,  76,  87).
+mrank( 24,  74,  90).
+mrank( 24,  65,  97).
+mrank( 24,  82,  99).
+mrank( 24,   7, 100).
+mrank( 24,  92, 105).
+mrank( 24,  68, 106).
+mrank( 24,  15, 113).
+mrank( 25,   5,   9).
+mrank( 25,  59,  10).
+mrank( 25,   6,  11).
+mrank( 25, 113,  16).
+mrank( 25, 118,  19).
+mrank( 25,  66,  20).
+mrank( 25,  52,  25).
+mrank( 25,  87,  29).
+mrank( 25,  41,  32).
+mrank( 25,  88,  36).
+mrank( 25,  68,  42).
+mrank( 25,  86,  46).
+mrank( 25,  45,  49).
+mrank( 25, 104,  50).
+mrank( 25,  12,  56).
+mrank( 25,  22,  62).
+mrank( 25,  19,  65).
+mrank( 25,  97,  66).
+mrank( 25,  30,  68).
+mrank( 25,  73,  71).
+mrank( 25,  13,  72).
+mrank( 25,  55,  83).
+mrank( 25,  79,  87).
+mrank( 25,  51,  92).
+mrank( 25,  34, 100).
+mrank( 25, 112, 101).
+mrank( 25,  64, 103).
+mrank( 25, 110, 112).
+mrank( 25,  15, 113).
+mrank( 25, 119, 117).
+mrank( 25,  89, 119).
+mrank( 25,   3, 120).
+mrank( 26, 114,   2).
+mrank( 26,  66,   4).
+mrank( 26,  59,  14).
+mrank( 26,  15,  22).
+mrank( 26, 103,  25).
+mrank( 26,  12,  26).
+mrank( 26,  34,  27).
+mrank( 26,  22,  28).
+mrank( 26,   7,  29).
+mrank( 26,  46,  30).
+mrank( 26,  62,  33).
+mrank( 26,   1,  35).
+mrank( 26,  28,  40).
+mrank( 26,  49,  44).
+mrank( 26,  23,  53).
+mrank( 26,  11,  55).
+mrank( 26,  58,  57).
+mrank( 26,  99,  60).
+mrank( 26,  88,  61).
+mrank( 26,  54,  65).
+mrank( 26,  73,  66).
+mrank( 26, 100,  72).
+mrank( 26,  48,  73).
+mrank( 26,  19,  74).
+mrank( 26,   9,  78).
+mrank( 26,  51,  81).
+mrank( 26,  36,  85).
+mrank( 26,  65,  90).
+mrank( 26,  67,  96).
+mrank( 26,  60, 100).
+mrank( 26, 113, 104).
+mrank( 26,  56, 119).
+mrank( 27,  36,   6).
+mrank( 27,  43,   7).
+mrank( 27, 103,  11).
+mrank( 27,  84,  12).
+mrank( 27,  17,  16).
+mrank( 27,  71,  19).
+mrank( 27,  41,  27).
+mrank( 27,  50,  28).
+mrank( 27, 118,  34).
+mrank( 27,  18,  42).
+mrank( 27,  14,  44).
+mrank( 27,  30,  55).
+mrank( 27,  83,  59).
+mrank( 27,  59,  61).
+mrank( 27, 106,  64).
+mrank( 27,  21,  66).
+mrank( 27,  67,  71).
+mrank( 27,  12,  79).
+mrank( 27,  72,  86).
+mrank( 27,  55,  91).
+mrank( 27,  92,  92).
+mrank( 27,  45,  93).
+mrank( 27, 107,  95).
+mrank( 27,  61,  97).
+mrank( 27,  38, 102).
+mrank( 27,   8, 104).
+mrank( 27,  10, 107).
+mrank( 27,  86, 108).
+mrank( 27,  63, 109).
+mrank( 27,  57, 111).
+mrank( 27,  39, 112).
+mrank( 27,  31, 114).
+mrank( 27,  73, 119).
+mrank( 27,  60, 120).
+mrank( 28,  21,  13).
+mrank( 28,  81,  19).
+mrank( 28,  61,  25).
+mrank( 28,  54,  26).
+mrank( 28,  68,  27).
+mrank( 28,  57,  29).
+mrank( 28,  79,  31).
+mrank( 28,   9,  33).
+mrank( 28,  32,  36).
+mrank( 28,   6,  40).
+mrank( 28,  91,  44).
+mrank( 28,  99,  46).
+mrank( 28,  90,  51).
+mrank( 28,  67,  54).
+mrank( 28, 108,  55).
+mrank( 28,  75,  57).
+mrank( 28,  42,  58).
+mrank( 28,  45,  59).
+mrank( 28,   3,  60).
+mrank( 28, 101,  65).
+mrank( 28, 102,  80).
+mrank( 28,  34,  85).
+mrank( 28,  59,  91).
+mrank( 28, 103,  92).
+mrank( 28,  73,  95).
+mrank( 28,  40, 110).
+mrank( 28,  25, 111).
+mrank( 28,  28, 112).
+mrank( 28,  13, 115).
+mrank( 29,  35,   1).
+mrank( 29,  75,  11).
+mrank( 29,  39,  13).
+mrank( 29,  99,  21).
+mrank( 29,  89,  22).
+mrank( 29,  30,  24).
+mrank( 29,  37,  26).
+mrank( 29,  78,  29).
+mrank( 29,  31,  32).
+mrank( 29, 102,  36).
+mrank( 29,  29,  37).
+mrank( 29,  19,  40).
+mrank( 29,  90,  41).
+mrank( 29,  25,  42).
+mrank( 29,  54,  45).
+mrank( 29, 105,  48).
+mrank( 29, 112,  50).
+mrank( 29,  77,  52).
+mrank( 29,  76,  55).
+mrank( 29, 106,  59).
+mrank( 29,  27,  62).
+mrank( 29,  21,  64).
+mrank( 29,  61,  71).
+mrank( 29, 115,  78).
+mrank( 29,  13,  82).
+mrank( 29,   7,  88).
+mrank( 29,  44,  89).
+mrank( 29,  64,  97).
+mrank( 29,  73,  98).
+mrank( 29,  23,  99).
+mrank( 29,  82, 106).
+mrank( 29, 109, 107).
+mrank( 29,  53, 113).
+mrank( 29,  48, 118).
+mrank( 29,  38, 119).
+mrank( 30,  27,   2).
+mrank( 30,  76,   5).
+mrank( 30,  96,   6).
+mrank( 30,  32,  16).
+mrank( 30,  24,  17).
+mrank( 30, 100,  25).
+mrank( 30,  95,  26).
+mrank( 30,  86,  33).
+mrank( 30,  50,  35).
+mrank( 30,  36,  36).
+mrank( 30,  98,  38).
+mrank( 30, 117,  41).
+mrank( 30,  77,  48).
+mrank( 30,  63,  54).
+mrank( 30,  21,  57).
+mrank( 30,  12,  65).
+mrank( 30,   2,  70).
+mrank( 30,  48,  74).
+mrank( 30,  33,  76).
+mrank( 30,  56,  81).
+mrank( 30,  23,  82).
+mrank( 30,  31,  88).
+mrank( 30, 105,  98).
+mrank( 30,  72, 103).
+mrank( 30,   6, 104).
+mrank( 30,  97, 107).
+mrank( 30,  71, 108).
+mrank( 30,  62, 111).
+mrank( 30,  11, 112).
+mrank( 30,  82, 115).
+mrank( 30,  54, 118).
+mrank( 30,  47, 120).
+
+wrank(  1,   9,   4).
+wrank(  1,  21,   5).
+wrank(  1,  22,   6).
+wrank(  1,  13,   8).
+wrank(  1,  27,   9).
+wrank(  1,  28,  11).
+wrank(  1,   6,  13).
+wrank(  1,   1,  15).
+wrank(  1,  26,  16).
+wrank(  1,  10,  18).
+wrank(  1,  14,  19).
+wrank(  1,   8,  21).
+wrank(  1,  17,  24).
+wrank(  1,  23,  27).
+wrank(  1,  16,  29).
+wrank(  1,   7,  30).
+wrank(  2,  29,   3).
+wrank(  2,   5,   5).
+wrank(  2,  20,   6).
+wrank(  2,  11,   7).
+wrank(  2,  30,   8).
+wrank(  2,   8,  11).
+wrank(  2,   9,  12).
+wrank(  2,   1,  16).
+wrank(  2,  15,  17).
+wrank(  2,  14,  21).
+wrank(  2,  21,  23).
+wrank(  2,  25,  24).
+wrank(  2,  24,  26).
+wrank(  2,  17,  28).
+wrank(  2,  19,  30).
+wrank(  3,   4,   2).
+wrank(  3,   6,   3).
+wrank(  3,  22,   4).
+wrank(  3,   9,   5).
+wrank(  3,  23,  10).
+wrank(  3,   5,  11).
+wrank(  3,   1,  12).
+wrank(  3,  30,  13).
+wrank(  3,   3,  15).
+wrank(  3,  25,  18).
+wrank(  3,  29,  26).
+wrank(  3,  12,  30).
+wrank(  4,  21,   1).
+wrank(  4,   4,   2).
+wrank(  4,   6,   3).
+wrank(  4,   7,   6).
+wrank(  4,  29,  10).
+wrank(  4,  20,  12).
+wrank(  4,  30,  13).
+wrank(  4,  28,  14).
+wrank(  4,  23,  17).
+wrank(  4,  16,  19).
+wrank(  4,  22,  21).
+wrank(  4,  19,  23).
+wrank(  4,  18,  24).
+wrank(  4,  25,  26).
+wrank(  4,   2,  30).
+wrank(  5,   2,   1).
+wrank(  5,  10,   3).
+wrank(  5,  20,   6).
+wrank(  5,   7,   7).
+wrank(  5,   9,   8).
+wrank(  5,  26,  11).
+wrank(  5,  13,  12).
+wrank(  5,  24,  15).
+wrank(  5,   1,  16).
+wrank(  5,   4,  18).
+wrank(  5,  18,  19).
+wrank(  5,  28,  21).
+wrank(  5,  19,  22).
+wrank(  5,  25,  23).
+wrank(  5,   5,  25).
+wrank(  5,  14,  26).
+wrank(  6,  30,   2).
+wrank(  6,  13,   4).
+wrank(  6,   9,   6).
+wrank(  6,  26,   7).
+wrank(  6,   7,   8).
+wrank(  6,  28,  12).
+wrank(  6,   5,  13).
+wrank(  6,  11,  14).
+wrank(  6,   3,  16).
+wrank(  6,  23,  20).
+wrank(  6,  25,  22).
+wrank(  6,  15,  24).
+wrank(  6,  16,  25).
+wrank(  6,  10,  27).
+wrank(  6,  27,  28).
+wrank(  6,  22,  30).
+wrank(  7,   9,   2).
+wrank(  7,  18,   3).
+wrank(  7,  24,   4).
+wrank(  7,  25,   6).
+wrank(  7,   2,   9).
+wrank(  7,  16,  10).
+wrank(  7,  23,  14).
+wrank(  7,  29,  16).
+wrank(  7,  20,  19).
+wrank(  7,   3,  23).
+wrank(  7,   8,  24).
+wrank(  7,   4,  25).
+wrank(  7,   5,  26).
+wrank(  7,  21,  28).
+wrank(  7,  12,  29).
+wrank(  7,  26,  30).
+wrank(  8,  10,   2).
+wrank(  8,  20,   3).
+wrank(  8,   3,   4).
+wrank(  8,  23,   5).
+wrank(  8,  13,   8).
+wrank(  8,   8,  10).
+wrank(  8,  27,  13).
+wrank(  8,  19,  15).
+wrank(  8,   1,  16).
+wrank(  8,  30,  17).
+wrank(  8,   2,  18).
+wrank(  8,  28,  19).
+wrank(  8,  22,  21).
+wrank(  8,  18,  22).
+wrank(  8,  16,  26).
+wrank(  8,  14,  28).
+wrank(  8,   6,  30).
+wrank(  9,  20,   1).
+wrank(  9,  16,   3).
+wrank(  9,  24,   8).
+wrank(  9,  19,  10).
+wrank(  9,   9,  14).
+wrank(  9,   8,  16).
+wrank(  9,   1,  18).
+wrank(  9,  12,  22).
+wrank(  9,  30,  24).
+wrank(  9,  10,  25).
+wrank(  9,   5,  26).
+wrank(  9,  11,  27).
+wrank(  9,   6,  28).
+wrank(  9,  25,  29).
+wrank(  9,  28,  30).
+wrank( 10,  29,   1).
+wrank( 10,  15,   4).
+wrank( 10,  19,   5).
+wrank( 10,  17,   6).
+wrank( 10,   9,   9).
+wrank( 10,   4,  10).
+wrank( 10,  23,  13).
+wrank( 10,  20,  15).
+wrank( 10,  11,  21).
+wrank( 10,  12,  24).
+wrank( 10,  26,  30).
+wrank( 11,  12,   1).
+wrank( 11,  14,   2).
+wrank( 11,  22,   4).
+wrank( 11,  21,   8).
+wrank( 11,  16,  16).
+wrank( 11,  27,  17).
+wrank( 11,   4,  26).
+wrank( 11,  24,  28).
+wrank( 11,  15,  30).
+wrank( 12,  20,   1).
+wrank( 12,   3,   2).
+wrank( 12,  14,   4).
+wrank( 12,  29,   7).
+wrank( 12,   5,   8).
+wrank( 12,  25,  14).
+wrank( 12,   7,  16).
+wrank( 12,  16,  17).
+wrank( 12,  21,  18).
+wrank( 12,  22,  24).
+wrank( 12,  12,  25).
+wrank( 12,  24,  27).
+wrank( 12,  13,  28).
+wrank( 12,   8,  29).
+wrank( 13,  12,   1).
+wrank( 13,   6,   3).
+wrank( 13,  24,   7).
+wrank( 13,  26,   8).
+wrank( 13,  11,   9).
+wrank( 13,  18,  11).
+wrank( 13,  23,  12).
+wrank( 13,   9,  13).
+wrank( 13,  17,  15).
+wrank( 13,   8,  18).
+wrank( 13,   4,  23).
+wrank( 13,   2,  26).
+wrank( 13,   1,  27).
+wrank( 13,  27,  30).
+wrank( 14,  30,   2).
+wrank( 14,  26,   4).
+wrank( 14,  21,   7).
+wrank( 14,  19,   8).
+wrank( 14,  16,   9).
+wrank( 14,   8,  12).
+wrank( 14,   4,  14).
+wrank( 14,   9,  16).
+wrank( 14,   5,  24).
+wrank( 14,  18,  26).
+wrank( 14,  14,  27).
+wrank( 14,  12,  29).
+wrank( 15,  22,   1).
+wrank( 15,  15,   3).
+wrank( 15,   2,   4).
+wrank( 15,   8,   6).
+wrank( 15,  16,   9).
+wrank( 15,  21,  12).
+wrank( 15,   7,  14).
+wrank( 15,  20,  15).
+wrank( 15,  11,  16).
+wrank( 15,  10,  17).
+wrank( 15,   1,  19).
+wrank( 15,  18,  22).
+wrank( 15,  14,  23).
+wrank( 15,  29,  24).
+wrank( 15,   4,  28).
+wrank( 15,   3,  29).
+wrank( 15,  25,  30).
+wrank( 16,  18,   1).
+wrank( 16,  30,   5).
+wrank( 16,  20,   6).
+wrank( 16,  16,  11).
+wrank( 16,   9,  12).
+wrank( 16,  28,  13).
+wrank( 16,  21,  17).
+wrank( 16,  14,  18).
+wrank( 16,  25,  21).
+wrank( 16,   5,  24).
+wrank( 16,  11,  26).
+wrank( 17,   4,   1).
+wrank( 17,  10,   6).
+wrank( 17,  24,   7).
+wrank( 17,  21,   8).
+wrank( 17,  19,  11).
+wrank( 17,  22,  14).
+wrank( 17,  29,  24).
+wrank( 17,  12,  26).
+wrank( 17,  18,  27).
+wrank( 17,  17,  28).
+wrank( 17,  11,  29).
+wrank( 17,   9,  30).
+wrank( 18,  10,   1).
+wrank( 18,   3,   2).
+wrank( 18,  29,   3).
+wrank( 18,  20,   7).
+wrank( 18,  21,   8).
+wrank( 18,   4,  12).
+wrank( 18,  18,  15).
+wrank( 18,  26,  16).
+wrank( 18,  23,  17).
+wrank( 18,   2,  18).
+wrank( 18,  28,  19).
+wrank( 18,   7,  20).
+wrank( 18,  16,  21).
+wrank( 18,  15,  22).
+wrank( 18,   9,  24).
+wrank( 18,   5,  25).
+wrank( 18,  30,  28).
+wrank( 18,   6,  29).
+wrank( 19,  24,   1).
+wrank( 19,  19,   5).
+wrank( 19,  28,   8).
+wrank( 19,  21,  10).
+wrank( 19,   9,  11).
+wrank( 19,   4,  12).
+wrank( 19,  11,  13).
+wrank( 19,  13,  14).
+wrank( 19,  17,  18).
+wrank( 19,  27,  19).
+wrank( 19,   8,  20).
+wrank( 19,  15,  21).
+wrank( 19,   7,  22).
+wrank( 19,  20,  23).
+wrank( 19,   5,  24).
+wrank( 19,  16,  26).
+wrank( 19,  26,  30).
+wrank( 20,  28,   2).
+wrank( 20,  17,   3).
+wrank( 20,  27,   6).
+wrank( 20,  11,  10).
+wrank( 20,  12,  11).
+wrank( 20,  19,  14).
+wrank( 20,  16,  16).
+wrank( 20,  26,  17).
+wrank( 20,  25,  19).
+wrank( 20,   6,  20).
+wrank( 20,   3,  21).
+wrank( 20,   9,  24).
+wrank( 21,   2,   4).
+wrank( 21,  29,   5).
+wrank( 21,   7,   8).
+wrank( 21,  24,   9).
+wrank( 21,   5,  10).
+wrank( 21,  10,  11).
+wrank( 21,  13,  12).
+wrank( 21,  26,  13).
+wrank( 21,   1,  14).
+wrank( 21,   3,  18).
+wrank( 21,  17,  19).
+wrank( 21,  11,  20).
+wrank( 21,  18,  21).
+wrank( 21,  21,  24).
+wrank( 21,  14,  27).
+wrank( 22,  24,   1).
+wrank( 22,   7,   2).
+wrank( 22,  23,   5).
+wrank( 22,  25,   6).
+wrank( 22,  19,   8).
+wrank( 22,  16,   9).
+wrank( 22,  29,  12).
+wrank( 22,  18,  16).
+wrank( 22,   9,  17).
+wrank( 22,   2,  18).
+wrank( 22,  11,  19).
+wrank( 22,  21,  20).
+wrank( 22,   4,  22).
+wrank( 22,   5,  25).
+wrank( 22,  27,  26).
+wrank( 22,  15,  27).
+wrank( 23,  28,   1).
+wrank( 23,  10,   2).
+wrank( 23,   6,   4).
+wrank( 23,  16,   5).
+wrank( 23,  30,  10).
+wrank( 23,   2,  11).
+wrank( 23,  11,  13).
+wrank( 23,  17,  15).
+wrank( 23,  22,  17).
+wrank( 23,  25,  20).
+wrank( 23,   9,  21).
+wrank( 23,   7,  23).
+wrank( 23,  13,  25).
+wrank( 23,  26,  27).
+wrank( 23,  18,  28).
+wrank( 23,  15,  29).
+wrank( 23,  21,  30).
+wrank( 24,  20,   2).
+wrank( 24,  22,   5).
+wrank( 24,  13,   7).
+wrank( 24,  10,  11).
+wrank( 24,  27,  15).
+wrank( 24,  21,  16).
+wrank( 24,  15,  17).
+wrank( 24,  14,  18).
+wrank( 24,  28,  20).
+wrank( 24,  11,  21).
+wrank( 24,  29,  22).
+wrank( 24,   8,  24).
+wrank( 24,   7,  25).
+wrank( 24,  12,  27).
+wrank( 24,  17,  29).
+wrank( 25,  24,   1).
+wrank( 25,  11,   3).
+wrank( 25,   3,   5).
+wrank( 25,  22,   7).
+wrank( 25,  21,   8).
+wrank( 25,   4,   9).
+wrank( 25,  23,  10).
+wrank( 25,  28,  11).
+wrank( 25,  10,  13).
+wrank( 25,  29,  18).
+wrank( 25,   5,  29).
+wrank( 26,  20,   1).
+wrank( 26,   4,   2).
+wrank( 26,  22,   5).
+wrank( 26,   6,   6).
+wrank( 26,   5,   7).
+wrank( 26,  18,   9).
+wrank( 26,  24,  11).
+wrank( 26,  14,  13).
+wrank( 26,  12,  14).
+wrank( 26,  15,  15).
+wrank( 26,  28,  18).
+wrank( 26,   8,  20).
+wrank( 26,   1,  21).
+wrank( 26,   2,  22).
+wrank( 26,  29,  24).
+wrank( 26,  23,  26).
+wrank( 26,  30,  27).
+wrank( 26,  10,  29).
+wrank( 27,  30,   5).
+wrank( 27,   7,   6).
+wrank( 27,  22,   7).
+wrank( 27,   1,   9).
+wrank( 27,  16,  11).
+wrank( 27,  23,  12).
+wrank( 27,   6,  17).
+wrank( 27,  19,  18).
+wrank( 27,  18,  23).
+wrank( 27,   2,  24).
+wrank( 27,   8,  27).
+wrank( 27,  24,  30).
+wrank( 28,  21,   1).
+wrank( 28,   3,   5).
+wrank( 28,  18,   6).
+wrank( 28,  22,   9).
+wrank( 28,   1,  11).
+wrank( 28,  15,  13).
+wrank( 28,  20,  16).
+wrank( 28,  19,  18).
+wrank( 28,   2,  21).
+wrank( 28,  28,  22).
+wrank( 28,   4,  23).
+wrank( 28,  12,  24).
+wrank( 28,  26,  28).
+wrank( 29,  18,   1).
+wrank( 29,  17,   2).
+wrank( 29,  22,   5).
+wrank( 29,   4,   6).
+wrank( 29,  30,   7).
+wrank( 29,   6,   8).
+wrank( 29,  21,  12).
+wrank( 29,   5,  13).
+wrank( 29,  15,  14).
+wrank( 29,   3,  15).
+wrank( 29,   8,  16).
+wrank( 29,  11,  17).
+wrank( 29,   9,  19).
+wrank( 29,  23,  21).
+wrank( 29,  10,  22).
+wrank( 29,   7,  23).
+wrank( 29,  13,  24).
+wrank( 29,  16,  25).
+wrank( 29,  29,  26).
+wrank( 29,   1,  28).
+wrank( 29,  12,  30).
+wrank( 30,  12,   4).
+wrank( 30,  21,   5).
+wrank( 30,   1,   6).
+wrank( 30,  27,  10).
+wrank( 30,  20,  11).
+wrank( 30,  22,  14).
+wrank( 30,  11,  18).
+wrank( 30,   5,  20).
+wrank( 30,   8,  21).
+wrank( 30,  13,  25).
+wrank( 30,  18,  27).
+wrank( 30,  24,  29).
+wrank( 31,   6,   1).
+wrank( 31,  16,   4).
+wrank( 31,  28,   5).
+wrank( 31,   1,   8).
+wrank( 31,   3,   9).
+wrank( 31,  14,  11).
+wrank( 31,   9,  13).
+wrank( 31,  25,  16).
+wrank( 31,  23,  18).
+wrank( 31,  27,  19).
+wrank( 31,  13,  21).
+wrank( 31,  15,  23).
+wrank( 31,  10,  25).
+wrank( 31,  29,  26).
+wrank( 31,   5,  29).
+wrank( 31,  17,  30).
+wrank( 32,  12,   2).
+wrank( 32,   1,   5).
+wrank( 32,  20,   6).
+wrank( 32,  21,   7).
+wrank( 32,  29,   8).
+wrank( 32,   4,  10).
+wrank( 32,  13,  11).
+wrank( 32,  23,  13).
+wrank( 32,  10,  16).
+wrank( 32,  30,  17).
+wrank( 32,  22,  18).
+wrank( 32,  25,  19).
+wrank( 32,  17,  20).
+wrank( 32,  26,  21).
+wrank( 32,   7,  23).
+wrank( 32,   2,  25).
+wrank( 32,  28,  27).
+wrank( 32,   5,  29).
+wrank( 32,  16,  30).
+wrank( 33,   6,   1).
+wrank( 33,  14,   2).
+wrank( 33,  19,   5).
+wrank( 33,  12,   9).
+wrank( 33,  15,  10).
+wrank( 33,  13,  15).
+wrank( 33,  22,  18).
+wrank( 33,  26,  19).
+wrank( 33,  20,  20).
+wrank( 33,   9,  21).
+wrank( 33,  27,  22).
+wrank( 33,   4,  23).
+wrank( 33,  24,  24).
+wrank( 33,  28,  28).
+wrank( 33,  10,  30).
+wrank( 34,   6,   1).
+wrank( 34,  19,   3).
+wrank( 34,  26,   5).
+wrank( 34,   8,   8).
+wrank( 34,  13,  10).
+wrank( 34,   3,  13).
+wrank( 34,  24,  15).
+wrank( 34,  30,  16).
+wrank( 34,  18,  17).
+wrank( 34,  23,  19).
+wrank( 34,  16,  26).
+wrank( 34,   7,  27).
+wrank( 34,   9,  28).
+wrank( 34,  22,  30).
+wrank( 35,  22,   1).
+wrank( 35,  19,   8).
+wrank( 35,  17,  10).
+wrank( 35,   9,  12).
+wrank( 35,  21,  14).
+wrank( 35,   6,  17).
+wrank( 35,   4,  19).
+wrank( 35,   5,  20).
+wrank( 35,  25,  22).
+wrank( 35,  26,  23).
+wrank( 35,   1,  24).
+wrank( 35,  14,  26).
+wrank( 35,  10,  27).
+wrank( 35,   2,  29).
+wrank( 36,  17,   1).
+wrank( 36,   4,   2).
+wrank( 36,  22,   3).
+wrank( 36,  26,   6).
+wrank( 36,  23,   8).
+wrank( 36,   5,   9).
+wrank( 36,  10,  10).
+wrank( 36,  12,  11).
+wrank( 36,  25,  12).
+wrank( 36,   1,  13).
+wrank( 36,  19,  14).
+wrank( 36,  13,  18).
+wrank( 36,  18,  19).
+wrank( 36,   7,  20).
+wrank( 36,  11,  24).
+wrank( 36,  20,  27).
+wrank( 36,   3,  29).
+wrank( 36,  29,  30).
+wrank( 37,  12,   1).
+wrank( 37,  30,   3).
+wrank( 37,  28,   5).
+wrank( 37,  25,   6).
+wrank( 37,  14,   7).
+wrank( 37,  19,  11).
+wrank( 37,   3,  12).
+wrank( 37,  11,  13).
+wrank( 37,  27,  16).
+wrank( 37,   9,  18).
+wrank( 37,  26,  20).
+wrank( 37,  23,  21).
+wrank( 37,   6,  22).
+wrank( 37,  20,  23).
+wrank( 37,   1,  24).
+wrank( 37,  10,  26).
+wrank( 37,  22,  27).
+wrank( 37,  13,  29).
+wrank( 38,  19,   3).
+wrank( 38,   5,   6).
+wrank( 38,   6,   7).
+wrank( 38,  12,   9).
+wrank( 38,  11,  10).
+wrank( 38,   3,  12).
+wrank( 38,  21,  13).
+wrank( 38,  25,  14).
+wrank( 38,  23,  15).
+wrank( 38,  26,  18).
+wrank( 38,   1,  19).
+wrank( 38,  24,  22).
+wrank( 38,  30,  24).
+wrank( 38,  18,  26).
+wrank( 38,  22,  28).
+wrank( 38,  29,  29).
+wrank( 38,  20,  30).
+wrank( 39,  17,   2).
+wrank( 39,   3,   3).
+wrank( 39,  15,   4).
+wrank( 39,  25,   5).
+wrank( 39,  23,   6).
+wrank( 39,   8,   7).
+wrank( 39,  13,   8).
+wrank( 39,  16,   9).
+wrank( 39,  26,  12).
+wrank( 39,   4,  13).
+wrank( 39,  30,  15).
+wrank( 39,  12,  17).
+wrank( 39,  14,  18).
+wrank( 39,  27,  19).
+wrank( 39,   7,  22).
+wrank( 39,   6,  23).
+wrank( 39,  21,  24).
+wrank( 39,   5,  25).
+wrank( 39,  10,  26).
+wrank( 39,  19,  29).
+wrank( 40,  19,   1).
+wrank( 40,  22,   4).
+wrank( 40,  18,   5).
+wrank( 40,  21,   7).
+wrank( 40,  11,   8).
+wrank( 40,  12,  11).
+wrank( 40,   8,  15).
+wrank( 40,   2,  16).
+wrank( 40,  27,  17).
+wrank( 40,   4,  21).
+wrank( 40,   5,  23).
+wrank( 40,  30,  24).
+wrank( 40,  13,  25).
+wrank( 40,   6,  27).
+wrank( 40,  25,  28).
+wrank( 40,  10,  29).
+wrank( 41,  17,   4).
+wrank( 41,  30,   6).
+wrank( 41,   7,   7).
+wrank( 41,  10,   8).
+wrank( 41,  29,   9).
+wrank( 41,  18,  10).
+wrank( 41,  21,  16).
+wrank( 41,  12,  18).
+wrank( 41,  24,  19).
+wrank( 41,  23,  22).
+wrank( 41,  19,  23).
+wrank( 41,   2,  26).
+wrank( 41,  22,  27).
+wrank( 41,  11,  30).
+wrank( 42,   8,   3).
+wrank( 42,   5,   4).
+wrank( 42,  12,   6).
+wrank( 42,  23,   9).
+wrank( 42,  24,  10).
+wrank( 42,  28,  12).
+wrank( 42,  15,  13).
+wrank( 42,  14,  14).
+wrank( 42,   2,  16).
+wrank( 42,  22,  20).
+wrank( 42,  27,  21).
+wrank( 42,   9,  22).
+wrank( 42,  25,  25).
+wrank( 42,  19,  26).
+wrank( 43,  13,   1).
+wrank( 43,   2,   2).
+wrank( 43,  21,   3).
+wrank( 43,   7,   4).
+wrank( 43,   9,   5).
+wrank( 43,  29,   6).
+wrank( 43,   1,   8).
+wrank( 43,   8,   9).
+wrank( 43,  10,  11).
+wrank( 43,  17,  14).
+wrank( 43,  23,  15).
+wrank( 43,   6,  18).
+wrank( 43,  26,  19).
+wrank( 43,  15,  20).
+wrank( 43,  11,  21).
+wrank( 43,  22,  23).
+wrank( 43,  30,  24).
+wrank( 43,  27,  25).
+wrank( 43,  24,  28).
+wrank( 43,  14,  29).
+wrank( 44,  19,   4).
+wrank( 44,   9,   5).
+wrank( 44,  25,   6).
+wrank( 44,   7,  13).
+wrank( 44,  11,  15).
+wrank( 44,  26,  17).
+wrank( 44,   4,  18).
+wrank( 44,  20,  19).
+wrank( 44,  15,  23).
+wrank( 44,   1,  25).
+wrank( 44,  14,  27).
+wrank( 44,   3,  29).
+wrank( 45,  19,   7).
+wrank( 45,  15,   8).
+wrank( 45,  10,   9).
+wrank( 45,   9,  10).
+wrank( 45,  23,  11).
+wrank( 45,  13,  13).
+wrank( 45,  25,  14).
+wrank( 45,  14,  15).
+wrank( 45,  21,  24).
+wrank( 45,   7,  27).
+wrank( 45,   6,  28).
+wrank( 46,  14,   1).
+wrank( 46,  28,   2).
+wrank( 46,   9,   3).
+wrank( 46,  25,   4).
+wrank( 46,  27,   6).
+wrank( 46,   4,   7).
+wrank( 46,  24,   9).
+wrank( 46,  10,  10).
+wrank( 46,   5,  11).
+wrank( 46,  12,  12).
+wrank( 46,  13,  18).
+wrank( 46,  15,  19).
+wrank( 46,  21,  20).
+wrank( 46,   2,  22).
+wrank( 46,  11,  24).
+wrank( 46,  30,  26).
+wrank( 46,  23,  27).
+wrank( 46,  29,  30).
+wrank( 47,  15,   1).
+wrank( 47,   3,   3).
+wrank( 47,   1,   4).
+wrank( 47,  12,   5).
+wrank( 47,  11,   8).
+wrank( 47,  18,  10).
+wrank( 47,  23,  11).
+wrank( 47,  20,  15).
+wrank( 47,  22,  18).
+wrank( 47,  25,  20).
+wrank( 47,  19,  22).
+wrank( 47,  14,  23).
+wrank( 47,   9,  24).
+wrank( 47,  21,  28).
+wrank( 48,   2,   1).
+wrank( 48,  11,   3).
+wrank( 48,  18,   8).
+wrank( 48,  29,  10).
+wrank( 48,   1,  12).
+wrank( 48,  14,  14).
+wrank( 48,  24,  18).
+wrank( 48,  20,  19).
+wrank( 48,   3,  23).
+wrank( 48,  16,  25).
+wrank( 49,   9,   2).
+wrank( 49,   1,   3).
+wrank( 49,  24,   6).
+wrank( 49,  17,   8).
+wrank( 49,  21,  10).
+wrank( 49,   5,  13).
+wrank( 49,  16,  19).
+wrank( 49,   6,  21).
+wrank( 49,   8,  23).
+wrank( 49,  25,  24).
+wrank( 49,  18,  25).
+wrank( 49,  20,  26).
+wrank( 49,  13,  27).
+wrank( 49,   4,  30).
+wrank( 50,  11,   2).
+wrank( 50,   9,   4).
+wrank( 50,  20,   6).
+wrank( 50,   3,   8).
+wrank( 50,  22,  10).
+wrank( 50,   4,  12).
+wrank( 50,  17,  13).
+wrank( 50,  26,  16).
+wrank( 50,  25,  18).
+wrank( 50,   5,  19).
+wrank( 50,   2,  20).
+wrank( 50,   6,  21).
+wrank( 50,  10,  23).
+wrank( 50,   1,  24).
+wrank( 50,  27,  25).
+wrank( 50,  13,  30).
+wrank( 51,   3,   4).
+wrank( 51,  14,   7).
+wrank( 51,  30,   8).
+wrank( 51,  25,   9).
+wrank( 51,  29,  12).
+wrank( 51,  12,  13).
+wrank( 51,  20,  14).
+wrank( 51,  11,  16).
+wrank( 51,   1,  18).
+wrank( 51,  10,  20).
+wrank( 51,  24,  22).
+wrank( 51,  19,  23).
+wrank( 51,   4,  25).
+wrank( 51,  16,  27).
+wrank( 51,  15,  29).
+wrank( 51,  27,  30).
+wrank( 52,  13,   1).
+wrank( 52,  10,   3).
+wrank( 52,  26,   8).
+wrank( 52,  15,  12).
+wrank( 52,  11,  16).
+wrank( 52,   2,  19).
+wrank( 52,  16,  23).
+wrank( 52,   7,  25).
+wrank( 52,  29,  26).
+wrank( 52,   3,  28).
+wrank( 52,   9,  30).
+wrank( 53,  17,   1).
+wrank( 53,  13,   4).
+wrank( 53,  21,   5).
+wrank( 53,  28,   7).
+wrank( 53,   5,  10).
+wrank( 53,  20,  12).
+wrank( 53,   2,  13).
+wrank( 53,  27,  16).
+wrank( 53,  25,  17).
+wrank( 53,  23,  23).
+wrank( 53,   9,  24).
+wrank( 53,   1,  29).
+wrank( 54,  16,   1).
+wrank( 54,   7,   3).
+wrank( 54,  17,   5).
+wrank( 54,  23,   8).
+wrank( 54,  12,  11).
+wrank( 54,  19,  12).
+wrank( 54,  10,  13).
+wrank( 54,  15,  15).
+wrank( 54,   9,  16).
+wrank( 54,  18,  17).
+wrank( 54,  11,  18).
+wrank( 54,   4,  19).
+wrank( 54,   8,  22).
+wrank( 54,  25,  23).
+wrank( 54,  22,  25).
+wrank( 54,  21,  26).
+wrank( 54,   2,  28).
+wrank( 55,  11,   3).
+wrank( 55,  13,   4).
+wrank( 55,  29,   6).
+wrank( 55,  27,   7).
+wrank( 55,   6,  10).
+wrank( 55,  21,  13).
+wrank( 55,  18,  15).
+wrank( 55,  10,  17).
+wrank( 55,  28,  18).
+wrank( 55,  26,  19).
+wrank( 55,  19,  21).
+wrank( 55,  16,  23).
+wrank( 55,   5,  24).
+wrank( 55,  24,  25).
+wrank( 55,   7,  26).
+wrank( 55,   2,  27).
+wrank( 55,  14,  29).
+wrank( 55,  23,  30).
+wrank( 56,   4,   2).
+wrank( 56,  29,   4).
+wrank( 56,   3,   5).
+wrank( 56,  10,   7).
+wrank( 56,   8,   8).
+wrank( 56,  30,   9).
+wrank( 56,  28,  17).
+wrank( 56,  11,  18).
+wrank( 56,  22,  21).
+wrank( 56,  15,  22).
+wrank( 56,   2,  23).
+wrank( 56,  23,  24).
+wrank( 56,  12,  26).
+wrank( 56,  21,  28).
+wrank( 56,   5,  30).
+wrank( 57,  14,   1).
+wrank( 57,  15,   3).
+wrank( 57,  16,   7).
+wrank( 57,  23,   8).
+wrank( 57,  22,  12).
+wrank( 57,   6,  14).
+wrank( 57,   8,  15).
+wrank( 57,  28,  16).
+wrank( 57,  13,  18).
+wrank( 57,  21,  21).
+wrank( 57,  12,  25).
+wrank( 58,   6,   4).
+wrank( 58,   4,   9).
+wrank( 58,  13,  12).
+wrank( 58,  21,  13).
+wrank( 58,  10,  14).
+wrank( 58,   9,  15).
+wrank( 58,  14,  17).
+wrank( 58,  19,  19).
+wrank( 58,  29,  22).
+wrank( 58,   2,  23).
+wrank( 58,  23,  24).
+wrank( 58,   1,  25).
+wrank( 58,   7,  26).
+wrank( 58,  27,  27).
+wrank( 58,  25,  28).
+wrank( 58,   3,  29).
+wrank( 59,  27,   1).
+wrank( 59,  20,   2).
+wrank( 59,  28,   3).
+wrank( 59,   5,   5).
+wrank( 59,  12,   7).
+wrank( 59,  17,   8).
+wrank( 59,   6,   9).
+wrank( 59,  23,  12).
+wrank( 59,   9,  13).
+wrank( 59,  25,  15).
+wrank( 59,  29,  16).
+wrank( 59,  10,  18).
+wrank( 59,   4,  20).
+wrank( 59,  30,  22).
+wrank( 59,  13,  23).
+wrank( 59,  21,  25).
+wrank( 59,  26,  29).
+wrank( 59,   7,  30).
+wrank( 60,   6,   3).
+wrank( 60,  25,   4).
+wrank( 60,   3,   5).
+wrank( 60,   7,   6).
+wrank( 60,   4,   7).
+wrank( 60,  16,   8).
+wrank( 60,   1,  10).
+wrank( 60,   8,  11).
+wrank( 60,  17,  12).
+wrank( 60,  20,  13).
+wrank( 60,  10,  14).
+wrank( 60,  18,  15).
+wrank( 60,  29,  16).
+wrank( 60,  28,  20).
+wrank( 60,  13,  22).
+wrank( 60,   5,  27).
+wrank( 60,   9,  30).
+wrank( 61,   1,   4).
+wrank( 61,  13,   5).
+wrank( 61,  11,   7).
+wrank( 61,  16,   8).
+wrank( 61,   7,   9).
+wrank( 61,  29,  15).
+wrank( 61,  10,  19).
+wrank( 61,  25,  23).
+wrank( 61,  27,  25).
+wrank( 61,  28,  26).
+wrank( 61,  20,  27).
+wrank( 61,   9,  28).
+wrank( 61,   5,  29).
+wrank( 61,  19,  30).
+wrank( 62,  26,   4).
+wrank( 62,   3,   5).
+wrank( 62,  11,   8).
+wrank( 62,  29,   9).
+wrank( 62,  17,  11).
+wrank( 62,   2,  12).
+wrank( 62,  21,  14).
+wrank( 62,  15,  15).
+wrank( 62,  30,  17).
+wrank( 62,   8,  18).
+wrank( 62,  27,  20).
+wrank( 62,  20,  24).
+wrank( 62,  23,  25).
+wrank( 62,  12,  28).
+wrank( 62,  28,  29).
+wrank( 63,   1,   1).
+wrank( 63,  25,   3).
+wrank( 63,  18,   5).
+wrank( 63,   7,   6).
+wrank( 63,  19,   7).
+wrank( 63,  11,   8).
+wrank( 63,  15,  10).
+wrank( 63,  17,  13).
+wrank( 63,   4,  17).
+wrank( 63,  14,  19).
+wrank( 63,  26,  20).
+wrank( 63,   6,  21).
+wrank( 63,   3,  22).
+wrank( 63,   5,  26).
+wrank( 63,  21,  28).
+wrank( 63,  29,  29).
+wrank( 63,  10,  30).
+wrank( 64,  18,   3).
+wrank( 64,  27,   7).
+wrank( 64,   3,  11).
+wrank( 64,  23,  12).
+wrank( 64,   5,  16).
+wrank( 64,  16,  18).
+wrank( 64,  24,  21).
+wrank( 64,  15,  22).
+wrank( 64,  17,  23).
+wrank( 65,   3,   3).
+wrank( 65,  10,   4).
+wrank( 65,   2,   5).
+wrank( 65,  11,   7).
+wrank( 65,  14,   8).
+wrank( 65,  20,  11).
+wrank( 65,  23,  12).
+wrank( 65,  27,  15).
+wrank( 65,  18,  16).
+wrank( 65,   9,  18).
+wrank( 65,  26,  21).
+wrank( 65,   8,  22).
+wrank( 65,  21,  24).
+wrank( 65,   1,  25).
+wrank( 65,  19,  29).
+wrank( 66,  28,   1).
+wrank( 66,  17,   2).
+wrank( 66,   2,   3).
+wrank( 66,   1,   4).
+wrank( 66,   4,   5).
+wrank( 66,   8,   6).
+wrank( 66,   5,   8).
+wrank( 66,  21,   9).
+wrank( 66,  13,  11).
+wrank( 66,  15,  12).
+wrank( 66,  18,  17).
+wrank( 66,  16,  24).
+wrank( 66,  22,  25).
+wrank( 66,  29,  26).
+wrank( 66,  19,  27).
+wrank( 66,   3,  30).
+wrank( 67,   3,   4).
+wrank( 67,  29,   5).
+wrank( 67,  20,   6).
+wrank( 67,  10,   8).
+wrank( 67,  19,   9).
+wrank( 67,  23,  11).
+wrank( 67,  18,  15).
+wrank( 67,   6,  17).
+wrank( 67,  30,  19).
+wrank( 67,   5,  20).
+wrank( 67,  17,  21).
+wrank( 67,  22,  23).
+wrank( 67,  27,  24).
+wrank( 67,   9,  27).
+wrank( 67,   8,  28).
+wrank( 67,  21,  30).
+wrank( 68,  18,   1).
+wrank( 68,  27,   3).
+wrank( 68,   8,   8).
+wrank( 68,  12,  11).
+wrank( 68,  26,  12).
+wrank( 68,   3,  17).
+wrank( 68,  16,  20).
+wrank( 68,  19,  22).
+wrank( 68,  30,  24).
+wrank( 68,   9,  27).
+wrank( 68,  10,  28).
+wrank( 68,  24,  30).
+wrank( 69,  14,   3).
+wrank( 69,   4,   4).
+wrank( 69,  28,   5).
+wrank( 69,   2,   6).
+wrank( 69,   8,   9).
+wrank( 69,  25,  10).
+wrank( 69,   6,  11).
+wrank( 69,  29,  12).
+wrank( 69,  27,  15).
+wrank( 69,   9,  18).
+wrank( 69,  23,  22).
+wrank( 69,  15,  24).
+wrank( 69,  17,  29).
+wrank( 70,   7,   2).
+wrank( 70,  25,   3).
+wrank( 70,  24,   4).
+wrank( 70,   1,   5).
+wrank( 70,   3,   6).
+wrank( 70,  10,   9).
+wrank( 70,  21,  10).
+wrank( 70,   8,  11).
+wrank( 70,  17,  13).
+wrank( 70,  14,  15).
+wrank( 70,   4,  19).
+wrank( 70,  16,  22).
+wrank( 70,  27,  23).
+wrank( 70,  26,  25).
+wrank( 70,  19,  26).
+wrank( 71,  28,   1).
+wrank( 71,  18,   2).
+wrank( 71,   1,   3).
+wrank( 71,  25,   5).
+wrank( 71,  30,   6).
+wrank( 71,  14,   7).
+wrank( 71,  15,  10).
+wrank( 71,   9,  11).
+wrank( 71,   6,  12).
+wrank( 71,  10,  13).
+wrank( 71,  19,  14).
+wrank( 71,  29,  19).
+wrank( 71,   3,  24).
+wrank( 72,  18,   2).
+wrank( 72,   9,   6).
+wrank( 72,  28,  11).
+wrank( 72,  27,  13).
+wrank( 72,  11,  16).
+wrank( 72,   7,  17).
+wrank( 72,  12,  18).
+wrank( 72,   5,  23).
+wrank( 72,  21,  28).
+wrank( 73,  30,   2).
+wrank( 73,  20,   7).
+wrank( 73,  19,   9).
+wrank( 73,  10,  11).
+wrank( 73,   4,  12).
+wrank( 73,  25,  15).
+wrank( 73,   9,  16).
+wrank( 73,   5,  18).
+wrank( 73,   7,  21).
+wrank( 73,   2,  27).
+wrank( 73,  29,  28).
+wrank( 73,  22,  30).
+wrank( 74,  18,   1).
+wrank( 74,  15,   2).
+wrank( 74,  20,   3).
+wrank( 74,  24,   5).
+wrank( 74,   6,   6).
+wrank( 74,  19,   7).
+wrank( 74,  10,   9).
+wrank( 74,  30,  12).
+wrank( 74,  27,  15).
+wrank( 74,  12,  16).
+wrank( 74,   5,  19).
+wrank( 74,  25,  20).
+wrank( 74,   3,  25).
+wrank( 74,   7,  30).
+wrank( 75,  11,   2).
+wrank( 75,  17,   4).
+wrank( 75,  26,   8).
+wrank( 75,  16,   9).
+wrank( 75,  25,  10).
+wrank( 75,  21,  16).
+wrank( 75,  24,  19).
+wrank( 75,  14,  21).
+wrank( 75,  13,  22).
+wrank( 75,  27,  25).
+wrank( 75,   7,  27).
+wrank( 75,  12,  29).
+wrank( 76,  27,   4).
+wrank( 76,  16,   8).
+wrank( 76,  10,   9).
+wrank( 76,  12,  11).
+wrank( 76,  11,  13).
+wrank( 76,  25,  14).
+wrank( 76,  14,  15).
+wrank( 76,  30,  17).
+wrank( 76,  17,  20).
+wrank( 76,  18,  21).
+wrank( 76,  20,  26).
+wrank( 76,  19,  27).
+wrank( 76,   8,  29).
+wrank( 77,  12,   1).
+wrank( 77,  11,   3).
+wrank( 77,  22,   7).
+wrank( 77,   4,  11).
+wrank( 77,   7,  12).
+wrank( 77,  20,  15).
+wrank( 77,  14,  16).
+wrank( 77,  26,  17).
+wrank( 77,  17,  18).
+wrank( 77,  23,  20).
+wrank( 77,  29,  21).
+wrank( 77,  27,  23).
+wrank( 77,   6,  24).
+wrank( 77,   1,  25).
+wrank( 77,  16,  27).
+wrank( 77,  18,  28).
+wrank( 78,  25,   3).
+wrank( 78,  19,   4).
+wrank( 78,   7,   7).
+wrank( 78,   9,   8).
+wrank( 78,   1,   9).
+wrank( 78,  17,  10).
+wrank( 78,   3,  11).
+wrank( 78,  27,  13).
+wrank( 78,  22,  15).
+wrank( 78,  21,  16).
+wrank( 78,  14,  17).
+wrank( 78,   4,  21).
+wrank( 78,  28,  22).
+wrank( 78,  13,  25).
+wrank( 78,  11,  28).
+wrank( 78,   6,  30).
+wrank( 79,  17,   2).
+wrank( 79,  21,   4).
+wrank( 79,  25,   6).
+wrank( 79,  11,   7).
+wrank( 79,  15,   8).
+wrank( 79,  19,  13).
+wrank( 79,  23,  14).
+wrank( 79,  10,  16).
+wrank( 79,  24,  19).
+wrank( 79,   3,  20).
+wrank( 79,  14,  21).
+wrank( 79,  16,  22).
+wrank( 79,   5,  23).
+wrank( 79,  30,  24).
+wrank( 79,  29,  25).
+wrank( 79,  26,  27).
+wrank( 79,  12,  28).
+wrank( 79,   9,  29).
+wrank( 80,   6,   3).
+wrank( 80,   1,   7).
+wrank( 80,  13,   8).
+wrank( 80,   9,   9).
+wrank( 80,  18,  11).
+wrank( 80,  24,  12).
+wrank( 80,   4,  14).
+wrank( 80,  16,  16).
+wrank( 80,  10,  18).
+wrank( 80,  30,  21).
+wrank( 80,   2,  23).
+wrank( 80,  22,  25).
+wrank( 80,  27,  26).
+wrank( 81,   6,   1).
+wrank( 81,   5,   2).
+wrank( 81,  28,   3).
+wrank( 81,  23,   4).
+wrank( 81,   9,   5).
+wrank( 81,   2,   8).
+wrank( 81,  17,  10).
+wrank( 81,  30,  13).
+wrank( 81,  14,  15).
+wrank( 81,  29,  16).
+wrank( 81,  25,  19).
+wrank( 81,  18,  20).
+wrank( 81,  20,  21).
+wrank( 81,  27,  23).
+wrank( 81,  26,  24).
+wrank( 81,   8,  26).
+wrank( 81,  12,  27).
+wrank( 82,   5,   1).
+wrank( 82,  30,   3).
+wrank( 82,  20,   4).
+wrank( 82,  12,   6).
+wrank( 82,  17,   7).
+wrank( 82,   8,   8).
+wrank( 82,  27,  10).
+wrank( 82,  14,  11).
+wrank( 82,  11,  14).
+wrank( 82,   3,  15).
+wrank( 82,  19,  24).
+wrank( 82,  23,  29).
+wrank( 83,  27,   2).
+wrank( 83,  25,   3).
+wrank( 83,  13,   4).
+wrank( 83,   9,   6).
+wrank( 83,  22,   9).
+wrank( 83,   4,  15).
+wrank( 83,  15,  17).
+wrank( 83,   8,  20).
+wrank( 83,  30,  21).
+wrank( 83,  20,  27).
+wrank( 83,  14,  29).
+wrank( 83,   1,  30).
+wrank( 84,  15,   1).
+wrank( 84,  19,   6).
+wrank( 84,  17,   8).
+wrank( 84,   3,   9).
+wrank( 84,  14,  15).
+wrank( 84,  26,  16).
+wrank( 84,  12,  17).
+wrank( 84,  10,  21).
+wrank( 84,  28,  22).
+wrank( 84,  11,  24).
+wrank( 84,  16,  26).
+wrank( 84,  30,  27).
+wrank( 84,   2,  28).
+wrank( 85,   8,   5).
+wrank( 85,  20,   6).
+wrank( 85,  29,   7).
+wrank( 85,  12,   9).
+wrank( 85,  11,  10).
+wrank( 85,  25,  12).
+wrank( 85,   4,  14).
+wrank( 85,  28,  15).
+wrank( 85,  27,  18).
+wrank( 85,   2,  19).
+wrank( 85,  30,  21).
+wrank( 85,  26,  22).
+wrank( 85,   9,  23).
+wrank( 85,  16,  26).
+wrank( 85,   6,  27).
+wrank( 85,  17,  29).
+wrank( 85,  15,  30).
+wrank( 86,  10,   1).
+wrank( 86,  24,   3).
+wrank( 86,   8,   4).
+wrank( 86,  16,   5).
+wrank( 86,   4,   6).
+wrank( 86,  26,  11).
+wrank( 86,   7,  12).
+wrank( 86,  19,  13).
+wrank( 86,  27,  15).
+wrank( 86,  21,  16).
+wrank( 86,  15,  18).
+wrank( 86,  25,  19).
+wrank( 86,  28,  21).
+wrank( 86,  29,  23).
+wrank( 87,  21,   1).
+wrank( 87,  28,   2).
+wrank( 87,  22,   3).
+wrank( 87,  25,   8).
+wrank( 87,   2,   9).
+wrank( 87,  11,  10).
+wrank( 87,  19,  11).
+wrank( 87,  30,  14).
+wrank( 87,   3,  17).
+wrank( 87,  10,  18).
+wrank( 87,  26,  20).
+wrank( 87,  17,  22).
+wrank( 87,   6,  26).
+wrank( 87,  27,  27).
+wrank( 87,   9,  28).
+wrank( 87,   5,  29).
+wrank( 87,  13,  30).
+wrank( 88,  17,   1).
+wrank( 88,   6,   2).
+wrank( 88,   8,   4).
+wrank( 88,  24,   7).
+wrank( 88,  14,   8).
+wrank( 88,   4,   9).
+wrank( 88,  19,  12).
+wrank( 88,  23,  13).
+wrank( 88,  11,  14).
+wrank( 88,  28,  15).
+wrank( 88,  30,  16).
+wrank( 88,  16,  20).
+wrank( 88,  27,  22).
+wrank( 88,  13,  24).
+wrank( 88,   7,  25).
+wrank( 88,  26,  26).
+wrank( 88,   9,  30).
+wrank( 89,  12,   1).
+wrank( 89,   3,   2).
+wrank( 89,  11,   5).
+wrank( 89,  15,   6).
+wrank( 89,  13,  12).
+wrank( 89,  17,  13).
+wrank( 89,  23,  14).
+wrank( 89,   9,  16).
+wrank( 89,  26,  17).
+wrank( 89,   7,  19).
+wrank( 89,   8,  20).
+wrank( 89,   2,  23).
+wrank( 89,  19,  24).
+wrank( 89,   1,  26).
+wrank( 89,  27,  28).
+wrank( 90,  19,   1).
+wrank( 90,  14,   2).
+wrank( 90,  23,   4).
+wrank( 90,   4,   5).
+wrank( 90,  13,   6).
+wrank( 90,  29,   7).
+wrank( 90,  27,  15).
+wrank( 90,   8,  16).
+wrank( 90,  10,  17).
+wrank( 90,   6,  19).
+wrank( 90,  18,  24).
+wrank( 90,   3,  25).
+wrank( 90,  15,  27).
+wrank( 90,  17,  28).
+wrank( 91,   2,   5).
+wrank( 91,  18,  10).
+wrank( 91,   6,  12).
+wrank( 91,  14,  13).
+wrank( 91,   7,  14).
+wrank( 91,  25,  16).
+wrank( 91,   9,  17).
+wrank( 91,  12,  19).
+wrank( 91,  15,  23).
+wrank( 91,   3,  28).
+wrank( 91,  10,  29).
+wrank( 92,  11,   1).
+wrank( 92,  29,   2).
+wrank( 92,  24,   5).
+wrank( 92,  15,   6).
+wrank( 92,  19,   7).
+wrank( 92,  26,   8).
+wrank( 92,  12,   9).
+wrank( 92,   7,  10).
+wrank( 92,   6,  12).
+wrank( 92,   3,  13).
+wrank( 92,  23,  15).
+wrank( 92,   4,  17).
+wrank( 92,   8,  19).
+wrank( 92,  28,  22).
+wrank( 92,  30,  26).
+wrank( 92,  10,  27).
+wrank( 92,   9,  29).
+wrank( 92,  25,  30).
+wrank( 93,  30,   6).
+wrank( 93,   1,   9).
+wrank( 93,  22,  15).
+wrank( 93,  14,  17).
+wrank( 93,   3,  19).
+wrank( 93,  13,  21).
+wrank( 93,   8,  23).
+wrank( 93,  17,  25).
+wrank( 93,  21,  29).
+wrank( 94,  15,   3).
+wrank( 94,  26,   4).
+wrank( 94,  25,   5).
+wrank( 94,  20,   9).
+wrank( 94,   7,  11).
+wrank( 94,   5,  12).
+wrank( 94,   3,  14).
+wrank( 94,  27,  15).
+wrank( 94,   8,  16).
+wrank( 94,  13,  18).
+wrank( 94,  23,  19).
+wrank( 94,   4,  20).
+wrank( 94,  22,  21).
+wrank( 94,  12,  27).
+wrank( 95,  22,   1).
+wrank( 95,   3,   2).
+wrank( 95,  20,   4).
+wrank( 95,  21,   5).
+wrank( 95,   1,   6).
+wrank( 95,  11,   9).
+wrank( 95,   5,  11).
+wrank( 95,  10,  12).
+wrank( 95,  27,  13).
+wrank( 95,  29,  14).
+wrank( 95,  24,  15).
+wrank( 95,   8,  19).
+wrank( 95,  30,  20).
+wrank( 95,   6,  21).
+wrank( 95,  16,  23).
+wrank( 95,  12,  24).
+wrank( 95,   2,  28).
+wrank( 96,   1,   1).
+wrank( 96,  23,   2).
+wrank( 96,   4,   3).
+wrank( 96,  30,   4).
+wrank( 96,  13,   6).
+wrank( 96,  28,   7).
+wrank( 96,  27,   8).
+wrank( 96,  15,  10).
+wrank( 96,  26,  12).
+wrank( 96,  24,  18).
+wrank( 96,   2,  20).
+wrank( 96,  20,  23).
+wrank( 96,   8,  24).
+wrank( 96,   3,  25).
+wrank( 96,  17,  26).
+wrank( 96,  16,  27).
+wrank( 96,  21,  30).
+wrank( 97,   7,   2).
+wrank( 97,  17,   3).
+wrank( 97,  22,   4).
+wrank( 97,  30,   5).
+wrank( 97,   1,  10).
+wrank( 97,  14,  11).
+wrank( 97,   6,  13).
+wrank( 97,  27,  14).
+wrank( 97,  21,  16).
+wrank( 97,  13,  17).
+wrank( 97,  28,  19).
+wrank( 97,  29,  25).
+wrank( 97,  10,  27).
+wrank( 97,   9,  28).
+wrank( 97,  15,  30).
+wrank( 98,   5,   1).
+wrank( 98,  24,   2).
+wrank( 98,  14,   3).
+wrank( 98,  29,   6).
+wrank( 98,  26,   8).
+wrank( 98,   4,  10).
+wrank( 98,  13,  11).
+wrank( 98,  28,  12).
+wrank( 98,   9,  16).
+wrank( 98,   2,  17).
+wrank( 98,  11,  19).
+wrank( 98,  17,  20).
+wrank( 98,  12,  21).
+wrank( 98,  10,  22).
+wrank( 98,   7,  24).
+wrank( 98,  15,  26).
+wrank( 98,   6,  28).
+wrank( 98,  30,  29).
+wrank( 98,   8,  30).
+wrank( 99,  21,   1).
+wrank( 99,   3,   6).
+wrank( 99,  10,  10).
+wrank( 99,   1,  11).
+wrank( 99,  30,  12).
+wrank( 99,  14,  15).
+wrank( 99,  27,  16).
+wrank( 99,  22,  18).
+wrank( 99,   9,  20).
+wrank( 99,  26,  21).
+wrank( 99,   7,  22).
+wrank( 99,  28,  23).
+wrank( 99,  13,  24).
+wrank( 99,  25,  25).
+wrank( 99,  11,  29).
+wrank( 99,  24,  30).
+wrank(100,  27,   4).
+wrank(100,   9,   5).
+wrank(100,  28,   6).
+wrank(100,   4,   7).
+wrank(100,  18,   8).
+wrank(100,  23,   9).
+wrank(100,  25,  16).
+wrank(100,  11,  17).
+wrank(100,  30,  18).
+wrank(100,   5,  19).
+wrank(100,  16,  20).
+wrank(100,  12,  21).
+wrank(100,  17,  22).
+wrank(100,  22,  25).
+wrank(100,   2,  27).
+wrank(100,  21,  28).
+wrank(100,  14,  29).
+wrank(100,  29,  30).
+wrank(101,   9,   2).
+wrank(101,  28,   3).
+wrank(101,  19,   7).
+wrank(101,  29,   8).
+wrank(101,  24,  10).
+wrank(101,  16,  12).
+wrank(101,  15,  15).
+wrank(101,  20,  19).
+wrank(101,   5,  21).
+wrank(101,  22,  22).
+wrank(101,   6,  24).
+wrank(101,  11,  25).
+wrank(101,  18,  27).
+wrank(101,   2,  28).
+wrank(101,   7,  29).
+wrank(102,   5,   1).
+wrank(102,  21,   8).
+wrank(102,  28,   9).
+wrank(102,  17,  11).
+wrank(102,   3,  12).
+wrank(102,  24,  13).
+wrank(102,  13,  15).
+wrank(102,  16,  16).
+wrank(102,  30,  17).
+wrank(102,  11,  19).
+wrank(102,   6,  23).
+wrank(102,  10,  24).
+wrank(102,   7,  25).
+wrank(102,  25,  27).
+wrank(103,  17,   1).
+wrank(103,   6,   2).
+wrank(103,  22,   3).
+wrank(103,   4,   6).
+wrank(103,  28,   7).
+wrank(103,   8,   8).
+wrank(103,  10,  10).
+wrank(103,  24,  11).
+wrank(103,  27,  18).
+wrank(103,  29,  19).
+wrank(103,  13,  23).
+wrank(103,  11,  24).
+wrank(103,  23,  25).
+wrank(103,   7,  26).
+wrank(103,  25,  27).
+wrank(104,  20,   3).
+wrank(104,  27,   4).
+wrank(104,   5,   5).
+wrank(104,  16,   6).
+wrank(104,  24,   7).
+wrank(104,  11,   8).
+wrank(104,   2,   9).
+wrank(104,  30,  10).
+wrank(104,  19,  11).
+wrank(104,  13,  12).
+wrank(104,   9,  13).
+wrank(104,  15,  17).
+wrank(104,  25,  18).
+wrank(104,   6,  19).
+wrank(104,  29,  20).
+wrank(104,  10,  22).
+wrank(104,  23,  23).
+wrank(104,  21,  25).
+wrank(104,  28,  26).
+wrank(104,   1,  28).
+wrank(104,  18,  29).
+wrank(105,  16,   2).
+wrank(105,  11,   4).
+wrank(105,   6,   5).
+wrank(105,  30,   8).
+wrank(105,  22,  11).
+wrank(105,  23,  12).
+wrank(105,   9,  15).
+wrank(105,  20,  16).
+wrank(105,  18,  17).
+wrank(105,  17,  18).
+wrank(105,  24,  19).
+wrank(105,  10,  22).
+wrank(105,   7,  27).
+wrank(105,   8,  28).
+wrank(105,  27,  29).
+wrank(105,   3,  30).
+wrank(106,  22,   1).
+wrank(106,   8,   2).
+wrank(106,  21,   3).
+wrank(106,  12,   4).
+wrank(106,  11,   5).
+wrank(106,  23,   6).
+wrank(106,  14,   7).
+wrank(106,  26,   8).
+wrank(106,  19,   9).
+wrank(106,   3,  10).
+wrank(106,  30,  13).
+wrank(106,  24,  15).
+wrank(106,  10,  16).
+wrank(106,  16,  19).
+wrank(106,   4,  20).
+wrank(106,  29,  22).
+wrank(106,   2,  23).
+wrank(106,  25,  28).
+wrank(106,   7,  29).
+wrank(106,  18,  30).
+wrank(107,  17,   1).
+wrank(107,  28,   2).
+wrank(107,   6,   3).
+wrank(107,  21,   6).
+wrank(107,  24,   8).
+wrank(107,   9,  11).
+wrank(107,   7,  14).
+wrank(107,   5,  15).
+wrank(107,  10,  17).
+wrank(107,  27,  20).
+wrank(107,   3,  23).
+wrank(107,  25,  25).
+wrank(107,  22,  26).
+wrank(107,  20,  27).
+wrank(108,   8,   7).
+wrank(108,  13,   9).
+wrank(108,   4,  13).
+wrank(108,  20,  15).
+wrank(108,   1,  18).
+wrank(108,  19,  21).
+wrank(108,  29,  22).
+wrank(108,  18,  24).
+wrank(108,  14,  25).
+wrank(108,  17,  28).
+wrank(108,  10,  30).
+wrank(109,   2,   1).
+wrank(109,   7,   2).
+wrank(109,   4,   5).
+wrank(109,  28,   6).
+wrank(109,  25,   8).
+wrank(109,   1,   9).
+wrank(109,  26,  10).
+wrank(109,  11,  11).
+wrank(109,   6,  13).
+wrank(109,  19,  14).
+wrank(109,  30,  18).
+wrank(109,  13,  19).
+wrank(109,  15,  20).
+wrank(109,   3,  21).
+wrank(109,  29,  23).
+wrank(109,  17,  25).
+wrank(109,  18,  26).
+wrank(109,  12,  27).
+wrank(109,  10,  28).
+wrank(110,   8,   2).
+wrank(110,   6,   4).
+wrank(110,  10,   6).
+wrank(110,  25,   7).
+wrank(110,  30,   8).
+wrank(110,  11,   9).
+wrank(110,   9,  13).
+wrank(110,  22,  16).
+wrank(110,  12,  17).
+wrank(110,   2,  18).
+wrank(110,  28,  19).
+wrank(110,  26,  20).
+wrank(110,  20,  21).
+wrank(110,  23,  23).
+wrank(110,  29,  28).
+wrank(110,   1,  29).
+wrank(110,  14,  30).
+wrank(111,   2,   1).
+wrank(111,  27,   2).
+wrank(111,   8,   3).
+wrank(111,  23,   4).
+wrank(111,   3,   5).
+wrank(111,  25,   6).
+wrank(111,  29,   9).
+wrank(111,  10,  11).
+wrank(111,  11,  12).
+wrank(111,  28,  16).
+wrank(111,  24,  21).
+wrank(111,  26,  22).
+wrank(111,  16,  24).
+wrank(111,  22,  26).
+wrank(111,  18,  27).
+wrank(111,  12,  28).
+wrank(111,   5,  29).
+wrank(112,  17,   1).
+wrank(112,   2,   6).
+wrank(112,  13,   8).
+wrank(112,  19,  10).
+wrank(112,  29,  12).
+wrank(112,  22,  16).
+wrank(112,  16,  17).
+wrank(112,  10,  19).
+wrank(112,  27,  21).
+wrank(112,   9,  22).
+wrank(112,  14,  23).
+wrank(112,  25,  27).
+wrank(112,  30,  29).
+wrank(113,  20,   3).
+wrank(113,  14,   4).
+wrank(113,  18,   5).
+wrank(113,   1,   6).
+wrank(113,  21,   9).
+wrank(113,   4,  13).
+wrank(113,  16,  14).
+wrank(113,  25,  16).
+wrank(113,  13,  17).
+wrank(113,  26,  18).
+wrank(113,  24,  20).
+wrank(113,  22,  22).
+wrank(113,   5,  23).
+wrank(113,  23,  27).
+wrank(114,  15,   1).
+wrank(114,  28,   5).
+wrank(114,  10,   6).
+wrank(114,  13,   7).
+wrank(114,  24,   9).
+wrank(114,  29,  14).
+wrank(114,  12,  17).
+wrank(114,  16,  18).
+wrank(114,  22,  19).
+wrank(114,   8,  20).
+wrank(114,  18,  21).
+wrank(114,   6,  23).
+wrank(114,   1,  26).
+wrank(114,  27,  28).
+wrank(114,   4,  29).
+wrank(114,  19,  30).
+wrank(115,  29,   4).
+wrank(115,  19,   5).
+wrank(115,  14,   7).
+wrank(115,  17,  10).
+wrank(115,  28,  11).
+wrank(115,  23,  13).
+wrank(115,  16,  14).
+wrank(115,   5,  16).
+wrank(115,  20,  19).
+wrank(115,  13,  27).
+wrank(115,  27,  28).
+wrank(116,  14,   2).
+wrank(116,   4,   6).
+wrank(116,   9,   7).
+wrank(116,  24,   8).
+wrank(116,  28,   9).
+wrank(116,  30,  14).
+wrank(116,   6,  15).
+wrank(116,  19,  16).
+wrank(116,   7,  17).
+wrank(116,  29,  19).
+wrank(116,   8,  21).
+wrank(116,  22,  25).
+wrank(116,   5,  26).
+wrank(116,  23,  28).
+wrank(116,   1,  29).
+wrank(116,  16,  30).
+wrank(117,  19,   4).
+wrank(117,  24,   5).
+wrank(117,   3,   7).
+wrank(117,  21,   8).
+wrank(117,  26,   9).
+wrank(117,   5,  10).
+wrank(117,  10,  11).
+wrank(117,  29,  12).
+wrank(117,   6,  13).
+wrank(117,  17,  14).
+wrank(117,  15,  15).
+wrank(117,   9,  18).
+wrank(117,   1,  19).
+wrank(117,  25,  20).
+wrank(117,   8,  21).
+wrank(117,  27,  22).
+wrank(117,  16,  23).
+wrank(117,  23,  25).
+wrank(117,   2,  28).
+wrank(117,   7,  29).
+wrank(117,  18,  30).
+wrank(118,  10,   2).
+wrank(118,  27,   4).
+wrank(118,  17,   5).
+wrank(118,   7,   6).
+wrank(118,  14,   8).
+wrank(118,  20,   9).
+wrank(118,  15,  11).
+wrank(118,   6,  15).
+wrank(118,  18,  19).
+wrank(118,   1,  21).
+wrank(118,   5,  22).
+wrank(118,  11,  23).
+wrank(118,  23,  25).
+wrank(118,   3,  26).
+wrank(118,  19,  28).
+wrank(118,  30,  29).
+wrank(119,  13,   1).
+wrank(119,   8,   3).
+wrank(119,  29,   4).
+wrank(119,  20,   5).
+wrank(119,  15,   7).
+wrank(119,  23,   8).
+wrank(119,  26,   9).
+wrank(119,   2,  10).
+wrank(119,  28,  13).
+wrank(119,  17,  14).
+wrank(119,  11,  16).
+wrank(119,  18,  20).
+wrank(119,  19,  21).
+wrank(119,  27,  23).
+wrank(119,   4,  25).
+wrank(119,  12,  26).
+wrank(119,  24,  27).
+wrank(119,  21,  28).
+wrank(119,  10,  30).
+wrank(120,  12,   1).
+wrank(120,  24,   3).
+wrank(120,  30,   6).
+wrank(120,  28,   8).
+wrank(120,  29,   9).
+wrank(120,  15,  11).
+wrank(120,  10,  13).
+wrank(120,  20,  15).
+wrank(120,  23,  18).
+wrank(120,  27,  19).
+wrank(120,  18,  22).
+wrank(120,   2,  24).
+wrank(120,  26,  25).
+wrank(120,   4,  26).
+wrank(120,   5,  28).

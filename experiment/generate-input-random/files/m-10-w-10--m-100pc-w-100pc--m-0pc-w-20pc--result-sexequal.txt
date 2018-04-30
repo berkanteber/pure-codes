@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...-100pc-w-100pc--m-0pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,7) marry(2,4) marry(3,3) marry(4,5) marry(5,2) marry(6,8) marry(7,1) marry(8,6) marry(9,9) mtot(32) wtot(18) ttot(14)
+Optimization: 14
+Answer: 2
+marry(1,7) marry(2,4) marry(3,3) marry(4,1) marry(5,6) marry(6,8) marry(7,2) marry(8,5) marry(9,9) mtot(21) wtot(23) ttot(2)
+Optimization: 2
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 2
+Calls        : 1
+Time         : 1.104s (Solving: 0.21s 1st Model: 0.05s Unsat: 0.02s)
+CPU Time     : 1.090s
+
+Choices      : 130     
+Conflicts    : 79       (Analyzed: 78)
+Restarts     : 0       
+Model-Level  : 8.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 78       (Deleted: 0)
+  Binary     : 8        (Ratio:  10.26%)
+  Ternary    : 10       (Ratio:  12.82%)
+  Conflict   : 78       (Average Length:    5.2 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 5502    
+Rules        : 215567   (1: 213264/213724 2: 34/20 3: 30/30 5: 1792/1792 6: 1/1)
+Bodies       : 208314  
+Equivalences : 11011    (Atom=Atom: 2882 Body=Body: 975 Other: 7154)
+Tight        : Yes
+Variables    : 166997   (Eliminated:    0 Frozen: 1301)
+Constraints  : 665574   (Binary: 74.9% Ternary: 24.9% Other:  0.2%)
+

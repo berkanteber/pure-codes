@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...100pc-w-100pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,2) marry(2,10) marry(3,8) marry(4,4) marry(5,11) marry(6,17) marry(7,15) marry(8,5) marry(9,20) marry(10,6) marry(11,19) marry(12,3) marry(13,14) marry(14,12) marry(15,13) marry(16,16) marry(17,9) marry(18,18) marry(19,7) marry(20,1) regret(man,8) regret(woman,19) maxregret(19)
+Optimization: 19
+Answer: 2
+marry(1,2) marry(2,9) marry(3,15) marry(4,4) marry(5,6) marry(6,17) marry(7,3) marry(8,11) marry(9,20) marry(10,10) marry(11,19) marry(12,8) marry(13,14) marry(14,12) marry(15,13) marry(16,16) marry(17,5) marry(18,18) marry(19,7) marry(20,1) regret(man,12) regret(woman,17) maxregret(17)
+Optimization: 17
+Answer: 3
+marry(1,2) marry(2,16) marry(3,15) marry(4,4) marry(5,6) marry(6,17) marry(7,3) marry(8,11) marry(9,20) marry(10,1) marry(11,19) marry(12,8) marry(13,14) marry(14,12) marry(15,13) marry(16,10) marry(17,5) marry(18,18) marry(19,7) marry(20,9) regret(man,9) regret(woman,15) maxregret(15)
+Optimization: 15
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 15
+Calls        : 1
+Time         : 0.261s (Solving: 0.02s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.260s
+
+Choices      : 919     
+Conflicts    : 524      (Analyzed: 523)
+Restarts     : 5        (Average: 104.60 Last: 48)
+Model-Level  : 6.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 523      (Deleted: 0)
+  Binary     : 28       (Ratio:   5.35%)
+  Ternary    : 30       (Ratio:   5.74%)
+  Conflict   : 523      (Average Length:   16.8 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 10967   
+Rules        : 182154   (1: 181653/182053 2: 60/40 3: 60/60 6: 1/1)
+Bodies       : 41212   
+Equivalences : 21195    (Atom=Atom: 9801 Body=Body: 715 Other: 10679)
+Tight        : Yes
+Variables    : 1144     (Eliminated:    0 Frozen:  440)
+Constraints  : 57634    (Binary: 98.7% Ternary:  0.9% Other:  0.4%)
+

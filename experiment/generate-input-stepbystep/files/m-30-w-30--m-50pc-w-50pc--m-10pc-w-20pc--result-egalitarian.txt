@@ -1,0 +1,47 @@
+clingo version 4.5.4
+Reading from ...m-50pc-w-50pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,3) marry(2,27) marry(3,29) marry(4,23) marry(5,24) marry(6,12) marry(7,1) marry(8,30) marry(9,19) marry(10,26) marry(11,28) marry(13,6) marry(14,10) marry(15,9) marry(17,16) marry(18,25) marry(19,22) marry(20,14) marry(21,11) marry(22,13) marry(23,4) marry(24,17) marry(25,15) marry(26,8) marry(27,18) marry(28,2) marry(29,20) marry(30,7) mtot(343) wtot(218) ttot(561)
+Optimization: 561
+Answer: 2
+marry(1,3) marry(2,27) marry(4,23) marry(5,24) marry(6,12) marry(7,1) marry(8,14) marry(9,19) marry(10,26) marry(11,28) marry(12,30) marry(13,6) marry(14,10) marry(15,9) marry(17,16) marry(18,25) marry(19,22) marry(20,4) marry(21,11) marry(22,13) marry(23,29) marry(24,17) marry(25,15) marry(26,8) marry(27,18) marry(28,2) marry(29,20) marry(30,7) mtot(323) wtot(234) ttot(557)
+Optimization: 557
+Answer: 3
+marry(1,25) marry(2,22) marry(3,29) marry(4,23) marry(5,24) marry(6,3) marry(7,1) marry(8,30) marry(10,26) marry(11,28) marry(13,6) marry(14,10) marry(15,9) marry(16,27) marry(17,16) marry(18,19) marry(19,12) marry(20,14) marry(21,11) marry(22,13) marry(23,4) marry(24,7) marry(25,15) marry(26,8) marry(27,18) marry(28,2) marry(29,20) marry(30,17) mtot(308) wtot(236) ttot(544)
+Optimization: 544
+Answer: 4
+marry(1,25) marry(2,22) marry(3,29) marry(4,23) marry(5,24) marry(6,3) marry(7,1) marry(8,30) marry(10,26) marry(11,28) marry(13,6) marry(14,10) marry(15,9) marry(16,27) marry(17,16) marry(18,19) marry(19,12) marry(20,14) marry(21,11) marry(22,13) marry(23,4) marry(24,17) marry(25,15) marry(26,8) marry(27,18) marry(28,2) marry(29,20) marry(30,7) mtot(284) wtot(244) ttot(528)
+Optimization: 528
+Answer: 5
+marry(1,25) marry(2,22) marry(4,23) marry(5,24) marry(6,3) marry(7,1) marry(8,14) marry(10,26) marry(11,28) marry(12,30) marry(13,6) marry(14,10) marry(15,9) marry(16,27) marry(17,16) marry(18,19) marry(19,12) marry(20,4) marry(21,11) marry(22,13) marry(23,29) marry(24,17) marry(25,15) marry(26,8) marry(27,18) marry(28,2) marry(29,20) marry(30,7) mtot(264) wtot(260) ttot(524)
+Optimization: 524
+OPTIMUM FOUND
+
+Models       : 5     
+  Optimum    : yes
+Optimization : 524
+Calls        : 1
+Time         : 341.448s (Solving: 109.64s 1st Model: 17.98s Unsat: 0.05s)
+CPU Time     : 340.700s
+
+Choices      : 2156    
+Conflicts    : 283      (Analyzed: 282)
+Restarts     : 1        (Average: 282.00 Last: 269)
+Model-Level  : 8.2     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 282      (Deleted: 0)
+  Binary     : 39       (Ratio:  13.83%)
+  Ternary    : 42       (Ratio:  14.89%)
+  Conflict   : 282      (Average Length:    7.3 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 75812   
+Rules        : 42887676 (1: 42858813/42861375 2: 94/60 3: 90/90 5: 26150/26150 6: 1/1)
+Bodies       : 42824467
+Equivalences : 88149    (Atom=Atom: 22745 Body=Body: 7347 Other: 58057)
+Tight        : Yes
+Variables    : 12016529 (Eliminated:    0 Frozen: 14125)
+Constraints  : 48023079 (Binary: 75.0% Ternary: 25.0% Other:  0.0%)
+

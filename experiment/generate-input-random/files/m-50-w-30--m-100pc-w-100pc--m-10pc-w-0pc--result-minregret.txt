@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...-100pc-w-100pc--m-10pc-w-0pc--input.lp ...
+Solving...
+Answer: 1
+marry(5,22) marry(6,27) marry(7,14) marry(8,12) marry(9,23) marry(10,5) marry(12,26) marry(13,1) marry(14,29) marry(15,6) marry(18,28) marry(19,20) marry(20,11) marry(21,3) marry(22,9) marry(23,25) marry(25,16) marry(27,8) marry(28,13) marry(31,18) marry(32,21) marry(36,4) marry(39,15) marry(40,19) marry(42,24) marry(46,7) marry(47,2) marry(48,10) marry(49,17) regret(man,28) regret(woman,5) maxregret(28)
+Optimization: 28
+Answer: 2
+marry(5,22) marry(6,27) marry(7,14) marry(8,12) marry(9,23) marry(10,5) marry(12,26) marry(13,1) marry(14,29) marry(15,6) marry(18,28) marry(19,19) marry(20,11) marry(21,3) marry(22,9) marry(23,25) marry(25,16) marry(27,8) marry(28,13) marry(30,20) marry(31,18) marry(32,21) marry(36,4) marry(39,15) marry(42,24) marry(46,7) marry(47,2) marry(48,10) marry(49,17) regret(man,26) regret(woman,5) maxregret(26)
+Optimization: 26
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 26
+Calls        : 1
+Time         : 4.114s (Solving: 0.21s 1st Model: 0.12s Unsat: 0.00s)
+CPU Time     : 4.100s
+
+Choices      : 2918    
+Conflicts    : 1479     (Analyzed: 1478)
+Restarts     : 8        (Average: 184.75 Last: 1456)
+Model-Level  : 12.5    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 1478     (Deleted: 0)
+  Binary     : 73       (Ratio:   4.94%)
+  Ternary    : 49       (Ratio:   3.32%)
+  Conflict   : 1478     (Average Length:   20.2 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 67445   
+Rules        : 2134285  (1: 2132574/2134074 2: 130/80 3: 130/130 6: 1/1)
+Bodies       : 475608  
+Equivalences : 132281   (Atom=Atom: 63626 Body=Body: 2516 Other: 66139)
+Tight        : Yes
+Variables    : 3633     (Eliminated:    0 Frozen: 1519)
+Constraints  : 585626   (Binary: 99.6% Ternary:  0.3% Other:  0.1%)
+

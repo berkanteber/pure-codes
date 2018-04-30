@@ -1,0 +1,32 @@
+clingo version 4.5.4
+Reading from ...-50pc-w-100pc--m-10pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+marry(48,1) marry(25,2) marry(68,3) marry(10,5) marry(28,6) marry(40,8) marry(34,9) marry(50,10) marry(66,11) marry(31,12) marry(61,13) marry(33,14) marry(19,18) marry(9,21) marry(76,22) marry(64,23) marry(20,25) marry(37,26) marry(57,27) marry(42,28) marry(16,30) marry(32,31) marry(53,32) marry(77,33) marry(88,34) marry(86,35) marry(81,36) marry(30,39) marry(6,40) marry(35,41) marry(63,42) marry(18,43) marry(89,45) marry(1,46) marry(52,47) marry(2,48) marry(80,49) marry(41,52) marry(4,53) marry(12,55) marry(15,56) marry(56,57) marry(82,58) marry(36,59) marry(84,60) marry(22,61) marry(55,64) marry(11,66) marry(26,67) marry(13,69) marry(46,70) marry(3,71) marry(51,72) marry(71,75) marry(83,76) marry(24,79) marry(49,80) marry(67,81) marry(17,84) marry(45,86) marry(8,87) marry(74,88) marry(78,89) marry(29,91) marry(79,92) marry(62,93) marry(58,94) marry(38,95) marry(47,96) marry(70,97) marry(73,98) marry(7,99) marry(14,100) marry(21,101) marry(39,102) marry(75,103) marry(72,104) marry(87,105) marry(85,107) marry(65,108) marry(5,109) marry(43,110) marry(69,111) marry(27,112) marry(44,113) marry(59,115) marry(90,116) marry(23,117) marry(60,118) marry(54,120)
+SATISFIABLE
+
+Models       : 1+    
+Calls        : 1
+Time         : 75.043s (Solving: 1.85s 1st Model: 1.85s Unsat: 0.00s)
+CPU Time     : 74.880s
+
+Choices      : 183338  
+Conflicts    : 10658    (Analyzed: 10658)
+Restarts     : 60       (Average: 177.63 Last: 624)
+Model-Level  : 63.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 10658    (Deleted: 4237)
+  Binary     : 401      (Ratio:   3.76%)
+  Ternary    : 264      (Ratio:   2.48%)
+  Conflict   : 10658    (Average Length:   37.1 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 683062  
+Rules        : 29824613 (1: 29813303/29824103 2: 300/210 3: 300/300)
+Bodies       : 7271593 
+Equivalences : 1348739  (Atom=Atom: 671540 Body=Body: 0 Other: 677199)
+Tight        : Yes
+Variables    : 5988     (Eliminated:    0 Frozen: 5478)
+Constraints  : 3623309  (Binary:100.0% Ternary:  0.0% Other:  0.0%)
+

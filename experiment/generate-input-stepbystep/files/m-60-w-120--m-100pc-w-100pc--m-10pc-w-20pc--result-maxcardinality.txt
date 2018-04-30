@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...100pc-w-100pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,0) singlecount(woman,60) singlecount(total,60) marry(37,1) marry(10,2) marry(40,3) marry(18,4) marry(51,5) marry(56,6) marry(50,12) marry(49,13) marry(30,14) marry(1,15) marry(27,17) marry(19,18) marry(60,27) marry(28,29) marry(11,30) marry(35,31) marry(16,32) marry(31,35) marry(33,37) marry(48,38) marry(8,41) marry(23,42) marry(53,43) marry(12,44) marry(46,47) marry(36,49) marry(2,53) marry(34,55) marry(25,56) marry(9,58) marry(58,60) marry(4,62) marry(52,64) marry(22,67) marry(3,71) marry(15,74) marry(14,75) marry(54,77) marry(57,79) marry(6,82) marry(45,85) marry(38,92) marry(39,93) marry(55,94) marry(5,95) marry(26,98) marry(24,99) marry(13,100) marry(59,101) marry(17,103) marry(42,104) marry(41,106) marry(43,109) marry(21,110) marry(29,111) marry(47,116) marry(20,117) marry(44,118) marry(7,119) marry(32,120)
+Optimization: 60
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 60
+Calls        : 1
+Time         : 169.268s (Solving: 7.00s 1st Model: 6.52s Unsat: 0.47s)
+CPU Time     : 168.920s
+
+Choices      : 203439  
+Conflicts    : 11216    (Analyzed: 11215)
+Restarts     : 56       (Average: 200.27 Last: 19)
+Model-Level  : 71.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 11215    (Deleted: 5170)
+  Binary     : 197      (Ratio:   1.76%)
+  Ternary    : 123      (Ratio:   1.10%)
+  Conflict   : 11215    (Average Length:   81.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 676095  
+Rules        : 52268041 (1: 52259708/52267268 2: 596/532 3: 240/240 6: 1/1)
+Bodies       : 11658885
+Equivalences : 1343781  (Atom=Atom: 667750 Body=Body: 178 Other: 675853)
+Tight        : Yes
+Variables    : 15600    (Eliminated:    0 Frozen: 7796)
+Constraints  : 11696262 (Binary: 99.9% Ternary:  0.1% Other:  0.0%)
+

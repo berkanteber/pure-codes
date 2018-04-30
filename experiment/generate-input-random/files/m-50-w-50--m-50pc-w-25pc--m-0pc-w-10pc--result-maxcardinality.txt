@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...-m-50pc-w-25pc--m-0pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,10) singlecount(woman,10) singlecount(total,20) marry(30,2) marry(3,3) marry(9,4) marry(25,5) marry(36,6) marry(40,7) marry(22,8) marry(32,10) marry(13,11) marry(7,12) marry(4,13) marry(46,16) marry(21,18) marry(38,19) marry(14,20) marry(35,21) marry(28,22) marry(20,23) marry(12,24) marry(19,25) marry(26,27) marry(16,28) marry(24,29) marry(47,30) marry(41,31) marry(8,32) marry(11,33) marry(17,34) marry(34,35) marry(23,36) marry(6,37) marry(2,38) marry(37,39) marry(5,40) marry(1,41) marry(49,42) marry(45,43) marry(48,44) marry(29,45) marry(43,46)
+Optimization: 20
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 20
+Calls        : 1
+Time         : 0.208s (Solving: 0.01s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.200s
+
+Choices      : 1112    
+Conflicts    : 257      (Analyzed: 256)
+Restarts     : 2        (Average: 128.00 Last: 177)
+Model-Level  : 18.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 256      (Deleted: 0)
+  Binary     : 35       (Ratio:  13.67%)
+  Ternary    : 33       (Ratio:  12.89%)
+  Conflict   : 256      (Average Length:    3.3 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 25397    (Original: 25059 Auxiliary: 338)
+Rules        : 132156   (1: 128295/131755 2: 346/250 3: 150/150 6: 1/1)
+Bodies       : 33158   
+Equivalences : 45464    (Atom=Atom: 21906 Body=Body: 99 Other: 23459)
+Tight        : Yes
+Variables    : 3801     (Eliminated:    0 Frozen:  611)
+Constraints  : 16140    (Binary: 82.3% Ternary: 15.7% Other:  1.9%)
+

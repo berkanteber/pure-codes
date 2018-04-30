@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...m-25pc-w-25pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,12) singlecount(woman,12) singlecount(total,24) marry(1,1) marry(41,3) marry(26,5) marry(54,6) marry(6,7) marry(52,8) marry(11,9) marry(30,10) marry(28,13) marry(10,14) marry(39,15) marry(20,17) marry(27,18) marry(35,19) marry(3,20) marry(33,21) marry(15,22) marry(19,23) marry(24,24) marry(4,25) marry(53,26) marry(12,27) marry(5,28) marry(13,29) marry(34,30) marry(55,31) marry(29,32) marry(21,34) marry(7,36) marry(36,38) marry(48,39) marry(46,41) marry(14,42) marry(18,44) marry(43,45) marry(57,46) marry(8,47) marry(2,48) marry(51,49) marry(32,50) marry(44,51) marry(25,52) marry(49,53) marry(31,54) marry(23,56) marry(37,57) marry(9,58) marry(38,59)
+Optimization: 24
+Answer: 2
+singlecount(man,11) singlecount(woman,11) singlecount(total,22) marry(1,1) marry(41,3) marry(26,5) marry(51,6) marry(6,7) marry(52,8) marry(11,9) marry(30,10) marry(28,13) marry(10,14) marry(39,15) marry(20,17) marry(27,18) marry(35,19) marry(3,20) marry(33,21) marry(15,22) marry(19,23) marry(24,24) marry(4,25) marry(53,26) marry(12,27) marry(5,28) marry(13,29) marry(34,30) marry(55,31) marry(29,32) marry(21,34) marry(7,36) marry(36,38) marry(48,39) marry(46,41) marry(47,42) marry(14,43) marry(18,44) marry(43,45) marry(57,46) marry(8,47) marry(2,48) marry(54,49) marry(32,50) marry(44,51) marry(25,52) marry(49,53) marry(31,54) marry(23,56) marry(37,57) marry(9,58) marry(38,59)
+Optimization: 22
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 22
+Calls        : 1
+Time         : 0.188s (Solving: 0.01s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.190s
+
+Choices      : 1261    
+Conflicts    : 234      (Analyzed: 233)
+Restarts     : 2        (Average: 116.50 Last: 85)
+Model-Level  : 8.5     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 233      (Deleted: 0)
+  Binary     : 42       (Ratio:  18.03%)
+  Ternary    : 24       (Ratio:  10.30%)
+  Conflict   : 233      (Average Length:    3.7 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 23954    (Original: 23708 Auxiliary: 246)
+Rules        : 106259   (1: 101350/105770 2: 416/308 3: 180/180 6: 1/1)
+Bodies       : 27795   
+Equivalences : 40468    (Atom=Atom: 19331 Body=Body: 121 Other: 21016)
+Tight        : Yes
+Variables    : 4908     (Eliminated:    0 Frozen:  618)
+Constraints  : 17747    (Binary: 78.5% Ternary: 19.6% Other:  2.0%)
+

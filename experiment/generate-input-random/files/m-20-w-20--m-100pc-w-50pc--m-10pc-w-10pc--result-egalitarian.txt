@@ -1,0 +1,44 @@
+clingo version 4.5.4
+Reading from ...-100pc-w-50pc--m-10pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,11) marry(2,4) marry(3,13) marry(4,14) marry(5,19) marry(7,6) marry(8,12) marry(9,16) marry(10,7) marry(11,2) marry(12,18) marry(13,15) marry(14,9) marry(15,8) marry(16,17) marry(17,3) marry(18,10) marry(19,5) mtot(70) wtot(63) ttot(133)
+Optimization: 133
+Answer: 2
+marry(1,18) marry(2,14) marry(3,8) marry(4,15) marry(5,13) marry(7,6) marry(8,12) marry(9,16) marry(10,2) marry(11,10) marry(12,17) marry(13,19) marry(14,9) marry(15,7) marry(16,4) marry(17,3) marry(18,11) marry(19,5) mtot(75) wtot(57) ttot(132)
+Optimization: 132
+Answer: 3
+marry(1,17) marry(2,14) marry(3,8) marry(4,15) marry(5,13) marry(7,6) marry(8,12) marry(9,16) marry(10,2) marry(11,10) marry(12,18) marry(13,19) marry(14,9) marry(15,7) marry(16,4) marry(17,3) marry(18,11) marry(19,5) mtot(71) wtot(60) ttot(131)
+Optimization: 131
+Answer: 4
+marry(1,17) marry(2,10) marry(3,8) marry(4,14) marry(5,13) marry(7,6) marry(8,12) marry(9,16) marry(10,2) marry(11,3) marry(12,19) marry(13,15) marry(14,1) marry(15,7) marry(16,4) marry(17,9) marry(18,11) marry(19,5) mtot(59) wtot(66) ttot(125)
+Optimization: 125
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 125
+Calls        : 1
+Time         : 23.402s (Solving: 5.24s 1st Model: 0.46s Unsat: 0.39s)
+CPU Time     : 23.350s
+
+Choices      : 606     
+Conflicts    : 389      (Analyzed: 388)
+Restarts     : 2        (Average: 194.00 Last: 368)
+Model-Level  : 11.5    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 388      (Deleted: 0)
+  Binary     : 33       (Ratio:   8.51%)
+  Ternary    : 31       (Ratio:   7.99%)
+  Conflict   : 388      (Average Length:    8.9 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 28858   
+Rules        : 3653916  (1: 3643461/3644907 2: 64/40 3: 60/60 5: 8908/8908 6: 1/1)
+Bodies       : 3614999 
+Equivalences : 40191    (Atom=Atom: 11362 Body=Body: 3096 Other: 25733)
+Tight        : Yes
+Variables    : 1773853  (Eliminated:    0 Frozen: 5756)
+Constraints  : 7082652  (Binary: 75.0% Ternary: 25.0% Other:  0.1%)
+

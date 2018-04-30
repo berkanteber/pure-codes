@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...-m-50pc-w-25pc--m-10pc-w-0pc--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,3) singlecount(woman,13) singlecount(total,16) marry(1,1) marry(21,5) marry(7,6) marry(19,7) marry(27,8) marry(5,9) marry(12,10) marry(20,11) marry(8,13) marry(9,15) marry(13,17) marry(2,18) marry(15,19) marry(6,20) marry(23,21) marry(18,22) marry(17,23) marry(4,26) marry(29,28) marry(28,29) marry(11,30) marry(24,31) marry(25,32) marry(14,33) marry(10,35) marry(26,38) marry(22,39)
+Optimization: 16
+Answer: 2
+singlecount(man,2) singlecount(woman,12) singlecount(total,14) marry(1,1) marry(13,4) marry(21,5) marry(7,6) marry(19,7) marry(27,8) marry(5,9) marry(12,10) marry(20,11) marry(8,13) marry(9,15) marry(3,17) marry(2,18) marry(15,19) marry(6,20) marry(23,21) marry(18,22) marry(17,23) marry(4,26) marry(29,28) marry(28,29) marry(11,30) marry(24,31) marry(25,32) marry(14,33) marry(10,35) marry(26,38) marry(22,39)
+Optimization: 14
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 14
+Calls        : 1
+Time         : 0.063s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.060s
+
+Choices      : 322     
+Conflicts    : 91       (Analyzed: 90)
+Restarts     : 1        (Average: 90.00 Last: 23)
+Model-Level  : 10.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 90       (Deleted: 0)
+  Binary     : 15       (Ratio:  16.67%)
+  Ternary    : 9        (Ratio:  10.00%)
+  Conflict   : 90       (Average Length:    2.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 10220    (Original: 10138 Auxiliary: 82)
+Rules        : 33689    (1: 31856/33412 2: 236/176 3: 100/100 6: 1/1)
+Bodies       : 8702    
+Equivalences : 17969    (Atom=Atom: 8491 Body=Body: 69 Other: 9409)
+Tight        : Yes
+Variables    : 1872     (Eliminated:    0 Frozen:  343)
+Constraints  : 6976     (Binary: 78.0% Ternary: 19.1% Other:  2.9%)
+

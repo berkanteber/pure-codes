@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...m-25pc-w-50pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,29) marry(3,23) marry(5,14) marry(9,1) marry(10,24) marry(11,4) marry(12,21) marry(13,28) marry(14,5) marry(15,13) marry(16,10) marry(17,20) marry(18,22) marry(20,3) marry(21,18) marry(22,6) marry(23,25) marry(25,2) marry(26,11) marry(29,19) marry(30,16) marry(31,17) marry(33,8) marry(34,12) marry(35,15) marry(36,7) marry(37,27) marry(38,26) regret(man,12) regret(woman,21) maxregret(21)
+Optimization: 21
+Answer: 2
+marry(1,29) marry(3,23) marry(5,14) marry(7,15) marry(9,1) marry(10,24) marry(12,21) marry(13,28) marry(14,5) marry(15,13) marry(16,10) marry(17,4) marry(18,22) marry(20,3) marry(21,18) marry(22,6) marry(23,25) marry(25,2) marry(26,11) marry(29,19) marry(30,16) marry(31,17) marry(33,8) marry(34,12) marry(35,20) marry(36,7) marry(37,27) marry(38,26) regret(man,12) regret(woman,17) maxregret(17)
+Optimization: 17
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 17
+Calls        : 1
+Time         : 0.091s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.090s
+
+Choices      : 563     
+Conflicts    : 109      (Analyzed: 108)
+Restarts     : 1        (Average: 108.00 Last: 44)
+Model-Level  : 6.5     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 108      (Deleted: 0)
+  Binary     : 19       (Ratio:  17.59%)
+  Ternary    : 12       (Ratio:  11.11%)
+  Conflict   : 108      (Average Length:    2.9 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 12476    (Original: 12306 Auxiliary: 170)
+Rules        : 48092    (1: 46345/47937 2: 110/44 3: 110/110 6: 1/1)
+Bodies       : 9788    
+Equivalences : 20903    (Atom=Atom: 9788 Body=Body: 377 Other: 10738)
+Tight        : Yes
+Variables    : 1085     (Eliminated:    0 Frozen:  193)
+Constraints  : 9776     (Binary: 91.9% Ternary:  5.9% Other:  2.1%)
+

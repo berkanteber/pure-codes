@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...-100pc-w-100pc--m-0pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,32) marry(2,36) marry(3,1) marry(4,12) marry(5,11) marry(6,20) marry(7,28) marry(8,7) marry(9,18) marry(10,37) marry(11,30) marry(12,4) marry(13,33) marry(14,25) marry(15,39) marry(16,13) marry(17,31) marry(18,29) marry(19,8) marry(20,38) marry(21,10) marry(22,19) marry(23,27) marry(24,22) marry(25,9) marry(26,2) marry(27,21) marry(28,34) marry(29,14) marry(30,6) marry(31,17) marry(32,5) marry(33,24) marry(34,35) marry(35,15) marry(36,26) marry(37,3) marry(38,23) marry(39,16) regret(man,22) regret(woman,36) maxregret(36)
+Optimization: 36
+Answer: 2
+marry(1,32) marry(2,33) marry(3,1) marry(4,12) marry(5,11) marry(6,20) marry(7,28) marry(8,7) marry(9,26) marry(10,6) marry(11,30) marry(12,4) marry(13,35) marry(14,25) marry(15,37) marry(16,13) marry(17,31) marry(18,39) marry(19,8) marry(20,38) marry(21,10) marry(22,19) marry(23,27) marry(24,22) marry(25,9) marry(26,2) marry(27,21) marry(28,18) marry(29,14) marry(30,3) marry(31,17) marry(32,5) marry(33,24) marry(34,36) marry(35,15) marry(36,29) marry(37,34) marry(38,23) marry(39,16) regret(man,28) regret(woman,18) maxregret(28)
+Optimization: 28
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 28
+Calls        : 1
+Time         : 5.138s (Solving: 0.42s 1st Model: 0.18s Unsat: 0.00s)
+CPU Time     : 5.130s
+
+Choices      : 5772    
+Conflicts    : 4206     (Analyzed: 4205)
+Restarts     : 26       (Average: 161.73 Last: 4195)
+Model-Level  : 6.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 4205     (Deleted: 840)
+  Binary     : 131      (Ratio:   3.12%)
+  Ternary    : 82       (Ratio:   1.95%)
+  Conflict   : 4205     (Average Length:   33.7 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 72514   
+Rules        : 2449786  (1: 2447985/2449585 2: 120/80 3: 120/120 6: 1/1)
+Bodies       : 545035  
+Equivalences : 145955   (Atom=Atom: 68762 Body=Body: 3238 Other: 73955)
+Tight        : Yes
+Variables    : 3549     (Eliminated:    0 Frozen: 1599)
+Constraints  : 670597   (Binary: 99.7% Ternary:  0.2% Other:  0.1%)
+

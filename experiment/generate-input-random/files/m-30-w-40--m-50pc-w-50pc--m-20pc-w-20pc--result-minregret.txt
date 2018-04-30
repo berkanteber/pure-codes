@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...m-50pc-w-50pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,9) marry(2,32) marry(3,29) marry(4,17) marry(5,11) marry(6,14) marry(7,23) marry(8,3) marry(9,38) marry(10,18) marry(11,28) marry(12,24) marry(13,7) marry(14,25) marry(15,19) marry(16,13) marry(17,20) marry(18,2) marry(19,30) marry(20,8) marry(21,36) marry(22,35) marry(23,5) marry(24,1) marry(25,4) marry(26,33) marry(27,27) marry(28,26) marry(29,31) regret(man,10) regret(woman,12) maxregret(12)
+Optimization: 12
+Answer: 2
+marry(1,9) marry(2,32) marry(3,29) marry(4,17) marry(5,11) marry(6,14) marry(7,23) marry(8,3) marry(9,38) marry(10,18) marry(11,28) marry(12,24) marry(13,7) marry(14,25) marry(15,19) marry(16,13) marry(17,20) marry(18,2) marry(19,30) marry(20,21) marry(21,36) marry(22,35) marry(23,5) marry(24,1) marry(25,4) marry(26,33) marry(27,27) marry(28,26) marry(29,31) regret(man,10) regret(woman,11) maxregret(11)
+Optimization: 11
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 11
+Calls        : 1
+Time         : 0.178s (Solving: 0.01s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.170s
+
+Choices      : 726     
+Conflicts    : 220      (Analyzed: 220)
+Restarts     : 2        (Average: 110.00 Last: 144)
+Model-Level  : 7.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 220      (Deleted: 0)
+  Binary     : 16       (Ratio:   7.27%)
+  Ternary    : 27       (Ratio:  12.27%)
+  Conflict   : 220      (Average Length:    5.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 15432    (Original: 15059 Auxiliary: 373)
+Rules        : 115138   (1: 112982/115006 2: 100/31 3: 100/100 6: 1/1)
+Bodies       : 26955   
+Equivalences : 27628    (Atom=Atom: 12464 Body=Body: 610 Other: 14554)
+Tight        : Yes
+Variables    : 1564     (Eliminated:    0 Frozen:  339)
+Constraints  : 21697    (Binary: 95.2% Ternary:  3.7% Other:  1.1%)
+

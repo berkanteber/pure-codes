@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...-100pc-w-25pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,10) marry(2,20) marry(3,15) marry(5,13) marry(6,26) marry(7,5) marry(8,11) marry(9,23) marry(10,28) marry(11,22) marry(12,9) marry(13,24) marry(14,3) marry(15,14) marry(16,18) marry(17,2) marry(18,12) marry(20,29) marry(21,21) marry(22,4) marry(23,27) marry(24,6) marry(25,25) marry(26,8) marry(28,7) marry(29,17) mtot(260) wtot(52) ttot(312)
+Optimization: 312
+Answer: 2
+marry(1,10) marry(2,20) marry(3,22) marry(5,13) marry(6,26) marry(7,5) marry(8,11) marry(9,23) marry(10,28) marry(11,15) marry(12,9) marry(13,24) marry(14,3) marry(15,14) marry(16,18) marry(17,2) marry(18,12) marry(20,29) marry(21,21) marry(22,4) marry(23,27) marry(24,6) marry(25,25) marry(26,8) marry(28,7) marry(29,17) mtot(250) wtot(53) ttot(303)
+Optimization: 303
+Answer: 3
+marry(1,10) marry(2,20) marry(3,22) marry(5,13) marry(6,26) marry(7,5) marry(8,11) marry(9,23) marry(10,28) marry(11,9) marry(12,6) marry(13,24) marry(14,3) marry(15,14) marry(16,18) marry(17,2) marry(18,12) marry(20,29) marry(21,21) marry(22,4) marry(23,27) marry(24,15) marry(25,25) marry(26,8) marry(28,7) marry(29,17) mtot(227) wtot(63) ttot(290)
+Optimization: 290
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 290
+Calls        : 1
+Time         : 58.048s (Solving: 10.57s 1st Model: 4.37s Unsat: 0.52s)
+CPU Time     : 57.900s
+
+Choices      : 661     
+Conflicts    : 259      (Analyzed: 258)
+Restarts     : 2        (Average: 129.00 Last: 73)
+Model-Level  : 9.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 258      (Deleted: 0)
+  Binary     : 31       (Ratio:  12.02%)
+  Ternary    : 31       (Ratio:  12.02%)
+  Conflict   : 258      (Average Length:    4.4 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 72545   
+Rules        : 8572780  (1: 8547739/8550361 2: 94/60 3: 90/90 5: 22268/22268 6: 1/1)
+Bodies       : 8510940 
+Equivalences : 67721    (Atom=Atom: 22475 Body=Body: 3961 Other: 41285)
+Tight        : Yes
+Variables    : 2247766  (Eliminated:    0 Frozen: 7521)
+Constraints  : 8969720  (Binary: 74.9% Ternary: 25.0% Other:  0.1%)
+

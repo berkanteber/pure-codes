@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...-25pc-w-100pc--m-20pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,10) marry(2,1) marry(3,26) marry(4,5) marry(5,24) marry(6,18) marry(7,11) marry(8,2) marry(9,6) marry(10,15) marry(11,28) marry(12,14) marry(13,12) marry(14,9) marry(15,8) marry(16,27) marry(17,29) marry(18,19) marry(19,13) mtot(31) wtot(156) ttot(125)
+Optimization: 125
+Answer: 2
+marry(1,13) marry(2,1) marry(3,26) marry(4,5) marry(5,6) marry(6,15) marry(7,11) marry(8,2) marry(9,10) marry(10,19) marry(11,28) marry(12,14) marry(13,12) marry(14,9) marry(15,8) marry(16,18) marry(17,29) marry(18,27) marry(19,22) mtot(33) wtot(152) ttot(119)
+Optimization: 119
+Answer: 3
+marry(1,13) marry(2,1) marry(3,26) marry(4,5) marry(5,6) marry(6,18) marry(7,11) marry(8,2) marry(9,10) marry(10,15) marry(11,28) marry(12,14) marry(13,12) marry(14,9) marry(15,8) marry(16,27) marry(17,29) marry(18,19) marry(19,22) mtot(35) wtot(150) ttot(115)
+Optimization: 115
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 115
+Calls        : 1
+Time         : 13.715s (Solving: 1.74s 1st Model: 0.54s Unsat: 0.37s)
+CPU Time     : 13.680s
+
+Choices      : 417     
+Conflicts    : 153      (Analyzed: 152)
+Restarts     : 1        (Average: 152.00 Last: 31)
+Model-Level  : 11.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 152      (Deleted: 0)
+  Binary     : 22       (Ratio:  14.47%)
+  Ternary    : 24       (Ratio:  15.79%)
+  Conflict   : 152      (Average Length:    5.3 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 34065   
+Rules        : 2593545  (1: 2581156/2582928 2: 74/50 3: 70/70 5: 10496/10496 6: 1/1)
+Bodies       : 2564506 
+Equivalences : 33400    (Atom=Atom: 10866 Body=Body: 2047 Other: 20487)
+Tight        : Yes
+Variables    : 697205   (Eliminated:    0 Frozen: 3317)
+Constraints  : 2779697  (Binary: 74.9% Ternary: 25.0% Other:  0.1%)
+

@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...-m-50pc-w-50pc--m-0pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,0) singlecount(woman,30) singlecount(total,30) marry(8,1) marry(25,2) marry(10,3) marry(67,4) marry(77,7) marry(79,8) marry(63,9) marry(62,11) marry(81,12) marry(53,13) marry(33,14) marry(29,15) marry(5,17) marry(19,18) marry(30,21) marry(83,24) marry(37,26) marry(16,30) marry(26,31) marry(1,32) marry(78,34) marry(34,35) marry(28,36) marry(50,37) marry(84,38) marry(85,39) marry(56,40) marry(72,41) marry(24,42) marry(74,43) marry(52,44) marry(40,46) marry(7,48) marry(90,49) marry(82,50) marry(17,52) marry(36,53) marry(12,55) marry(35,56) marry(18,57) marry(89,59) marry(22,61) marry(51,62) marry(73,64) marry(11,66) marry(76,68) marry(13,69) marry(86,70) marry(55,71) marry(48,72) marry(58,73) marry(3,74) marry(42,75) marry(20,76) marry(46,77) marry(9,78) marry(32,79) marry(54,80) marry(69,81) marry(4,83) marry(70,84) marry(64,86) marry(6,87) marry(49,88) marry(66,91) marry(21,92) marry(43,93) marry(71,94) marry(23,95) marry(57,96) marry(61,97) marry(39,99) marry(14,100) marry(2,101) marry(68,102) marry(75,103) marry(47,104) marry(15,105) marry(80,107) marry(41,108) marry(31,109) marry(45,112) marry(44,113) marry(88,114) marry(59,115) marry(27,116) marry(65,117) marry(60,118) marry(87,119) marry(38,120)
+Optimization: 30
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 30
+Calls        : 1
+Time         : 15.347s (Solving: 0.62s 1st Model: 0.60s Unsat: 0.02s)
+CPU Time     : 15.310s
+
+Choices      : 40394   
+Conflicts    : 4425     (Analyzed: 4424)
+Restarts     : 29       (Average: 152.55 Last: 4370)
+Model-Level  : 44.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 4424     (Deleted: 509)
+  Binary     : 471      (Ratio:  10.65%)
+  Ternary    : 324      (Ratio:   7.32%)
+  Conflict   : 4424     (Average Length:    9.4 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 312903  
+Rules        : 7462306  (1: 7450163/7461383 2: 716/622 3: 300/300 6: 1/1)
+Bodies       : 1860435 
+Equivalences : 605478   (Atom=Atom: 300748 Body=Body: 208 Other: 304522)
+Tight        : Yes
+Variables    : 14901    (Eliminated:    0 Frozen: 3377)
+Constraints  : 534953   (Binary: 97.7% Ternary:  2.1% Other:  0.2%)
+

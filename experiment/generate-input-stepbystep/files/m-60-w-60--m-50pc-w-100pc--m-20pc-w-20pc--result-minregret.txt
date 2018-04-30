@@ -1,0 +1,50 @@
+clingo version 4.5.4
+Reading from ...-50pc-w-100pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,58) marry(2,23) marry(3,34) marry(4,38) marry(5,3) marry(6,11) marry(7,43) marry(8,13) marry(9,41) marry(10,37) marry(11,20) marry(12,1) marry(13,49) marry(14,35) marry(15,17) marry(16,55) marry(17,25) marry(18,7) marry(19,54) marry(20,14) marry(21,18) marry(22,40) marry(23,15) marry(24,32) marry(25,56) marry(26,27) marry(27,48) marry(28,59) marry(29,46) marry(30,19) marry(31,6) marry(32,45) marry(33,50) marry(34,28) marry(35,31) marry(36,53) marry(37,4) marry(38,57) marry(39,10) marry(40,51) marry(41,21) marry(42,26) marry(43,42) marry(44,24) marry(45,52) marry(46,22) marry(47,12) marry(48,16) marry(49,30) marry(50,9) marry(51,33) marry(52,29) marry(53,36) marry(54,8) marry(55,44) marry(56,2) marry(57,5) marry(58,60) marry(59,39) marry(60,47) regret(man,57) regret(woman,29) maxregret(57)
+Optimization: 57
+Answer: 2
+marry(1,32) marry(2,23) marry(3,34) marry(4,38) marry(5,24) marry(6,36) marry(7,43) marry(8,13) marry(9,41) marry(10,37) marry(11,58) marry(12,1) marry(13,49) marry(14,35) marry(15,17) marry(16,55) marry(17,25) marry(18,7) marry(19,54) marry(20,20) marry(21,18) marry(22,40) marry(23,15) marry(24,11) marry(25,56) marry(26,27) marry(27,48) marry(28,59) marry(29,14) marry(30,19) marry(31,6) marry(32,45) marry(33,50) marry(34,28) marry(35,12) marry(36,53) marry(37,4) marry(38,57) marry(39,31) marry(40,51) marry(41,10) marry(42,26) marry(43,42) marry(44,22) marry(45,52) marry(46,21) marry(47,3) marry(48,16) marry(49,30) marry(50,9) marry(51,33) marry(52,29) marry(53,46) marry(54,8) marry(55,44) marry(56,2) marry(57,5) marry(58,60) marry(59,39) marry(60,47) regret(man,53) regret(woman,21) maxregret(53)
+Optimization: 53
+Answer: 3
+marry(1,58) marry(2,23) marry(3,34) marry(4,38) marry(5,24) marry(6,11) marry(7,43) marry(8,15) marry(9,41) marry(10,37) marry(11,6) marry(12,1) marry(13,49) marry(14,35) marry(15,17) marry(16,55) marry(17,25) marry(18,7) marry(19,54) marry(20,20) marry(21,18) marry(22,40) marry(23,12) marry(24,32) marry(25,56) marry(26,27) marry(27,48) marry(28,59) marry(29,46) marry(30,19) marry(31,31) marry(32,45) marry(33,50) marry(34,28) marry(35,14) marry(36,53) marry(37,4) marry(38,57) marry(39,10) marry(40,51) marry(41,21) marry(42,26) marry(43,42) marry(44,13) marry(45,52) marry(46,22) marry(47,3) marry(48,16) marry(49,30) marry(50,9) marry(51,33) marry(52,29) marry(53,36) marry(54,8) marry(55,44) marry(56,2) marry(57,5) marry(58,60) marry(59,39) marry(60,47) regret(man,50) regret(woman,29) maxregret(50)
+Optimization: 50
+Answer: 4
+marry(1,28) marry(2,23) marry(3,42) marry(4,38) marry(5,3) marry(6,11) marry(7,43) marry(8,15) marry(9,41) marry(10,37) marry(11,6) marry(12,30) marry(13,49) marry(14,58) marry(15,17) marry(16,55) marry(17,25) marry(18,1) marry(19,54) marry(20,20) marry(21,18) marry(22,40) marry(23,45) marry(24,32) marry(25,56) marry(26,27) marry(27,48) marry(28,59) marry(29,12) marry(30,29) marry(31,22) marry(32,19) marry(33,50) marry(34,9) marry(35,14) marry(36,53) marry(37,4) marry(38,57) marry(39,10) marry(40,51) marry(41,33) marry(42,26) marry(43,46) marry(44,24) marry(45,52) marry(46,21) marry(47,35) marry(48,16) marry(49,13) marry(50,31) marry(51,47) marry(52,34) marry(53,36) marry(54,8) marry(55,44) marry(56,2) marry(57,5) marry(58,60) marry(59,39) marry(60,7) regret(man,32) regret(woman,46) maxregret(46)
+Optimization: 46
+Answer: 5
+marry(1,58) marry(2,23) marry(3,34) marry(4,38) marry(5,24) marry(6,11) marry(7,43) marry(8,15) marry(9,41) marry(10,37) marry(11,6) marry(12,30) marry(13,49) marry(14,35) marry(15,17) marry(16,55) marry(17,25) marry(18,1) marry(19,54) marry(20,20) marry(21,18) marry(22,40) marry(23,12) marry(24,32) marry(25,56) marry(26,27) marry(27,48) marry(28,59) marry(29,46) marry(30,19) marry(31,31) marry(32,45) marry(33,50) marry(34,28) marry(35,14) marry(36,53) marry(37,4) marry(38,57) marry(39,10) marry(40,51) marry(41,33) marry(42,26) marry(43,42) marry(44,22) marry(45,52) marry(46,21) marry(47,3) marry(48,16) marry(49,13) marry(50,9) marry(51,47) marry(52,29) marry(53,36) marry(54,8) marry(55,44) marry(56,2) marry(57,5) marry(58,60) marry(59,39) marry(60,7) regret(man,43) regret(woman,44) maxregret(44)
+Optimization: 44
+Answer: 6
+marry(1,58) marry(2,23) marry(3,34) marry(4,38) marry(5,24) marry(6,47) marry(7,43) marry(8,15) marry(9,41) marry(10,37) marry(11,6) marry(12,30) marry(13,49) marry(14,35) marry(15,17) marry(16,55) marry(17,25) marry(18,1) marry(19,54) marry(20,20) marry(21,18) marry(22,40) marry(23,12) marry(24,32) marry(25,56) marry(26,27) marry(27,48) marry(28,59) marry(29,46) marry(30,19) marry(31,31) marry(32,45) marry(33,50) marry(34,28) marry(35,14) marry(36,53) marry(37,4) marry(38,57) marry(39,10) marry(40,51) marry(41,11) marry(42,26) marry(43,42) marry(44,22) marry(45,52) marry(46,21) marry(47,3) marry(48,16) marry(49,13) marry(50,9) marry(51,33) marry(52,29) marry(53,36) marry(54,8) marry(55,44) marry(56,2) marry(57,5) marry(58,60) marry(59,39) marry(60,7) regret(man,43) regret(woman,37) maxregret(43)
+Optimization: 43
+OPTIMUM FOUND
+
+Models       : 6     
+  Optimum    : yes
+Optimization : 43
+Calls        : 1
+Time         : 6.954s (Solving: 0.57s 1st Model: 0.50s Unsat: 0.00s)
+CPU Time     : 6.940s
+
+Choices      : 23414   
+Conflicts    : 4066     (Analyzed: 4065)
+Restarts     : 25       (Average: 162.60 Last: 3993)
+Model-Level  : 58.2    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 4065     (Deleted: 305)
+  Binary     : 339      (Ratio:   8.34%)
+  Ternary    : 239      (Ratio:   5.88%)
+  Conflict   : 4065     (Average Length:   16.9 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 155511  
+Rules        : 3562717  (1: 3558816/3562416 2: 180/120 3: 180/180 6: 1/1)
+Bodies       : 840962  
+Equivalences : 299299   (Atom=Atom: 145803 Body=Body: 3158 Other: 150338)
+Tight        : Yes
+Variables    : 6541     (Eliminated:    0 Frozen: 1922)
+Constraints  : 641825   (Binary: 99.3% Ternary:  0.6% Other:  0.1%)
+

@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...m-50pc-w-25pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+singlecount(man,2) singlecount(woman,32) singlecount(total,34) marry(8,2) marry(7,3) marry(4,6) marry(5,7) marry(14,9) marry(6,11) marry(29,15) marry(9,16) marry(26,21) marry(19,24) marry(12,27) marry(1,28) marry(11,29) marry(22,31) marry(2,34) marry(27,42) marry(18,43) marry(24,44) marry(13,45) marry(20,47) marry(23,48) marry(21,51) marry(10,53) marry(3,55) marry(15,56) marry(25,57) marry(16,58) marry(28,59)
+Optimization: 34
+Answer: 2
+singlecount(man,1) singlecount(woman,31) singlecount(total,32) marry(8,2) marry(7,3) marry(4,6) marry(5,7) marry(14,9) marry(6,11) marry(29,15) marry(9,16) marry(26,21) marry(19,24) marry(12,27) marry(1,28) marry(11,29) marry(17,31) marry(22,32) marry(2,34) marry(27,42) marry(18,43) marry(24,44) marry(13,45) marry(20,47) marry(23,48) marry(21,51) marry(10,53) marry(3,55) marry(15,56) marry(25,57) marry(16,58) marry(28,59)
+Optimization: 32
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 32
+Calls        : 1
+Time         : 0.128s (Solving: 0.01s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.120s
+
+Choices      : 704     
+Conflicts    : 137      (Analyzed: 136)
+Restarts     : 1        (Average: 136.00 Last: 56)
+Model-Level  : 13.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 136      (Deleted: 0)
+  Binary     : 25       (Ratio:  18.38%)
+  Ternary    : 18       (Ratio:  13.24%)
+  Conflict   : 136      (Average Length:    2.5 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 20110    (Original: 19935 Auxiliary: 175)
+Rules        : 79427    (1: 76673/79085 2: 296/221 3: 120/120 6: 1/1)
+Bodies       : 19811   
+Equivalences : 36468    (Atom=Atom: 17568 Body=Body: 89 Other: 18811)
+Tight        : Yes
+Variables    : 2776     (Eliminated:    0 Frozen:  500)
+Constraints  : 11879    (Binary: 81.2% Ternary: 16.6% Other:  2.2%)
+

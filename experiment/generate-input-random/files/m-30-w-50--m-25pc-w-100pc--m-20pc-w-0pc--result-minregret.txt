@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...m-25pc-w-100pc--m-20pc-w-0pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,46) marry(2,31) marry(3,3) marry(4,29) marry(5,12) marry(6,43) marry(7,47) marry(8,13) marry(9,11) marry(10,48) marry(11,20) marry(12,23) marry(13,10) marry(14,36) marry(15,33) marry(16,18) marry(17,5) marry(18,14) marry(19,15) marry(20,34) marry(21,35) marry(22,27) marry(23,45) marry(24,49) marry(25,1) marry(26,9) marry(27,37) marry(28,7) marry(29,32) regret(man,4) regret(woman,28) maxregret(28)
+Optimization: 28
+Answer: 2
+marry(1,46) marry(2,31) marry(3,3) marry(4,29) marry(5,12) marry(6,43) marry(7,47) marry(8,13) marry(9,11) marry(10,48) marry(11,20) marry(12,23) marry(13,10) marry(14,36) marry(15,33) marry(16,18) marry(17,5) marry(18,14) marry(19,15) marry(20,34) marry(21,35) marry(22,27) marry(23,45) marry(24,1) marry(25,38) marry(26,9) marry(27,37) marry(28,7) marry(29,32) regret(man,3) regret(woman,27) maxregret(27)
+Optimization: 27
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 27
+Calls        : 1
+Time         : 0.308s (Solving: 0.01s 1st Model: 0.01s Unsat: 0.00s)
+CPU Time     : 0.300s
+
+Choices      : 862     
+Conflicts    : 262      (Analyzed: 261)
+Restarts     : 2        (Average: 130.50 Last: 88)
+Model-Level  : 17.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 261      (Deleted: 0)
+  Binary     : 30       (Ratio:  11.49%)
+  Ternary    : 31       (Ratio:  11.88%)
+  Conflict   : 261      (Average Length:    4.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 31195    (Original: 30655 Auxiliary: 540)
+Rules        : 218072   (1: 215253/217929 2: 110/32 3: 110/110 6: 1/1)
+Bodies       : 48260   
+Equivalences : 56044    (Atom=Atom: 27164 Body=Body: 739 Other: 28141)
+Tight        : Yes
+Variables    : 2049     (Eliminated:    0 Frozen:  450)
+Constraints  : 37096    (Binary: 96.4% Ternary:  2.9% Other:  0.7%)
+

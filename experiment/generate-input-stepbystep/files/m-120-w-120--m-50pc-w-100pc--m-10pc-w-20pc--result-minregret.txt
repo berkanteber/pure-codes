@@ -1,0 +1,44 @@
+clingo version 4.5.4
+Reading from ...-50pc-w-100pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,45) marry(2,58) marry(3,114) marry(4,98) marry(5,16) marry(6,64) marry(7,79) marry(8,2) marry(9,44) marry(10,48) marry(11,32) marry(12,103) marry(13,68) marry(14,77) marry(15,29) marry(16,61) marry(17,107) marry(18,15) marry(19,34) marry(20,74) marry(21,36) marry(22,112) marry(23,94) marry(24,95) marry(25,4) marry(26,37) marry(27,118) marry(28,105) marry(29,104) marry(30,54) marry(31,100) marry(32,17) marry(33,102) marry(34,119) marry(35,108) marry(36,51) marry(37,88) marry(38,75) marry(39,55) marry(40,93) marry(41,41) marry(42,14) marry(43,96) marry(44,109) marry(45,12) marry(46,76) marry(47,42) marry(48,40) marry(49,115) marry(50,19) marry(51,11) marry(52,23) marry(53,24) marry(54,84) marry(55,7) marry(56,25) marry(57,10) marry(58,71) marry(59,86) marry(60,110) marry(61,47) marry(62,73) marry(63,3) marry(64,43) marry(65,31) marry(66,67) marry(67,35) marry(68,38) marry(69,39) marry(70,5) marry(71,89) marry(72,27) marry(73,62) marry(74,69) marry(75,111) marry(76,72) marry(77,120) marry(78,78) marry(79,83) marry(80,22) marry(81,49) marry(82,101) marry(83,46) marry(84,13) marry(85,56) marry(86,59) marry(87,53) marry(88,21) marry(89,70) marry(90,97) marry(91,92) marry(92,81) marry(93,106) marry(94,87) marry(95,9) marry(96,65) marry(97,52) marry(98,85) marry(99,63) marry(100,33) marry(101,113) marry(102,66) marry(103,8) marry(104,117) marry(105,26) marry(106,99) marry(107,57) marry(108,91) marry(109,28) marry(110,90) marry(111,20) marry(112,6) marry(113,18) marry(114,30) marry(115,82) marry(116,1) marry(117,60) marry(118,80) marry(119,50) marry(120,116) regret(man,107) regret(woman,39) maxregret(107)
+Optimization: 107
+Answer: 2
+marry(1,63) marry(2,58) marry(3,81) marry(4,98) marry(5,16) marry(6,112) marry(7,79) marry(8,2) marry(9,17) marry(10,31) marry(11,32) marry(12,103) marry(13,68) marry(14,77) marry(15,29) marry(16,61) marry(17,14) marry(18,15) marry(19,34) marry(20,74) marry(21,36) marry(22,5) marry(23,94) marry(24,95) marry(25,1) marry(26,37) marry(27,118) marry(28,105) marry(29,104) marry(30,54) marry(31,100) marry(32,25) marry(33,102) marry(34,119) marry(35,108) marry(36,51) marry(37,45) marry(38,75) marry(39,55) marry(40,93) marry(41,41) marry(42,52) marry(43,96) marry(44,109) marry(45,12) marry(46,76) marry(47,42) marry(48,26) marry(49,6) marry(50,62) marry(51,40) marry(52,44) marry(53,24) marry(54,84) marry(55,7) marry(56,47) marry(57,23) marry(58,71) marry(59,86) marry(60,110) marry(61,11) marry(62,73) marry(63,3) marry(64,43) marry(65,72) marry(66,67) marry(67,48) marry(68,38) marry(69,39) marry(70,107) marry(71,89) marry(72,27) marry(73,4) marry(74,19) marry(75,111) marry(76,114) marry(77,21) marry(78,78) marry(79,83) marry(80,22) marry(81,49) marry(82,106) marry(83,46) marry(84,13) marry(85,56) marry(86,59) marry(87,53) marry(88,115) marry(89,70) marry(90,97) marry(91,69) marry(92,116) marry(93,64) marry(94,87) marry(95,9) marry(96,65) marry(97,35) marry(98,85) marry(99,120) marry(100,82) marry(101,113) marry(102,66) marry(103,8) marry(104,117) marry(105,10) marry(106,99) marry(107,57) marry(108,101) marry(109,28) marry(110,90) marry(111,20) marry(112,92) marry(113,18) marry(114,30) marry(115,91) marry(116,88) marry(117,60) marry(118,80) marry(119,50) marry(120,33) regret(man,77) regret(woman,58) maxregret(77)
+Optimization: 77
+Answer: 3
+marry(1,63) marry(2,58) marry(3,81) marry(4,98) marry(5,16) marry(6,13) marry(7,79) marry(8,2) marry(9,17) marry(10,55) marry(11,32) marry(12,103) marry(13,68) marry(14,77) marry(15,29) marry(16,61) marry(17,14) marry(18,15) marry(19,34) marry(20,74) marry(21,36) marry(22,5) marry(23,112) marry(24,3) marry(25,1) marry(26,37) marry(27,118) marry(28,105) marry(29,104) marry(30,54) marry(31,100) marry(32,116) marry(33,102) marry(34,119) marry(35,108) marry(36,51) marry(37,45) marry(38,75) marry(39,35) marry(40,93) marry(41,41) marry(42,52) marry(43,96) marry(44,109) marry(45,12) marry(46,76) marry(47,42) marry(48,26) marry(49,6) marry(50,62) marry(51,40) marry(52,44) marry(53,24) marry(54,84) marry(55,7) marry(56,47) marry(57,23) marry(58,71) marry(59,86) marry(60,110) marry(61,11) marry(62,73) marry(63,20) marry(64,43) marry(65,72) marry(66,67) marry(67,48) marry(68,38) marry(69,39) marry(70,107) marry(71,89) marry(72,27) marry(73,4) marry(74,19) marry(75,111) marry(76,114) marry(77,31) marry(78,78) marry(79,83) marry(80,22) marry(81,49) marry(82,106) marry(83,46) marry(84,21) marry(85,56) marry(86,59) marry(87,53) marry(88,115) marry(89,70) marry(90,97) marry(91,69) marry(92,95) marry(93,64) marry(94,87) marry(95,9) marry(96,65) marry(97,25) marry(98,94) marry(99,120) marry(100,82) marry(101,113) marry(102,66) marry(103,8) marry(104,117) marry(105,10) marry(106,99) marry(107,57) marry(108,101) marry(109,28) marry(110,90) marry(111,88) marry(112,92) marry(113,18) marry(114,30) marry(115,91) marry(116,85) marry(117,60) marry(118,80) marry(119,50) marry(120,33) regret(man,74) regret(woman,68) maxregret(74)
+Optimization: 74
+Answer: 4
+marry(1,63) marry(2,58) marry(3,81) marry(4,98) marry(5,104) marry(6,13) marry(7,79) marry(8,2) marry(9,17) marry(10,55) marry(11,83) marry(12,103) marry(13,68) marry(14,77) marry(15,29) marry(16,61) marry(17,14) marry(18,15) marry(19,34) marry(20,74) marry(21,36) marry(22,5) marry(23,112) marry(24,3) marry(25,1) marry(26,37) marry(27,118) marry(28,28) marry(29,75) marry(30,105) marry(31,100) marry(32,116) marry(33,111) marry(34,119) marry(35,108) marry(36,51) marry(37,45) marry(38,102) marry(39,35) marry(40,93) marry(41,41) marry(42,52) marry(43,96) marry(44,109) marry(45,12) marry(46,76) marry(47,42) marry(48,26) marry(49,6) marry(50,22) marry(51,40) marry(52,44) marry(53,24) marry(54,84) marry(55,7) marry(56,47) marry(57,23) marry(58,71) marry(59,86) marry(60,110) marry(61,11) marry(62,73) marry(63,32) marry(64,43) marry(65,72) marry(66,67) marry(67,48) marry(68,38) marry(69,39) marry(70,107) marry(71,89) marry(72,27) marry(73,4) marry(74,19) marry(75,62) marry(76,114) marry(77,31) marry(78,78) marry(79,54) marry(80,16) marry(81,49) marry(82,106) marry(83,46) marry(84,21) marry(85,56) marry(86,59) marry(87,53) marry(88,115) marry(89,70) marry(90,97) marry(91,69) marry(92,95) marry(93,64) marry(94,87) marry(95,9) marry(96,65) marry(97,25) marry(98,94) marry(99,120) marry(100,82) marry(101,113) marry(102,66) marry(103,8) marry(104,117) marry(105,10) marry(106,99) marry(107,20) marry(108,101) marry(109,57) marry(110,90) marry(111,88) marry(112,92) marry(113,18) marry(114,30) marry(115,91) marry(116,85) marry(117,60) marry(118,80) marry(119,50) marry(120,33) regret(man,69) regret(woman,68) maxregret(69)
+Optimization: 69
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 69
+Calls        : 1
+Time         : 150.181s (Solving: 16.92s 1st Model: 15.57s Unsat: 0.01s)
+CPU Time     : 149.860s
+
+Choices      : 87434   
+Conflicts    : 22925    (Analyzed: 22924)
+Restarts     : 123      (Average: 186.37 Last: 22841)
+Model-Level  : 16.5    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 22924    (Deleted: 7635)
+  Binary     : 1265     (Ratio:   5.52%)
+  Ternary    : 802      (Ratio:   3.50%)
+  Conflict   : 22924    (Average Length:   27.1 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 1156051 
+Rules        : 54142247 (1: 54127246/54141646 2: 360/240 3: 360/360 6: 1/1)
+Bodies       : 12922365
+Equivalences : 2267672  (Atom=Atom: 1119224 Body=Body: 12714 Other: 1135734)
+Tight        : Yes
+Variables    : 24126    (Eliminated:    0 Frozen: 7370)
+Constraints  : 7933884  (Binary: 99.8% Ternary:  0.2% Other:  0.0%)
+
