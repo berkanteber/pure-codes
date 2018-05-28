@@ -1,0 +1,2367 @@
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 0.050s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 0.030s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.040s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.040s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 0.100s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.040s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 0.180s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 0.120s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.030s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 0.100s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.120s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.080s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.220s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 0.290s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 0.850s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.520s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 1.020s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.230s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.800s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 0.120s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 0.500s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 0.270s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 0.800s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 0.680s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 1.490s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.210s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 1.000s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.480s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 1.280s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.190s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 0.740s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.090s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 0.670s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.520s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 1.430s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.570s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 1.380s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-20--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.040s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 1.150s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 6.180s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.050s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.050s
+
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.050s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 2.400s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 12.980s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.060s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.060s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 1.570s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 7.810s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.070s
+
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.050s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 2.160s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 10.120s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.040s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.050s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 7.920s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 15.760s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.070s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-20--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.070s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 13.640s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 16.280s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.060s
+file:  files/m-20-w-20--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.070s
+
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                       
+--> CPU Time     : 0.410s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt              
+--> CPU Time     : 12.460s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt           
+--> CPU Time     : 105.190s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt             
+--> CPU Time     : 0.390s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt        
+--> CPU Time     : 0.370s
+
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                      
+--> CPU Time     : 0.340s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 48.010s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 93.250s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.390s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.340s
+
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                      
+--> CPU Time     : 0.380s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 103.070s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 73.810s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.320s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.290s
+
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                     
+--> CPU Time     : 0.310s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt            
+--> CPU Time     : 87.010s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt         
+--> CPU Time     : 105.590s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt           
+--> CPU Time     : 0.470s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt      
+--> CPU Time     : 0.420s
+
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                     
+--> CPU Time     : 0.420s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 182.030s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 96.250s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 0.420s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 0.450s
+
+file:  files/m-20-w-20--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                     
+--> CPU Time     : 0.410s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 126.760s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 113.760s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 0.350s
+file:  files/m-20-w-20--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 0.340s
+
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.000s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.070s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 0.270s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.080s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 0.390s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.110s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 0.430s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.000s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.190s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 0.490s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.130s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.380s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.000s
+
+file:  files/m-20-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.080s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.340s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.000s
+file:  files/m-20-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.310s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 1.130s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.690s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 2.490s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.620s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 2.100s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.620s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 3.030s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.480s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 1.560s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.580s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 1.590s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 4.440s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 9.800s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.040s
+
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 6.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 18.080s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 9.710s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 12.470s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.050s
+
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 8.620s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 11.430s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.050s
+
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 7.980s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 16.640s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.050s
+
+file:  files/m-20-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 8.440s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 10.730s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.040s
+
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 3.680s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 7.890s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.040s
+
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.060s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 17.170s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 20.170s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.060s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 6.190s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 13.730s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 14.340s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 21.010s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.060s
+
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 11.010s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 17.210s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.040s
+
+file:  files/m-20-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.040s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 5.080s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 13.310s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-20-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.050s
+
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.210s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 71.040s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 135.480s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.200s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.280s
+
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.290s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 210.990s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 97.950s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.330s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.310s
+
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.280s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 217.230s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 172.140s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.220s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.230s
+
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.210s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 210.030s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 135.220s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.190s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.210s
+
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.170s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 61.550s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 72.400s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.210s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.200s
+
+file:  files/m-20-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.170s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 69.220s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 117.320s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.250s
+file:  files/m-20-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.260s
+
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                       
+--> CPU Time     : 2.430s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt              
+--> CPU Time     : 997.120s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt           
+--> CPU Time     : 693.390s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt             
+--> CPU Time     : 1.710s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt        
+--> CPU Time     : 1.740s
+
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                      
+--> CPU Time     : 2.020s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 843.150s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 830.220s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 1.610s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 1.530s
+
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                      
+--> CPU Time     : 1.480s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.040s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 752.140s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 1.800s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 1.910s
+
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                     
+--> CPU Time     : 1.810s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt            
+--> CPU Time     : 997.050s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt         
+--> CPU Time     : 768.540s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt           
+--> CPU Time     : 1.630s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt      
+--> CPU Time     : 1.800s
+
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                     
+--> CPU Time     : 1.790s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.020s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 852.090s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 1.760s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 1.830s
+
+file:  files/m-20-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                     
+--> CPU Time     : 1.820s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.040s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 678.400s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 1.360s
+file:  files/m-20-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 1.400s
+
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.000s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.340s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 1.050s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.200s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 0.590s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.000s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.240s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 0.660s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 0.650s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 2.030s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.280s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 0.900s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.010s
+
+file:  files/m-20-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.740s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 1.910s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 4.180s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 9.030s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.030s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.030s
+
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.010s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 1.740s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 5.230s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.030s
+
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 1.790s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 4.500s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 5.320s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 10.300s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.030s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.030s
+
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 5.790s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 12.310s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.030s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.030s
+
+file:  files/m-20-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 5.080s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 10.190s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.030s
+file:  files/m-20-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.040s
+
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.080s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 52.050s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 83.490s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.100s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.120s
+
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.060s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 34.910s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 49.890s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.090s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.090s
+
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.100s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 35.200s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 92.900s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.080s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.100s
+
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.090s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 50.510s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 100.710s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.110s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.110s
+
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.090s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 34.210s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 86.100s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.110s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.120s
+
+file:  files/m-20-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.120s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 72.200s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 110.290s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.120s
+file:  files/m-20-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.120s
+
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.100s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 43.100s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 71.180s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.110s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.120s
+
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.100s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 62.850s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 71.060s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.100s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.120s
+
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.100s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 27.850s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 66.710s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.120s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.130s
+
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.110s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 58.270s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 93.770s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.110s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.110s
+
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.120s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 35.890s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 98.800s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.130s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.140s
+
+file:  files/m-20-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.120s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 70.140s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 89.040s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.120s
+file:  files/m-20-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.120s
+
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.550s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 997.040s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 634.440s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.650s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.660s
+
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.600s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 844.070s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 302.420s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.550s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.580s
+
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.590s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 997.080s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 552.630s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.430s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.440s
+
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.470s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 997.060s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 618.730s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.450s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.480s
+
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.420s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 685.050s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 479.310s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.510s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.530s
+
+file:  files/m-20-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.540s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 996.540s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 447.030s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.680s
+file:  files/m-20-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.660s
+
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                       
+--> CPU Time     : 4.520s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt              
+--> CPU Time     : 997.110s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt           
+--> CPU Time     : 997.070s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt             
+--> CPU Time     : 4.390s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt        
+--> CPU Time     : 4.710s
+
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                      
+--> CPU Time     : 3.910s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 997.140s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 997.150s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 3.200s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 3.240s
+
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                      
+--> CPU Time     : 3.100s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.200s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 997.120s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 3.180s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 3.250s
+
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                     
+--> CPU Time     : 3.180s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt            
+--> CPU Time     : 997.210s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt         
+--> CPU Time     : 997.240s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt           
+--> CPU Time     : 3.330s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt      
+--> CPU Time     : 3.240s
+
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                     
+--> CPU Time     : 3.070s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.180s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 997.140s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 3.250s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 3.220s
+
+file:  files/m-20-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                     
+--> CPU Time     : 3.050s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.200s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 997.280s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 3.050s
+file:  files/m-20-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 3.200s
+
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 0.450s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 2.180s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.020s
+
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.020s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 0.910s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 2.940s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 0.240s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 1.580s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.020s
+
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 1.040s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 3.040s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 0.950s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 3.700s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-40-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 1.100s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 4.840s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.010s
+file:  files/m-40-w-40--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.020s
+
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 2.880s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 15.150s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.030s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 11.920s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 15.000s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.020s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 5.240s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 16.530s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.030s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.030s
+
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 3.750s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 32.590s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.030s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 10.130s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 24.220s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.040s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 5.590s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 20.370s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-40-w-40--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.050s
+
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.160s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 739.750s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 189.360s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.170s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.160s
+
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.140s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 168.920s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 149.850s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.160s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.170s
+
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.140s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 365.910s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 207.900s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.160s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.160s
+
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.150s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 92.330s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 154.150s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.140s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.150s
+
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.140s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 100.880s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 177.480s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.180s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.200s
+
+file:  files/m-40-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.170s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 663.150s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 174.510s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.180s
+file:  files/m-40-w-40--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.190s
+
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 191.650s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 158.250s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.140s
+
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 30.380s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 148.620s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.130s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.140s
+
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 20.700s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 132.440s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.130s
+
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.140s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 26.240s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 228.860s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.130s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.130s
+
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 24.060s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 151.360s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.130s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.130s
+
+file:  files/m-40-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.110s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 45.950s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 156.770s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.120s
+file:  files/m-40-w-40--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.130s
+
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.790s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 700.730s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 997.310s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.800s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.790s
+
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.740s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 916.410s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 997.330s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.720s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.750s
+
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.710s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 997.270s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 997.360s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.830s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.790s
+
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.730s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 997.220s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 997.310s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.740s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.680s
+
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.740s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.180s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 997.240s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.600s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.640s
+
+file:  files/m-40-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.580s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.380s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 997.680s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.630s
+file:  files/m-40-w-40--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.590s
+
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                       
+--> CPU Time     : 5.240s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt              
+--> CPU Time     : 997.630s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt           
+--> CPU Time     : 997.660s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt             
+--> CPU Time     : 5.470s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt        
+--> CPU Time     : 5.360s
+
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                      
+--> CPU Time     : 5.200s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 997.600s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 997.750s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 5.500s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 5.130s
+
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                      
+--> CPU Time     : 5.220s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.690s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 997.590s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 5.550s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 5.100s
+
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                     
+--> CPU Time     : 5.360s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt            
+--> CPU Time     : 997.620s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt         
+--> CPU Time     : 997.680s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt           
+--> CPU Time     : 5.470s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt      
+--> CPU Time     : 5.030s
+
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                     
+--> CPU Time     : 5.200s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.680s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 997.720s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 5.460s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 5.050s
+
+file:  files/m-40-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                     
+--> CPU Time     : 5.230s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.650s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 997.500s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 5.340s
+file:  files/m-40-w-40--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 5.330s
+
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.020s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 4.810s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 16.230s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.040s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.030s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 3.170s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 10.530s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.020s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.030s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 1.770s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 7.520s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.030s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.030s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 11.000s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 23.310s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.030s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.050s
+
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 4.080s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 9.830s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.030s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.030s
+
+file:  files/m-40-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.020s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 2.590s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 10.340s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.020s
+file:  files/m-40-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.040s
+
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 22.880s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 101.650s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.070s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.080s
+
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 16.210s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 95.460s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.070s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.070s
+
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 34.120s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 84.810s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.080s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.080s
+
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.080s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 137.940s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 125.600s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.080s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.090s
+
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 33.260s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 68.400s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.080s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.090s
+
+file:  files/m-40-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 64.940s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 109.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.060s
+file:  files/m-40-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.070s
+
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.250s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 584.310s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 852.080s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.260s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.280s
+
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 172.660s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 910.730s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.260s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.270s
+
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 419.970s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 751.230s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.250s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.260s
+
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.280s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 434.390s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 936.810s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.300s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.320s
+
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 258.640s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 573.010s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.250s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.260s
+
+file:  files/m-40-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 384.950s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 649.520s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.260s
+
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 329.670s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 592.810s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.250s
+
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.220s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 627.910s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 566.720s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.230s
+
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.220s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 172.710s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 563.700s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.250s
+
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 709.310s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 689.360s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.260s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.270s
+
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 193.360s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 751.560s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.250s
+
+file:  files/m-40-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.230s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 969.390s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 631.730s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.240s
+file:  files/m-40-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.260s
+
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 1.670s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 997.050s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 947.660s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 1.650s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 1.730s
+
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 1.620s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 988.650s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 997.440s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 1.540s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 1.550s
+
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 1.410s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 997.220s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 995.200s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 1.570s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 2.090s
+
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 1.630s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 987.330s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 992.270s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 1.550s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 1.620s
+
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 1.680s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.290s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 993.720s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 1.610s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 1.600s
+
+file:  files/m-40-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 1.380s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.090s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 996.300s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 1.580s
+file:  files/m-40-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 1.610s
+
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                       
+--> CPU Time     : 17.960s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt              
+--> CPU Time     : 995.790s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt           
+--> CPU Time     : 997.260s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt             
+--> CPU Time     : 13.830s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt        
+--> CPU Time     : 17.370s
+
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                      
+--> CPU Time     : 13.750s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 989.520s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 992.290s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 14.420s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 14.400s
+
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                      
+--> CPU Time     : 17.850s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 992.560s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 991.050s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 13.570s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 13.860s
+
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                     
+--> CPU Time     : 13.730s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt            
+--> CPU Time     : 983.950s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt         
+--> CPU Time     : 994.950s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt           
+--> CPU Time     : 13.600s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt      
+--> CPU Time     : 12.830s
+
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                     
+--> CPU Time     : 12.770s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 995.950s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 993.050s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 19.480s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 19.270s
+
+file:  files/m-40-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                     
+--> CPU Time     : 18.850s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 995.880s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 995.240s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 12.890s
+file:  files/m-40-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 12.720s
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 16.420s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 51.590s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.060s
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.040s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 10.170s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 40.480s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.040s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.050s
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 12.930s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 63.040s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.060s
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.060s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 39.860s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 112.610s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.070s
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 40.080s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 58.740s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.060s
+
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.040s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 16.250s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 63.420s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.050s
+file:  files/m-60-w-60--m-25pc-w-25pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.060s
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.140s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 673.750s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 483.130s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.160s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.160s
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.130s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 88.590s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 465.850s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.120s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.130s
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.130s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 76.820s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 469.760s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.140s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.150s
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.140s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 78.030s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 543.590s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.150s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.170s
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.110s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 80.310s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 535.940s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.130s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.140s
+
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.110s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 105.770s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 390.110s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.110s
+file:  files/m-60-w-60--m-25pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.130s
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 0.670s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 995.970s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 986.530s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 0.620s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 0.670s
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 0.560s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 995.070s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 993.540s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.630s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.720s
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 0.670s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 979.070s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 995.420s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.620s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.650s
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 0.680s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 991.650s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 991.510s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 0.870s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 0.910s
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 0.790s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 640.330s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 992.820s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.820s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.900s
+
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 0.710s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 994.470s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 997.180s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 0.590s
+file:  files/m-60-w-60--m-25pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 0.600s
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result.txt                         
+--> CPU Time     : 0.570s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-sexequal.txt                
+--> CPU Time     : 995.700s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-egalitarian.txt             
+--> CPU Time     : 996.250s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-minregret.txt               
+--> CPU Time     : 0.590s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-0pc--result-maxcardinality.txt          
+--> CPU Time     : 0.590s
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result.txt                        
+--> CPU Time     : 0.490s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-sexequal.txt               
+--> CPU Time     : 996.930s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-egalitarian.txt            
+--> CPU Time     : 997.300s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-minregret.txt              
+--> CPU Time     : 0.530s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-10pc--result-maxcardinality.txt         
+--> CPU Time     : 0.550s
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result.txt                        
+--> CPU Time     : 0.580s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-sexequal.txt               
+--> CPU Time     : 992.760s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-egalitarian.txt            
+--> CPU Time     : 997.200s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-minregret.txt              
+--> CPU Time     : 0.600s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-0pc-w-20pc--result-maxcardinality.txt         
+--> CPU Time     : 0.630s
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result.txt                       
+--> CPU Time     : 0.560s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 514.990s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 992.470s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 0.570s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 0.620s
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result.txt                       
+--> CPU Time     : 0.500s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 988.000s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 996.270s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.740s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-10pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.750s
+
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result.txt                       
+--> CPU Time     : 0.640s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 991.760s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 993.800s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 0.620s
+file:  files/m-60-w-60--m-50pc-w-50pc--m-20pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 0.670s
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result.txt                        
+--> CPU Time     : 4.280s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt               
+--> CPU Time     : 995.630s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt            
+--> CPU Time     : 990.470s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-minregret.txt              
+--> CPU Time     : 3.620s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt         
+--> CPU Time     : 3.670s
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result.txt                       
+--> CPU Time     : 3.770s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt              
+--> CPU Time     : 995.270s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt           
+--> CPU Time     : 991.590s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-minregret.txt             
+--> CPU Time     : 3.860s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt        
+--> CPU Time     : 3.960s
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result.txt                       
+--> CPU Time     : 4.030s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt              
+--> CPU Time     : 993.010s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt           
+--> CPU Time     : 986.880s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-minregret.txt             
+--> CPU Time     : 4.950s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt        
+--> CPU Time     : 4.760s
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result.txt                      
+--> CPU Time     : 4.500s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 992.850s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 992.200s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 4.010s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 3.870s
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result.txt                      
+--> CPU Time     : 3.770s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.120s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 993.460s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 5.240s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 5.260s
+
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result.txt                      
+--> CPU Time     : 4.660s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 986.830s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 990.940s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 4.780s
+file:  files/m-60-w-60--m-50pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 4.440s
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result.txt                       
+--> CPU Time     : 47.760s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-sexequal.txt              
+--> CPU Time     : 997.010s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-egalitarian.txt           
+--> CPU Time     : 997.140s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-minregret.txt             
+--> CPU Time     : 38.570s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-0pc--result-maxcardinality.txt        
+--> CPU Time     : 35.650s
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result.txt                      
+--> CPU Time     : 39.210s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-sexequal.txt             
+--> CPU Time     : 997.150s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-egalitarian.txt          
+--> CPU Time     : 997.190s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-minregret.txt            
+--> CPU Time     : 36.370s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-10pc--result-maxcardinality.txt       
+--> CPU Time     : 34.270s
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result.txt                      
+--> CPU Time     : 34.820s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-sexequal.txt             
+--> CPU Time     : 997.200s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-egalitarian.txt          
+--> CPU Time     : 997.180s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-minregret.txt            
+--> CPU Time     : 40.820s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-0pc-w-20pc--result-maxcardinality.txt       
+--> CPU Time     : 37.450s
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result.txt                     
+--> CPU Time     : 41.420s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-sexequal.txt            
+--> CPU Time     : 997.230s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-egalitarian.txt         
+--> CPU Time     : 997.210s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-minregret.txt           
+--> CPU Time     : 38.390s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-10pc--result-maxcardinality.txt      
+--> CPU Time     : 37.440s
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result.txt                     
+--> CPU Time     : 37.230s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.190s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 997.130s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 39.850s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-10pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 34.960s
+
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result.txt                     
+--> CPU Time     : 37.750s

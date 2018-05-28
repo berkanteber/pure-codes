@@ -1,0 +1,32 @@
+clingo version 4.5.4
+Reading from ...-50pc-w-100pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+wsingle(1) wsingle(2) wsingle(3) wsingle(4) wsingle(5) wsingle(6) wsingle(7) wsingle(8) wsingle(9) wsingle(10) wsingle(11) wsingle(12) wsingle(13) wsingle(14) wsingle(15) wsingle(16) wsingle(17) wsingle(18) wsingle(19) wsingle(20) wsingle(21) wsingle(22) wsingle(23) wsingle(24) wsingle(25) wsingle(26) wsingle(27) wsingle(28) wsingle(29) wsingle(30) wsingle(31) wsingle(32) wsingle(33) wsingle(34) wsingle(35) wsingle(36) wsingle(37) wsingle(38) wsingle(39) wsingle(40) wsingle(41) wsingle(42) wsingle(43) wsingle(44) wsingle(45) wsingle(46) wsingle(47) wsingle(48) wsingle(49) wsingle(50) wsingle(51) wsingle(52) wsingle(53) wsingle(54) wsingle(55) wsingle(56) wsingle(57) wsingle(58) wsingle(59) wsingle(60) msingle(1) msingle(2) msingle(3) msingle(4) msingle(5) msingle(6) msingle(7) msingle(8) msingle(9) msingle(10) msingle(11) msingle(12) msingle(13) msingle(14) msingle(15) msingle(16) msingle(17) msingle(18) msingle(19) msingle(20)
+SATISFIABLE
+
+Models       : 1     
+Calls        : 1
+Time         : 0.043s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
+
+Choices      : 0       
+Conflicts    : 0        (Analyzed: 0)
+Restarts     : 0       
+Model-Level  : 0.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 0        (Deleted: 0)
+  Binary     : 0        (Ratio:   0.00%)
+  Ternary    : 0        (Ratio:   0.00%)
+  Conflict   : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 3763    
+Rules        : 3762     (1: 3762)
+Bodies       : 1       
+Equivalences : 7523     (Atom=Atom: 3761 Body=Body: 0 Other: 3762)
+Tight        : Yes
+Variables    : 0        (Eliminated:    0 Frozen:    0)
+Constraints  : 0        (Binary:  0.0% Ternary:  0.0% Other:  0.0%)
+

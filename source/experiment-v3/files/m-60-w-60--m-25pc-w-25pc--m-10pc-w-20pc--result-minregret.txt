@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...m-25pc-w-25pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(50,1) marry(1,2) marry(56,3) marry(31,4) marry(43,5) marry(6,6) marry(59,7) marry(5,8) marry(15,9) marry(47,11) marry(10,12) marry(52,13) marry(13,14) marry(41,15) marry(34,16) marry(51,17) marry(8,23) marry(45,24) marry(42,26) marry(53,28) marry(55,29) marry(3,30) marry(11,31) marry(12,32) marry(57,33) marry(16,34) marry(29,35) marry(14,36) marry(49,37) marry(58,38) marry(27,39) marry(9,40) marry(18,41) marry(32,42) marry(25,43) marry(26,44) marry(40,45) marry(38,46) marry(37,47) marry(33,49) marry(54,50) marry(36,51) marry(19,52) marry(30,53) marry(46,54) marry(17,56) marry(23,57) marry(20,59) marry(24,60) wsingle(10) wsingle(18) wsingle(19) wsingle(20) wsingle(21) wsingle(22) wsingle(25) wsingle(27) wsingle(48) wsingle(55) wsingle(58) msingle(4) msingle(21) msingle(44) msingle(28) msingle(48) msingle(7) msingle(39) msingle(60) msingle(2) msingle(22) msingle(35)
+Optimization: 60
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 60
+Calls        : 1
+Time         : 0.053s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.050s
+
+Choices      : 824     
+Conflicts    : 90       (Analyzed: 89)
+Restarts     : 0       
+Model-Level  : 63.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 89       (Deleted: 0)
+  Binary     : 22       (Ratio:  24.72%)
+  Ternary    : 16       (Ratio:  17.98%)
+  Conflict   : 89       (Average Length:    2.7 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 18286    (Original: 18244 Auxiliary: 42)
+Rules        : 26249    (1: 24824/25900 2: 194/6 3: 342/342 6: 1/1)
+Bodies       : 3572    
+Equivalences : 35537    (Atom=Atom: 17235 Body=Body: 219 Other: 18083)
+Tight        : Yes
+Variables    : 1476     (Eliminated:    0 Frozen:  109)
+Constraints  : 9942     (Binary: 88.8% Ternary:  8.1% Other:  3.1%)
+

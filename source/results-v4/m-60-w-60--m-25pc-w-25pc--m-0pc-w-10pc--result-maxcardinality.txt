@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...-m-25pc-w-25pc--m-0pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+msingle(1) marry(2,17) marry(3,21) marry(4,47) marry(5,60) msingle(6) marry(7,59) marry(8,37) marry(9,50) marry(10,5) marry(11,14) msingle(12) msingle(13) msingle(14) marry(15,48) marry(16,23) marry(17,26) marry(18,32) marry(19,54) marry(20,31) marry(21,24) msingle(22) marry(23,41) marry(24,33) marry(25,36) marry(26,58) marry(27,22) marry(28,56) marry(29,30) msingle(30) marry(31,12) msingle(32) marry(33,29) marry(34,34) marry(35,3) marry(36,2) marry(37,27) marry(38,39) marry(39,43) msingle(40) marry(41,57) marry(42,45) marry(43,8) msingle(44) marry(45,40) marry(46,35) msingle(47) marry(48,4) marry(49,11) marry(50,1) msingle(51) marry(52,28) marry(53,55) marry(54,7) marry(55,15) marry(56,44) marry(57,10) marry(58,38) marry(59,51) marry(60,19) wsingle(6) wsingle(9) wsingle(13) wsingle(16) wsingle(18) wsingle(20) wsingle(25) wsingle(42) wsingle(46) wsingle(49) wsingle(52) wsingle(53)
+Optimization: 12
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 12
+Calls        : 1
+Time         : 0.052s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.040s
+
+Choices      : 470     
+Conflicts    : 106      (Analyzed: 105)
+Restarts     : 1        (Average: 105.00 Last: 90)
+Model-Level  : 19.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 105      (Deleted: 0)
+  Binary     : 22       (Ratio:  20.95%)
+  Ternary    : 7        (Ratio:   6.67%)
+  Conflict   : 105      (Average Length:    1.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 17260    (Original: 17200 Auxiliary: 60)
+Rules        : 19196    (1: 18033/18911 2: 161/0 3: 58/58 5: 226/226 6: 1/1)
+Bodies       : 2471    
+Equivalences : 35037    (Atom=Atom: 16418 Body=Body: 165 Other: 18454)
+Tight        : Yes
+Variables    : 626      (Eliminated:    0 Frozen:  280)
+Constraints  : 3160     (Binary: 86.9% Ternary:  7.5% Other:  5.5%)
+

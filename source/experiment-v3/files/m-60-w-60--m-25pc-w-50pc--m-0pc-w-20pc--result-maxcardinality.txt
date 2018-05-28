@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...-m-25pc-w-50pc--m-0pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+msingle(8) msingle(32) msingle(45) msingle(46) msingle(53) msingle(56) wsingle(4) wsingle(15) wsingle(18) wsingle(20) wsingle(31) wsingle(37) marry(7,1) marry(52,2) marry(10,3) marry(39,5) marry(34,6) marry(20,7) marry(1,8) marry(54,9) marry(27,10) marry(21,11) marry(16,12) marry(13,13) marry(40,14) marry(55,16) marry(11,17) marry(57,19) marry(22,21) marry(12,22) marry(41,23) marry(49,24) marry(37,25) marry(14,26) marry(5,27) marry(36,28) marry(30,29) marry(43,30) marry(47,32) marry(31,33) marry(2,34) marry(18,35) marry(58,36) marry(35,38) marry(26,39) marry(33,40) marry(23,41) marry(50,42) marry(24,43) marry(3,44) marry(29,45) marry(17,46) marry(28,47) marry(60,48) marry(38,49) marry(4,50) marry(51,51) marry(25,52) marry(59,53) marry(44,54) marry(48,55) marry(15,56) marry(9,57) marry(42,58) marry(6,59) marry(19,60)
+Optimization: 6
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 6
+Calls        : 1
+Time         : 0.158s (Solving: 0.02s 1st Model: 0.02s Unsat: 0.00s)
+CPU Time     : 0.150s
+
+Choices      : 3011    
+Conflicts    : 435      (Analyzed: 434)
+Restarts     : 5        (Average: 86.80 Last: 414)
+Model-Level  : 27.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 434      (Deleted: 0)
+  Binary     : 82       (Ratio:  18.89%)
+  Ternary    : 38       (Ratio:   8.76%)
+  Conflict   : 434      (Average Length:    4.4 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 41980    (Original: 41491 Auxiliary: 489)
+Rules        : 75496    (1: 71993/74661 2: 476/268 3: 566/566 6: 1/1)
+Bodies       : 12749   
+Equivalences : 82229    (Atom=Atom: 39876 Body=Body: 564 Other: 41789)
+Tight        : Yes
+Variables    : 2754     (Eliminated:    0 Frozen:  655)
+Constraints  : 18025    (Binary: 89.1% Ternary:  9.2% Other:  1.7%)
+

@@ -1,0 +1,6 @@
+clingo version 4.5.4
+Reading from ...m-50pc-w-100pc--m-0pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(18,2) marry(20,3) marry(9,4) marry(10,5) marry(13,6) marry(15,8) marry(19,9) marry(3,12) marry(4,16) marry(8,19) marry(2,20) marry(1,21) marry(14,23) marry(11,27) marry(16,29) marry(17,31) marry(5,36) marry(6,37) marry(12,39) marry(7,40) wsingle(1) wsingle(7) wsingle(10) wsingle(11) wsingle(13) wsingle(14) wsingle(15) wsingle(17) wsingle(18) wsingle(22) wsingle(24) wsingle(25) wsingle(26) wsingle(28) wsingle(30) wsingle(32) wsingle(33) wsingle(34) wsingle(35) wsingle(38)
+Optimization: 524

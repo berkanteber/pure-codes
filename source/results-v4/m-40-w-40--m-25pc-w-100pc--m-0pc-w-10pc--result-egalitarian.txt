@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...m-25pc-w-100pc--m-0pc-w-10pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,6) marry(2,8) marry(3,33) marry(4,17) marry(5,19) marry(6,40) marry(7,39) marry(8,14) marry(9,5) marry(10,22) marry(11,38) marry(12,26) marry(13,25) marry(14,21) marry(15,28) marry(16,7) marry(17,13) marry(18,10) marry(19,11) marry(20,24) marry(21,20) marry(22,4) marry(23,12) marry(24,9) marry(25,35) marry(26,1) marry(27,15) marry(28,27) marry(29,31) marry(30,37) marry(31,3) marry(32,36) marry(33,29) marry(34,2) marry(35,23) marry(36,32) marry(38,16) marry(39,34) marry(40,30) msingle(37) wsingle(18)
+Optimization: 745
+Answer: 2
+marry(1,6) marry(2,8) marry(3,33) marry(4,17) marry(5,19) marry(6,40) marry(7,39) marry(8,14) marry(9,5) marry(10,22) marry(11,38) marry(12,26) marry(13,25) marry(14,21) marry(15,28) marry(16,7) marry(17,13) marry(19,11) marry(20,24) marry(21,20) marry(22,4) marry(23,12) marry(24,9) marry(25,35) marry(26,36) marry(27,15) marry(28,27) marry(29,31) marry(30,37) marry(31,3) marry(32,10) marry(33,29) marry(34,2) marry(35,23) marry(36,32) marry(38,16) marry(39,34) marry(40,30) msingle(18) msingle(37) wsingle(1) wsingle(18)
+Optimization: 680
+Answer: 3
+marry(1,6) marry(2,8) marry(3,33) marry(4,17) marry(5,19) marry(6,13) marry(7,39) marry(8,14) marry(9,5) marry(10,22) marry(11,38) marry(12,26) marry(13,25) marry(14,21) marry(15,37) marry(16,7) marry(17,28) marry(19,11) marry(20,24) marry(21,20) marry(22,4) marry(23,12) marry(24,40) marry(25,35) marry(26,36) marry(27,9) marry(28,27) marry(29,31) marry(30,15) marry(31,3) marry(32,10) marry(33,29) marry(34,2) marry(35,23) marry(36,32) marry(38,16) marry(39,34) marry(40,30) msingle(18) msingle(37) wsingle(1) wsingle(18)
+Optimization: 650
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 650
+Calls        : 1
+Time         : 142.235s (Solving: 127.34s 1st Model: 117.99s Unsat: 1.69s)
+CPU Time     : 141.820s
+
+Choices      : 1586    
+Conflicts    : 481      (Analyzed: 480)
+Restarts     : 5        (Average: 96.00 Last: 430)
+Model-Level  : 3.7     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 480      (Deleted: 0)
+  Binary     : 61       (Ratio:  12.71%)
+  Ternary    : 47       (Ratio:   9.79%)
+  Conflict   : 480      (Average Length:    4.2 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 87541    (Original: 86358 Auxiliary: 1183)
+Rules        : 104459   (1: 68102/72324 2: 162/0 3: 40/40 5: 32094/32094 6: 1/1)
+Bodies       : 46823   
+Equivalences : 139927   (Atom=Atom: 53612 Body=Body: 40 Other: 86275)
+Tight        : Yes
+Variables    : 33767    (Eliminated:    0 Frozen: 32502)
+Constraints  : 84046    (Binary: 61.0% Ternary: 19.8% Other: 19.2%)
+

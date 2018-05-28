@@ -1,0 +1,44 @@
+clingo version 4.5.4
+Reading from ...-50pc-w-100pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,8) marry(2,11) marry(3,18) marry(4,6) marry(5,7) marry(6,1) marry(7,17) marry(8,16) marry(9,20) marry(10,12) marry(11,10) marry(12,5) marry(13,14) marry(14,15) marry(15,19) marry(16,4) marry(17,13) marry(18,3) marry(19,9) marry(20,2)
+Optimization: 246
+Answer: 2
+marry(1,8) marry(2,1) marry(3,18) marry(4,6) marry(5,7) marry(6,17) marry(7,10) marry(8,16) marry(9,20) marry(10,12) marry(11,11) marry(12,5) marry(13,14) marry(14,15) marry(15,19) marry(16,4) marry(17,13) marry(18,3) marry(19,9) marry(20,2)
+Optimization: 233
+Answer: 3
+marry(1,8) marry(2,1) marry(3,4) marry(4,6) marry(5,18) marry(6,17) marry(7,10) marry(8,16) marry(9,20) marry(10,12) marry(11,11) marry(12,5) marry(13,14) marry(14,15) marry(15,19) marry(16,7) marry(17,13) marry(18,3) marry(19,9) marry(20,2)
+Optimization: 220
+Answer: 4
+marry(1,8) marry(2,1) marry(4,6) marry(5,18) marry(6,17) marry(7,10) marry(8,16) marry(9,20) marry(10,12) marry(11,5) marry(12,7) marry(13,14) marry(14,15) marry(15,19) marry(16,4) marry(17,13) marry(18,3) marry(19,9) marry(20,2) wsingle(11) msingle(3)
+Optimization: 197
+OPTIMUM FOUND
+
+Models       : 4     
+  Optimum    : yes
+Optimization : 197
+Calls        : 1
+Time         : 16.336s (Solving: 14.48s 1st Model: 2.80s Unsat: 2.06s)
+CPU Time     : 16.280s
+
+Choices      : 992     
+Conflicts    : 423      (Analyzed: 422)
+Restarts     : 2        (Average: 211.00 Last: 128)
+Model-Level  : 6.5     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 422      (Deleted: 0)
+  Binary     : 62       (Ratio:  14.69%)
+  Ternary    : 35       (Ratio:   8.29%)
+  Conflict   : 422      (Average Length:    7.8 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 20821    (Original: 20491 Auxiliary: 330)
+Rules        : 46470    (1: 35536/37096 2: 82/20 3: 255/255 5: 9098/9098 6: 1/1)
+Bodies       : 17166   
+Equivalences : 31633    (Atom=Atom: 10815 Body=Body: 215 Other: 20603)
+Tight        : Yes
+Variables    : 10199    (Eliminated:    0 Frozen: 9552)
+Constraints  : 29057    (Binary: 66.3% Ternary: 17.8% Other: 15.9%)
+

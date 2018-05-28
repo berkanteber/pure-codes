@@ -1,0 +1,41 @@
+clingo version 4.5.4
+Reading from ...-25pc-w-100pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(15,29) marry(20,4) marry(1,32) marry(2,7) marry(3,14) marry(4,9) marry(5,12) marry(6,6) marry(7,44) marry(8,43) marry(9,18) marry(10,56) marry(11,39) marry(12,21) marry(13,8) marry(14,5) marry(16,37) marry(17,1) marry(18,28) marry(19,60) wsingle(2) wsingle(3) wsingle(10) wsingle(11) wsingle(13) wsingle(15) wsingle(16) wsingle(17) wsingle(19) wsingle(20) wsingle(22) wsingle(23) wsingle(24) wsingle(25) wsingle(26) wsingle(27) wsingle(30) wsingle(31) wsingle(33) wsingle(34) wsingle(35) wsingle(36) wsingle(38) wsingle(40) wsingle(41) wsingle(42) wsingle(45) wsingle(46) wsingle(47) wsingle(48) wsingle(49) wsingle(50) wsingle(51) wsingle(52) wsingle(53) wsingle(54) wsingle(55) wsingle(57) wsingle(58) wsingle(59)
+Optimization: 109
+Answer: 2
+marry(15,29) marry(1,32) marry(2,7) marry(3,14) marry(4,9) marry(5,12) marry(6,6) marry(7,44) marry(8,43) marry(9,18) marry(10,56) marry(11,39) marry(12,21) marry(14,5) marry(16,37) marry(17,1) marry(18,28) marry(13,49) marry(20,59) marry(19,60) wsingle(2) wsingle(3) wsingle(4) wsingle(8) wsingle(10) wsingle(11) wsingle(13) wsingle(15) wsingle(16) wsingle(17) wsingle(19) wsingle(20) wsingle(22) wsingle(23) wsingle(24) wsingle(25) wsingle(26) wsingle(27) wsingle(30) wsingle(31) wsingle(33) wsingle(34) wsingle(35) wsingle(36) wsingle(38) wsingle(40) wsingle(41) wsingle(42) wsingle(45) wsingle(46) wsingle(47) wsingle(48) wsingle(50) wsingle(51) wsingle(52) wsingle(53) wsingle(54) wsingle(55) wsingle(57) wsingle(58)
+Optimization: 103
+Answer: 3
+marry(15,29) marry(20,4) marry(1,32) marry(2,7) marry(3,14) marry(4,9) marry(5,12) marry(6,6) marry(7,44) marry(8,43) marry(9,18) marry(10,56) marry(11,39) marry(12,21) marry(14,5) marry(16,37) marry(17,1) marry(18,28) marry(13,49) marry(19,60) wsingle(2) wsingle(3) wsingle(8) wsingle(10) wsingle(11) wsingle(13) wsingle(15) wsingle(16) wsingle(17) wsingle(19) wsingle(20) wsingle(22) wsingle(23) wsingle(24) wsingle(25) wsingle(26) wsingle(27) wsingle(30) wsingle(31) wsingle(33) wsingle(34) wsingle(35) wsingle(36) wsingle(38) wsingle(40) wsingle(41) wsingle(42) wsingle(45) wsingle(46) wsingle(47) wsingle(48) wsingle(50) wsingle(51) wsingle(52) wsingle(53) wsingle(54) wsingle(55) wsingle(57) wsingle(58) wsingle(59)
+Optimization: 100
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 100
+Calls        : 1
+Time         : 72.418s (Solving: 67.54s 1st Model: 4.17s Unsat: 31.46s)
+CPU Time     : 72.200s
+
+Choices      : 830     
+Conflicts    : 270      (Analyzed: 269)
+Restarts     : 2        (Average: 134.50 Last: 2)
+Model-Level  : 12.7    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 269      (Deleted: 0)
+  Binary     : 48       (Ratio:  17.84%)
+  Ternary    : 29       (Ratio:  10.78%)
+  Conflict   : 269      (Average Length:   10.7 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 39269    (Original: 39099 Auxiliary: 170)
+Rules        : 73976    (1: 57654/59680 2: 160/20 3: 403/403 5: 13872/13872 6: 1/1)
+Bodies       : 26300   
+Equivalences : 64557    (Atom=Atom: 23981 Body=Body: 990 Other: 39586)
+Tight        : Yes
+Variables    : 15549    (Eliminated:    0 Frozen: 14197)
+Constraints  : 43599    (Binary: 65.4% Ternary: 18.4% Other: 16.1%)
+

@@ -1,0 +1,32 @@
+clingo version 4.5.4
+Reading from ...100pc-w-100pc--m-10pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(2,1) marry(20,2) marry(17,3) marry(19,4) marry(7,5) marry(8,6) marry(16,7) marry(1,8) marry(13,9) marry(10,10) marry(12,11) marry(18,12) marry(6,13) marry(4,14) marry(14,15) marry(3,16) marry(11,17) marry(5,18) marry(15,19) marry(9,20)
+SATISFIABLE
+
+Models       : 1+    
+Calls        : 1
+Time         : 0.114s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.100s
+
+Choices      : 536     
+Conflicts    : 273      (Analyzed: 273)
+Restarts     : 2        (Average: 136.50 Last: 68)
+Model-Level  : 8.0     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 273      (Deleted: 0)
+  Binary     : 5        (Ratio:   1.83%)
+  Ternary    : 7        (Ratio:   2.56%)
+  Conflict   : 273      (Average Length:   21.0 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 10072   
+Rules        : 53447    (1: 52587/53387 2: 80/40 3: 20/20)
+Bodies       : 39322   
+Equivalences : 19601    (Atom=Atom: 9550 Body=Body: 20 Other: 10031)
+Tight        : Yes
+Variables    : 440      (Eliminated:    0 Frozen:  400)
+Constraints  : 39661    (Binary: 99.8% Ternary:  0.0% Other:  0.2%)
+

@@ -1,0 +1,9 @@
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-sexequal.txt            
+--> CPU Time     : 997.510s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-egalitarian.txt         
+--> CPU Time     : 997.640s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-minregret.txt           
+--> CPU Time     : 33.550s
+file:  files/m-60-w-60--m-100pc-w-100pc--m-20pc-w-20pc--result-maxcardinality.txt      
+--> CPU Time     : 31.250s
+

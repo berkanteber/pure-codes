@@ -1,0 +1,38 @@
+clingo version 4.5.4
+Reading from ...-50pc-w-100pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,16) marry(2,51) marry(3,5) marry(4,9) marry(5,54) marry(6,6) marry(7,36) marry(8,43) marry(9,35) marry(10,56) marry(11,26) marry(12,29) marry(13,49) marry(14,57) marry(15,24) marry(16,58) marry(17,1) marry(18,15) marry(19,60) marry(20,18) wsingle(2) wsingle(3) wsingle(4) wsingle(7) wsingle(8) wsingle(10) wsingle(11) wsingle(12) wsingle(13) wsingle(14) wsingle(17) wsingle(19) wsingle(20) wsingle(21) wsingle(22) wsingle(23) wsingle(25) wsingle(27) wsingle(28) wsingle(30) wsingle(31) wsingle(32) wsingle(33) wsingle(34) wsingle(37) wsingle(38) wsingle(39) wsingle(40) wsingle(41) wsingle(42) wsingle(44) wsingle(45) wsingle(46) wsingle(47) wsingle(48) wsingle(50) wsingle(52) wsingle(53) wsingle(55) wsingle(59)
+Optimization: 269
+Answer: 2
+marry(1,32) marry(2,51) marry(3,5) marry(4,9) marry(5,54) marry(6,6) marry(7,36) marry(8,43) marry(9,35) marry(10,56) marry(11,26) marry(12,29) marry(13,49) marry(14,57) marry(15,24) marry(16,58) marry(17,1) marry(18,15) marry(19,60) marry(20,18) wsingle(2) wsingle(3) wsingle(4) wsingle(7) wsingle(8) wsingle(10) wsingle(11) wsingle(12) wsingle(13) wsingle(14) wsingle(16) wsingle(17) wsingle(19) wsingle(20) wsingle(21) wsingle(22) wsingle(23) wsingle(25) wsingle(27) wsingle(28) wsingle(30) wsingle(31) wsingle(33) wsingle(34) wsingle(37) wsingle(38) wsingle(39) wsingle(40) wsingle(41) wsingle(42) wsingle(44) wsingle(45) wsingle(46) wsingle(47) wsingle(48) wsingle(50) wsingle(52) wsingle(53) wsingle(55) wsingle(59)
+Optimization: 260
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 260
+Calls        : 1
+Time         : 595.659s (Solving: 556.56s 1st Model: 235.01s Unsat: 48.88s)
+CPU Time     : 594.290s
+
+Choices      : 1256    
+Conflicts    : 338      (Analyzed: 337)
+Restarts     : 2        (Average: 168.50 Last: 158)
+Model-Level  : 7.5     
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 337      (Deleted: 0)
+  Binary     : 29       (Ratio:   8.61%)
+  Ternary    : 15       (Ratio:   4.45%)
+  Conflict   : 337      (Average Length:    8.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 101341   (Original: 99289 Auxiliary: 2052)
+Rules        : 162188   (1: 106306/113055 2: 162/0 3: 20/20 5: 49112/49112 6: 1/1)
+Bodies       : 104119  
+Equivalences : 148541   (Atom=Atom: 49315 Body=Body: 20 Other: 99206)
+Tight        : Yes
+Variables    : 51864    (Eliminated:    0 Frozen: 49730)
+Constraints  : 161832   (Binary: 68.9% Ternary: 15.8% Other: 15.2%)
+

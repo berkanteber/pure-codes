@@ -1,0 +1,35 @@
+clingo version 4.5.4
+Reading from ...--m-25pc-w-25pc--m-0pc-w-0pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,4) marry(2,41) marry(3,2) marry(4,39) marry(5,35) msingle(6) marry(7,26) marry(8,24) marry(9,1) marry(10,14) msingle(11) marry(12,25) marry(13,8) marry(14,10) msingle(15) marry(16,9) marry(17,45) msingle(18) marry(19,53) marry(20,31) marry(21,5) marry(22,15) marry(23,37) marry(24,59) marry(25,49) msingle(26) marry(27,21) msingle(28) msingle(29) marry(30,36) marry(31,57) msingle(32) marry(33,11) marry(34,17) msingle(35) marry(36,34) marry(37,55) marry(38,20) marry(39,48) marry(40,38) marry(41,30) marry(42,40) marry(43,33) marry(44,60) msingle(45) marry(46,54) marry(47,46) marry(48,43) marry(49,58) marry(50,18) marry(51,50) marry(52,28) marry(53,7) marry(54,44) msingle(55) marry(56,51) marry(57,12) marry(58,16) marry(59,52) marry(60,32) wsingle(3) wsingle(6) wsingle(13) wsingle(19) wsingle(22) wsingle(23) wsingle(27) wsingle(29) wsingle(42) wsingle(47) wsingle(56)
+Optimization: 11
+OPTIMUM FOUND
+
+Models       : 1     
+  Optimum    : yes
+Optimization : 11
+Calls        : 1
+Time         : 0.058s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.050s
+
+Choices      : 566     
+Conflicts    : 132      (Analyzed: 131)
+Restarts     : 1        (Average: 131.00 Last: 80)
+Model-Level  : 19.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 131      (Deleted: 0)
+  Binary     : 33       (Ratio:  25.19%)
+  Ternary    : 14       (Ratio:  10.69%)
+  Conflict   : 131      (Average Length:    1.8 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 18892    (Original: 18776 Auxiliary: 116)
+Rules        : 22000    (1: 20329/21708 2: 420/232 3: 59/59 6: 1/1)
+Bodies       : 3539    
+Equivalences : 36955    (Atom=Atom: 17924 Body=Body: 225 Other: 18806)
+Tight        : Yes
+Variables    : 744      (Eliminated:    0 Frozen:  294)
+Constraints  : 4475     (Binary: 89.7% Ternary:  5.8% Other:  4.5%)
+

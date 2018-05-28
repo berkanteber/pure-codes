@@ -1,0 +1,50 @@
+clingo version 4.5.4
+Reading from ...-25pc-w-100pc--m-20pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(1,26) marry(2,36) marry(3,44) marry(4,35) marry(5,51) marry(6,6) marry(7,53) marry(8,9) marry(9,54) marry(10,56) marry(11,14) marry(12,10) marry(13,43) marry(14,5) marry(15,47) marry(16,15) marry(17,57) marry(18,4) marry(19,60) marry(20,18) marry(21,21) marry(22,33) marry(23,30) marry(24,46) marry(25,50) marry(26,45) marry(27,37) marry(28,38) marry(29,25) marry(30,7) marry(31,12) marry(32,58) marry(33,41) marry(34,16) marry(35,22) marry(36,23) marry(37,3) marry(38,20) marry(39,59) marry(40,42) wsingle(1) wsingle(2) wsingle(8) wsingle(11) wsingle(13) wsingle(17) wsingle(19) wsingle(24) wsingle(27) wsingle(28) wsingle(29) wsingle(31) wsingle(32) wsingle(34) wsingle(39) wsingle(40) wsingle(48) wsingle(49) wsingle(52) wsingle(55)
+Optimization: 1051
+Answer: 2
+marry(1,26) marry(2,36) marry(3,30) marry(4,35) marry(5,51) marry(6,6) marry(7,53) marry(8,9) marry(9,54) marry(10,56) marry(11,14) marry(12,10) marry(13,43) marry(14,5) marry(15,47) marry(16,15) marry(17,57) marry(18,4) marry(19,60) marry(20,18) marry(21,21) marry(22,33) marry(23,55) marry(24,46) marry(25,50) marry(26,45) marry(27,37) marry(28,38) marry(29,25) marry(30,7) marry(31,12) marry(32,58) marry(33,41) marry(34,16) marry(35,22) marry(36,23) marry(37,3) marry(38,20) marry(39,59) marry(40,42) wsingle(1) wsingle(2) wsingle(8) wsingle(11) wsingle(13) wsingle(17) wsingle(19) wsingle(24) wsingle(27) wsingle(28) wsingle(29) wsingle(31) wsingle(32) wsingle(34) wsingle(39) wsingle(40) wsingle(44) wsingle(48) wsingle(49) wsingle(52)
+Optimization: 1027
+Answer: 3
+marry(1,26) marry(2,36) marry(3,30) marry(4,35) marry(5,51) marry(6,6) marry(7,53) marry(8,9) marry(9,54) marry(10,56) marry(11,14) marry(12,10) marry(13,43) marry(14,5) marry(15,47) marry(16,15) marry(17,57) marry(18,4) marry(19,60) marry(20,18) marry(21,21) marry(22,33) marry(23,55) marry(24,46) marry(25,50) marry(26,45) marry(27,37) marry(28,38) marry(29,25) marry(30,7) marry(31,12) marry(32,34) marry(33,41) marry(34,16) marry(35,22) marry(36,23) marry(37,3) marry(38,20) marry(39,58) marry(40,42) wsingle(1) wsingle(2) wsingle(8) wsingle(11) wsingle(13) wsingle(17) wsingle(19) wsingle(24) wsingle(27) wsingle(28) wsingle(29) wsingle(31) wsingle(32) wsingle(39) wsingle(40) wsingle(44) wsingle(48) wsingle(49) wsingle(52) wsingle(59)
+Optimization: 1018
+Answer: 4
+marry(1,26) marry(2,36) marry(3,30) marry(4,35) marry(5,51) marry(6,6) marry(7,53) marry(8,9) marry(9,11) marry(10,56) marry(11,14) marry(12,10) marry(13,43) marry(14,5) marry(15,47) marry(16,15) marry(17,57) marry(18,4) marry(19,60) marry(20,18) marry(21,21) marry(22,33) marry(23,55) marry(24,46) marry(25,50) marry(26,45) marry(27,37) marry(28,38) marry(29,25) marry(30,7) marry(31,12) marry(32,34) marry(33,41) marry(34,16) marry(35,22) marry(36,23) marry(37,3) marry(38,42) marry(39,58) marry(40,54) wsingle(1) wsingle(2) wsingle(8) wsingle(13) wsingle(17) wsingle(19) wsingle(20) wsingle(24) wsingle(27) wsingle(28) wsingle(29) wsingle(31) wsingle(32) wsingle(39) wsingle(40) wsingle(44) wsingle(48) wsingle(49) wsingle(52) wsingle(59)
+Optimization: 1000
+Answer: 5
+marry(1,26) marry(2,36) marry(3,30) marry(4,35) marry(5,51) marry(6,6) marry(7,20) marry(8,9) marry(9,11) marry(10,56) marry(11,14) marry(12,10) marry(13,43) marry(14,5) marry(15,47) marry(16,15) marry(17,57) marry(18,4) marry(19,60) marry(20,18) marry(21,21) marry(22,33) marry(23,55) marry(24,46) marry(25,50) marry(26,45) marry(27,37) marry(28,38) marry(29,25) marry(30,7) marry(31,12) marry(32,58) marry(33,41) marry(34,16) marry(35,22) marry(36,23) marry(37,3) marry(38,42) marry(39,59) marry(40,54) wsingle(1) wsingle(2) wsingle(8) wsingle(13) wsingle(17) wsingle(19) wsingle(24) wsingle(27) wsingle(28) wsingle(29) wsingle(31) wsingle(32) wsingle(34) wsingle(39) wsingle(40) wsingle(44) wsingle(48) wsingle(49) wsingle(52) wsingle(53)
+Optimization: 995
+Answer: 6
+marry(1,26) marry(2,36) marry(3,30) marry(4,35) marry(5,51) marry(6,6) marry(7,20) marry(8,9) marry(9,11) marry(10,56) marry(11,14) marry(12,10) marry(13,43) marry(14,5) marry(15,47) marry(16,15) marry(17,57) marry(18,4) marry(19,60) marry(20,18) marry(21,21) marry(22,33) marry(23,55) marry(24,46) marry(25,50) marry(26,45) marry(27,37) marry(28,38) marry(29,25) marry(30,7) marry(31,12) marry(32,34) marry(33,41) marry(34,16) marry(35,22) marry(36,23) marry(37,3) marry(38,42) marry(39,58) marry(40,54) wsingle(1) wsingle(2) wsingle(8) wsingle(13) wsingle(17) wsingle(19) wsingle(24) wsingle(27) wsingle(28) wsingle(29) wsingle(31) wsingle(32) wsingle(39) wsingle(40) wsingle(44) wsingle(48) wsingle(49) wsingle(52) wsingle(53) wsingle(59)
+Optimization: 986
+OPTIMUM FOUND
+
+Models       : 6     
+  Optimum    : yes
+Optimization : 986
+Calls        : 1
+Time         : 841.023s (Solving: 699.38s 1st Model: 354.89s Unsat: 7.01s)
+CPU Time     : 838.810s
+
+Choices      : 2981    
+Conflicts    : 630      (Analyzed: 629)
+Restarts     : 5        (Average: 125.80 Last: 26)
+Model-Level  : 19.3    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 629      (Deleted: 0)
+  Binary     : 87       (Ratio:  13.83%)
+  Ternary    : 66       (Ratio:  10.49%)
+  Conflict   : 629      (Average Length:    6.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 146147   (Original: 144403 Auxiliary: 1744)
+Rules        : 175525   (1: 111668/117722 2: 202/0 3: 40/40 5: 57762/57762 6: 1/1)
+Bodies       : 83909   
+Equivalences : 230103   (Atom=Atom: 85763 Body=Body: 40 Other: 144300)
+Tight        : Yes
+Variables    : 60182    (Eliminated:    0 Frozen: 58336)
+Constraints  : 149146   (Binary: 60.6% Ternary: 20.0% Other: 19.4%)
+

@@ -1,0 +1,36 @@
+clingo version 4.5.4
+Reading from ...m-25pc-w-100pc--m-0pc-w-20pc--input.lp ...
+Solving...
+Answer: 1
+marry(2,4) marry(6,59) marry(8,38) marry(9,27) marry(10,3) marry(12,22) marry(14,42) marry(20,33) marry(22,21) marry(24,56) marry(31,28) marry(34,13) marry(35,55) marry(40,53) marry(43,26) marry(45,44) marry(48,34) marry(50,1) marry(52,2) marry(54,9) marry(56,14) marry(1,23) marry(3,57) marry(4,35) marry(5,43) marry(11,17) marry(13,32) marry(15,25) marry(16,31) marry(17,50) marry(18,37) marry(19,40) marry(21,51) marry(23,5) marry(25,45) marry(26,39) marry(27,10) marry(29,6) marry(30,29) marry(32,41) marry(33,16) marry(36,54) marry(38,49) marry(39,8) marry(41,58) marry(44,60) marry(47,46) marry(49,18) marry(51,12) marry(53,20) marry(55,11) marry(57,19) marry(58,24) marry(59,7) marry(60,48) marry(7,30) marry(42,36) marry(28,47) marry(37,52) msingle(46) wsingle(15)
+Optimization: 223
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 1+    
+  Optimum    : unknown
+Optimization : 223
+Calls        : 1
+Time         : 1000.000s (Solving: 919.90s 1st Model: 759.37s Unsat: 0.00s)
+CPU Time     : 997.060s
+
+Choices      : 3633    
+Conflicts    : 1255     (Analyzed: 1255)
+Restarts     : 12       (Average: 104.58 Last: 29)
+Model-Level  : 11.0    
+Problems     : 1        (Average Length: 0.00 Splits: 0)
+Lemmas       : 1255     (Deleted: 0)
+  Binary     : 148      (Ratio:  11.79%)
+  Ternary    : 105      (Ratio:   8.37%)
+  Conflict   : 1255     (Average Length:    5.6 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+
+Atoms        : 190275   (Original: 187295 Auxiliary: 2980)
+Rules        : 266579   (1: 219978/229722 2: 242/0 3: 60/60 5: 36796/36796 6: 1/1)
+Bodies       : 116364  
+Equivalences : 354335   (Atom=Atom: 140525 Body=Body: 17485 Other: 196325)
+Tight        : Yes
+Variables    : 49508    (Eliminated:    0 Frozen: 28962)
+Constraints  : 173842   (Binary: 72.9% Ternary: 16.5% Other: 10.7%)
+
